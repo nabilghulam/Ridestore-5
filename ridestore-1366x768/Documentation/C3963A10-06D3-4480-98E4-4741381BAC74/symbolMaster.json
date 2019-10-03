@@ -10,7 +10,7 @@
     "red": 0
   },
   "booleanOperation": -1,
-  "changeIdentifier": 964,
+  "changeIdentifier": 965,
   "clippingMaskMode": 0,
   "do_objectID": "C3963A10-06D3-4480-98E4-4741381BAC74",
   "exportOptions": {
@@ -37,7 +37,7 @@
     "do_objectID": "3180EB68-DBFA-4E84-9291-CFAD7CDDD2E3"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -62,7 +62,7 @@
       "id": "9AC31206-7EC8-4E5F-9637-EA427FCDC18E"
     }
   ],
-  "name": "Icon/Categories/Helm/White",
+  "name": "Icons/Categories/Helm/White",
   "nameIsFixed": true,
   "overrideProperties": [
     {

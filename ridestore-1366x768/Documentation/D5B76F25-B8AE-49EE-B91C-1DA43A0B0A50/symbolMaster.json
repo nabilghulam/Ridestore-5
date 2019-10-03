@@ -10,7 +10,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 453,
+  "changeIdentifier": 455,
   "clippingMaskMode": 0,
   "do_objectID": "D5B76F25-B8AE-49EE-B91C-1DA43A0B0A50",
   "exportOptions": {
@@ -37,7 +37,7 @@
     "do_objectID": "734823BD-8321-4717-9547-D3EFE1850172"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -62,8 +62,8 @@
       "id": "F7FA00AC-98DB-4D5F-AB8C-18B7C162F164"
     }
   ],
-  "name": "Icon/Categories/Knee Protector",
-  "nameIsFixed": false,
+  "name": "Icons/Categories/Knee Protector",
+  "nameIsFixed": true,
   "overrideProperties": [
   ],
   "resizesContent": false,

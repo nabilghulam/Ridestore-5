@@ -10,7 +10,7 @@
     "red": 0
   },
   "booleanOperation": -1,
-  "changeIdentifier": 327,
+  "changeIdentifier": 328,
   "clippingMaskMode": 0,
   "do_objectID": "13800A56-0BFC-4A48-87AE-C78EEA1B5A1A",
   "exportOptions": {
@@ -37,7 +37,7 @@
     "do_objectID": "A6C29495-504B-4B2A-8853-A600632AFE69"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -62,7 +62,7 @@
       "id": "F6A3016B-B71E-4D54-8A9F-33FFDE9A316E"
     }
   ],
-  "name": "Icon/Categories/Jacket/White",
+  "name": "Icons/Categories/Jacket/White",
   "nameIsFixed": true,
   "overrideProperties": [
     {

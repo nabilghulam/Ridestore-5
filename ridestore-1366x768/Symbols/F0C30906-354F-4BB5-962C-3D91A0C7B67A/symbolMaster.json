@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 9,
+  "changeIdentifier": 30,
   "clippingMaskMode": 0,
   "do_objectID": "F0C30906-354F-4BB5-962C-3D91A0C7B67A",
   "exportOptions": {
@@ -26,8 +26,8 @@
     "constrainProportions": false,
     "height": 64,
     "width": 64,
-    "x": 36060,
-    "y": -2061
+    "x": 12351,
+    "y": 821
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -50,15 +50,15 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "group",
       "id": "A297E46D-5EFC-48F0-8A02-1572FA86509F"
     }
   ],
-  "name": "Button (Play)",
-  "nameIsFixed": false,
+  "name": "Videoplayer/Buttons/Play",
+  "nameIsFixed": true,
   "overrideProperties": [
     {
       "_class": "MSImmutableOverrideProperty",

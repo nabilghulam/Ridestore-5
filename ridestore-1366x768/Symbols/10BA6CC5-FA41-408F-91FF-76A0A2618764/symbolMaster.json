@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 157,
+  "changeIdentifier": 172,
   "clippingMaskMode": 0,
   "do_objectID": "10BA6CC5-FA41-408F-91FF-76A0A2618764",
   "exportOptions": {
@@ -26,8 +26,8 @@
     "constrainProportions": false,
     "height": 38,
     "width": 311,
-    "x": 12596,
-    "y": 859
+    "x": 1990,
+    "y": 7076
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -50,15 +50,15 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "group",
       "id": "84F1BB91-9563-4716-B801-A35871B39F83"
     }
   ],
-  "name": "Badge/Few",
-  "nameIsFixed": false,
+  "name": "Category/Product/Badge/Few",
+  "nameIsFixed": true,
   "overrideProperties": [
     {
       "_class": "MSImmutableOverrideProperty",

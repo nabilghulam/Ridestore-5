@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 12,
+  "changeIdentifier": 30,
   "clippingMaskMode": 0,
   "do_objectID": "F387A1F2-C07A-4C39-9B5C-272CC48C1221",
   "exportOptions": {
@@ -26,8 +26,8 @@
     "constrainProportions": false,
     "height": 9,
     "width": 9,
-    "x": 15266,
-    "y": 0
+    "x": 1990,
+    "y": 1894
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -50,15 +50,15 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "oval",
       "id": "C5D95F10-3A41-483D-9523-5A56F5BBE6AE"
     }
   ],
-  "name": "List/Icon/Radio",
-  "nameIsFixed": false,
+  "name": "Category/Filter/List/Item/Radio/Circle",
+  "nameIsFixed": true,
   "overrideProperties": [
     {
       "_class": "MSImmutableOverrideProperty",

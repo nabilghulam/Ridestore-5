@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 1354,
+  "changeIdentifier": 1368,
   "clippingMaskMode": 0,
   "do_objectID": "6D244675-9810-4C6D-AD13-0164DC907708",
   "exportOptions": {
@@ -26,8 +26,8 @@
     "constrainProportions": false,
     "height": 105,
     "width": 1366,
-    "x": 11863,
-    "y": -1098
+    "x": 1990,
+    "y": 0
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -50,15 +50,15 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "group",
       "id": "CA465268-41FA-4EEF-969D-9A1C05633A69"
     }
   ],
-  "name": "Filter Bar",
-  "nameIsFixed": false,
+  "name": "Category/Filter",
+  "nameIsFixed": true,
   "overrideProperties": [
     {
       "_class": "MSImmutableOverrideProperty",

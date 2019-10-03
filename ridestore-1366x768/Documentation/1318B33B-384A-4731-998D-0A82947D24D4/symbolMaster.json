@@ -10,7 +10,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 453,
+  "changeIdentifier": 455,
   "clippingMaskMode": 0,
   "do_objectID": "1318B33B-384A-4731-998D-0A82947D24D4",
   "exportOptions": {
@@ -37,7 +37,7 @@
     "do_objectID": "7A76F8C7-67DB-48DB-92E1-EA010F28775C"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -62,8 +62,8 @@
       "id": "00A274CF-0B03-4914-BD44-0186EE7D344B"
     }
   ],
-  "name": "Icon/Categories/Watch",
-  "nameIsFixed": false,
+  "name": "Icons/Categories/Watch",
+  "nameIsFixed": true,
   "overrideProperties": [
   ],
   "resizesContent": false,

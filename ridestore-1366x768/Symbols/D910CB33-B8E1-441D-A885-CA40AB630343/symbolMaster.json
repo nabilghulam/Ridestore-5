@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 1296,
+  "changeIdentifier": 1316,
   "clippingMaskMode": 0,
   "do_objectID": "D910CB33-B8E1-441D-A885-CA40AB630343",
   "exportOptions": {
@@ -26,8 +26,8 @@
     "constrainProportions": false,
     "height": 31,
     "width": 200,
-    "x": 15691,
-    "y": 417
+    "x": 0,
+    "y": 997
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -50,15 +50,15 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "group",
       "id": "4CF02D1E-46F8-4067-A4FF-E9B538A7E14F"
     }
   ],
-  "name": "Navigation/Category/Skidjackor",
-  "nameIsFixed": false,
+  "name": "Bars/Navigation/Menu/Category",
+  "nameIsFixed": true,
   "overrideProperties": [
     {
       "_class": "MSImmutableOverrideProperty",

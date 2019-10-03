@@ -10,7 +10,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 453,
+  "changeIdentifier": 455,
   "clippingMaskMode": 0,
   "do_objectID": "9B706D75-2DB6-4F6F-8BE3-A267E7D91854",
   "exportOptions": {
@@ -37,7 +37,7 @@
     "do_objectID": "C6FF5110-2E23-4043-9505-14B67D3AE465"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -62,8 +62,8 @@
       "id": "A07B0499-E317-4900-9FFE-80F16DCF9285"
     }
   ],
-  "name": "Icon/Categories/Pants",
-  "nameIsFixed": false,
+  "name": "Icons/Categories/Pants",
+  "nameIsFixed": true,
   "overrideProperties": [
   ],
   "resizesContent": false,

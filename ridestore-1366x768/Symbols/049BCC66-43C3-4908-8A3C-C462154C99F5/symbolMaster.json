@@ -10,7 +10,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 3553,
+  "changeIdentifier": 3573,
   "clippingMaskMode": 0,
   "do_objectID": "049BCC66-43C3-4908-8A3C-C462154C99F5",
   "exportOptions": {
@@ -29,8 +29,8 @@
     "do_objectID": "13972526-9A86-4F0B-9702-11F9779C23F8",
     "height": 609,
     "width": 1366,
-    "x": 6566,
-    "y": 1910
+    "x": 7368,
+    "y": 2285
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout",
@@ -55,14 +55,14 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "group",
       "id": "3FC25DAF-EBFD-420A-8C22-339C10C9950A"
     }
   ],
-  "name": "Gallery/Images",
+  "name": "Product/Gallery",
   "nameIsFixed": true,
   "overrideProperties": [
     {

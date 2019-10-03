@@ -10,7 +10,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 1084,
+  "changeIdentifier": 1086,
   "clippingMaskMode": 0,
   "do_objectID": "EB1229C1-FE0E-4A05-B0B7-99FAE0D47D44",
   "exportOptions": {
@@ -37,7 +37,7 @@
     "do_objectID": "83ED5547-1243-41C9-8BEC-F6F3DE53F9D8"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -62,8 +62,8 @@
       "id": "B00112D5-3CC3-4704-889B-29B6D667F2F9"
     }
   ],
-  "name": "Icon/Categories/Camera",
-  "nameIsFixed": false,
+  "name": "Icons/Categories/Camera",
+  "nameIsFixed": true,
   "overrideProperties": [
   ],
   "resizesContent": false,

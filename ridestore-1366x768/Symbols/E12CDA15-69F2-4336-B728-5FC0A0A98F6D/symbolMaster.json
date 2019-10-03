@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 3,
+  "changeIdentifier": 20,
   "clippingMaskMode": 0,
   "do_objectID": "E12CDA15-69F2-4336-B728-5FC0A0A98F6D",
   "exportOptions": {
@@ -26,8 +26,8 @@
     "constrainProportions": false,
     "height": 13,
     "width": 19,
-    "x": 38400,
-    "y": -1835
+    "x": 5579,
+    "y": 904
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -50,15 +50,15 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "group",
       "id": "0551102C-8B03-41CC-99FC-E48580FF9DB7"
     }
   ],
-  "name": "Flag/Spain",
-  "nameIsFixed": false,
+  "name": "Icons/Flag/Spain",
+  "nameIsFixed": true,
   "overrideProperties": [
   ],
   "resizesContent": false,

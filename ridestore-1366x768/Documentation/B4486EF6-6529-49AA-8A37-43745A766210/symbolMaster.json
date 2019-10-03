@@ -10,7 +10,7 @@
     "red": 0
   },
   "booleanOperation": -1,
-  "changeIdentifier": 952,
+  "changeIdentifier": 953,
   "clippingMaskMode": 0,
   "do_objectID": "B4486EF6-6529-49AA-8A37-43745A766210",
   "exportOptions": {
@@ -37,7 +37,7 @@
     "do_objectID": "497ACC1B-10A8-43BE-B792-33A9C643CDF9"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -62,7 +62,7 @@
       "id": "08CA6763-2920-4C6B-AD8E-A8DE2B7456ED"
     }
   ],
-  "name": "Icon/Categories/Goggles/White",
+  "name": "Icons/Categories/Goggles/White",
   "nameIsFixed": true,
   "overrideProperties": [
     {

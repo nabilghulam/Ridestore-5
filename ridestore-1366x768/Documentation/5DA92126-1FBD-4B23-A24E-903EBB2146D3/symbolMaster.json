@@ -10,7 +10,7 @@
     "red": 0
   },
   "booleanOperation": -1,
-  "changeIdentifier": 334,
+  "changeIdentifier": 335,
   "clippingMaskMode": 0,
   "do_objectID": "5DA92126-1FBD-4B23-A24E-903EBB2146D3",
   "exportOptions": {
@@ -37,7 +37,7 @@
     "do_objectID": "8A39FB02-3DE2-4BC8-8306-0B88FB7C7166"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -62,7 +62,7 @@
       "id": "6E2B7E03-7377-470C-81FD-9F5A4C7F44F9"
     }
   ],
-  "name": "Icon/Categories/Underwear/White",
+  "name": "Icons/Categories/Underwear/White",
   "nameIsFixed": true,
   "overrideProperties": [
     {

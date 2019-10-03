@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 42,
+  "changeIdentifier": 63,
   "clippingMaskMode": 0,
   "do_objectID": "D3EAFEFA-E057-445E-A864-F3724EFB4921",
   "exportOptions": {
@@ -26,8 +26,8 @@
     "constrainProportions": false,
     "height": 14,
     "width": 14,
-    "x": 19386,
-    "y": 0
+    "x": 9674,
+    "y": 162
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -50,7 +50,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "oval",
@@ -61,13 +61,18 @@
       "id": "E197C620-14A2-4804-AB51-01BE5FDB5C86"
     }
   ],
-  "name": "Styleguide/Product/Item/Input/Radio",
-  "nameIsFixed": false,
+  "name": "Styleguide/Product/Radio",
+  "nameIsFixed": true,
   "overrideProperties": [
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
       "overrideName": "7B3F222C-945F-4579-BC8C-4497C6E5286F_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "E197C620-14A2-4804-AB51-01BE5FDB5C86_symbolID"
     }
   ],
   "resizesContent": false,

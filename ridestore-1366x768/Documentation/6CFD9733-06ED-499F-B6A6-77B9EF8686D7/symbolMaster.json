@@ -10,7 +10,7 @@
     "red": 0
   },
   "booleanOperation": -1,
-  "changeIdentifier": 334,
+  "changeIdentifier": 335,
   "clippingMaskMode": 0,
   "do_objectID": "6CFD9733-06ED-499F-B6A6-77B9EF8686D7",
   "exportOptions": {
@@ -37,7 +37,7 @@
     "do_objectID": "65C4E479-5229-41D6-A1D0-DF42731C154B"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -62,7 +62,7 @@
       "id": "4538C818-DEA1-4409-A684-F290843B22EB"
     }
   ],
-  "name": "Icon/Categories/Body Armor/White",
+  "name": "Icons/Categories/Body Armor/White",
   "nameIsFixed": true,
   "overrideProperties": [
     {

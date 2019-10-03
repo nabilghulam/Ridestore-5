@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 126,
+  "changeIdentifier": 147,
   "clippingMaskMode": 0,
   "do_objectID": "EB529D41-A864-4630-ABD4-2A3EA684CE56",
   "exportOptions": {
@@ -26,8 +26,8 @@
     "constrainProportions": false,
     "height": 143,
     "width": 535,
-    "x": 25938,
-    "y": -1230
+    "x": 5882,
+    "y": 4536
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -50,20 +50,25 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "group",
       "id": "A0A96A1A-0F68-4FE5-BE83-AF381E0F5857"
     }
   ],
-  "name": "Heros/Text/Center/Large",
-  "nameIsFixed": false,
+  "name": "Landing/Heros/Text/Center/Large",
+  "nameIsFixed": true,
   "overrideProperties": [
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
       "overrideName": "777BB648-8BCC-4551-8298-CAA4E1B7BB52_textStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "07EDD1C3-D45F-4990-B26B-F91E812CF312_textStyle"
     },
     {
       "_class": "MSImmutableOverrideProperty",

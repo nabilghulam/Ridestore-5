@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 3,
+  "changeIdentifier": 20,
   "clippingMaskMode": 0,
   "do_objectID": "D554D2AF-CFD4-4220-B088-5B61E7D0360E",
   "exportOptions": {
@@ -26,8 +26,8 @@
     "constrainProportions": false,
     "height": 13,
     "width": 19,
-    "x": 38400,
-    "y": -1496
+    "x": 5579,
+    "y": 565
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -50,15 +50,15 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "group",
       "id": "CC222141-DB77-457A-8520-C61E4555E320"
     }
   ],
-  "name": "Flag/Italy",
-  "nameIsFixed": false,
+  "name": "Icons/Flag/Italy",
+  "nameIsFixed": true,
   "overrideProperties": [
   ],
   "resizesContent": false,

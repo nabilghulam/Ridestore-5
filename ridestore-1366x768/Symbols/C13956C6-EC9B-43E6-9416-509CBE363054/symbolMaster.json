@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 3,
+  "changeIdentifier": 20,
   "clippingMaskMode": 0,
   "do_objectID": "C13956C6-EC9B-43E6-9416-509CBE363054",
   "exportOptions": {
@@ -26,8 +26,8 @@
     "constrainProportions": false,
     "height": 13,
     "width": 19,
-    "x": 38400,
-    "y": -1044
+    "x": 5579,
+    "y": 226
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -50,15 +50,15 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "group",
       "id": "C0F4AD02-8BAC-4E08-8116-F50421B54F8F"
     }
   ],
-  "name": "Flag/Finland",
-  "nameIsFixed": false,
+  "name": "Icons/Flag/Finland",
+  "nameIsFixed": true,
   "overrideProperties": [
   ],
   "resizesContent": false,

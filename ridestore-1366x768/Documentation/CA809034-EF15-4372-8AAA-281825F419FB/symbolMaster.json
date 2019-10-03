@@ -10,7 +10,7 @@
     "red": 0
   },
   "booleanOperation": -1,
-  "changeIdentifier": 947,
+  "changeIdentifier": 948,
   "clippingMaskMode": 0,
   "do_objectID": "CA809034-EF15-4372-8AAA-281825F419FB",
   "exportOptions": {
@@ -37,7 +37,7 @@
     "do_objectID": "4BE46A5E-5210-4B4E-89F7-A0D1077E405E"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -62,7 +62,7 @@
       "id": "ABFA872D-850F-40AE-8C5E-9580EB1D38B3"
     }
   ],
-  "name": "Icon/Categories/Mittens/White",
+  "name": "Icons/Categories/Mittens/White",
   "nameIsFixed": true,
   "overrideProperties": [
     {

@@ -10,7 +10,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 453,
+  "changeIdentifier": 455,
   "clippingMaskMode": 0,
   "do_objectID": "876195E2-62A4-4C7D-8252-CAFCEDFA8F5F",
   "exportOptions": {
@@ -37,7 +37,7 @@
     "do_objectID": "661156FB-3A6F-4CEE-B7F2-B65DEA95BB0E"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -62,8 +62,8 @@
       "id": "D862B3CB-1A3D-426D-B5D0-756F8E8E4B33"
     }
   ],
-  "name": "Icon/Categories/Elbow Protector",
-  "nameIsFixed": false,
+  "name": "Icons/Categories/Elbow Protector",
+  "nameIsFixed": true,
   "overrideProperties": [
   ],
   "resizesContent": false,

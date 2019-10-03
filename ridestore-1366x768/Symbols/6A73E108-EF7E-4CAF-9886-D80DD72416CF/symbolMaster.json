@@ -10,7 +10,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 2460,
+  "changeIdentifier": 2475,
   "clippingMaskMode": 0,
   "do_objectID": "6A73E108-EF7E-4CAF-9886-D80DD72416CF",
   "exportOptions": {
@@ -29,8 +29,8 @@
     "do_objectID": "B17AD6C3-35E5-4FAC-9146-A12AA5282F20",
     "height": 110,
     "width": 311,
-    "x": 13007,
-    "y": 932
+    "x": 1990,
+    "y": 8028
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout",
@@ -55,14 +55,14 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "group",
       "id": "49F5F551-A6AB-4B13-94B1-88876E6427C3"
     }
   ],
-  "name": "Quickbuy/Buttons",
+  "name": "Category/Product/Image/Quickbuy/Buttons",
   "nameIsFixed": true,
   "overrideProperties": [
     {

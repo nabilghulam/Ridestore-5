@@ -10,7 +10,7 @@
     "red": 0
   },
   "booleanOperation": -1,
-  "changeIdentifier": 947,
+  "changeIdentifier": 948,
   "clippingMaskMode": 0,
   "do_objectID": "37D81F90-6577-4B9F-A6C9-68CEBF0D4EE3",
   "exportOptions": {
@@ -37,7 +37,7 @@
     "do_objectID": "2A8BC402-C791-43F2-A181-AC9C6117EF0D"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -62,7 +62,7 @@
       "id": "DEA71784-70AF-4C16-AA0F-46BAFDF3968D"
     }
   ],
-  "name": "Icon/Categories/Wrench/White",
+  "name": "Icons/Categories/Wrench/White",
   "nameIsFixed": true,
   "overrideProperties": [
     {

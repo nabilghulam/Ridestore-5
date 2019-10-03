@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 154,
+  "changeIdentifier": 171,
   "clippingMaskMode": 0,
   "do_objectID": "77E6F355-DDCB-4658-BEEE-FD1AD8585F89",
   "exportOptions": {
@@ -26,7 +26,7 @@
     "constrainProportions": false,
     "height": 64,
     "width": 500,
-    "x": 17054,
+    "x": 11651,
     "y": 0
   },
   "groupLayout": {
@@ -50,7 +50,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "group",
@@ -61,8 +61,8 @@
       "id": "0762B3A4-3D08-4A75-8BC0-9EC0C219EE7F"
     }
   ],
-  "name": "Tab",
-  "nameIsFixed": false,
+  "name": "Tab/Default",
+  "nameIsFixed": true,
   "overrideProperties": [
     {
       "_class": "MSImmutableOverrideProperty",

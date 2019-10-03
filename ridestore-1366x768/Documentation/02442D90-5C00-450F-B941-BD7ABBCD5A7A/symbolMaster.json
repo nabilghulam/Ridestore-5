@@ -10,7 +10,7 @@
     "red": 0
   },
   "booleanOperation": -1,
-  "changeIdentifier": 950,
+  "changeIdentifier": 951,
   "clippingMaskMode": 0,
   "do_objectID": "02442D90-5C00-450F-B941-BD7ABBCD5A7A",
   "exportOptions": {
@@ -37,7 +37,7 @@
     "do_objectID": "CE468576-FAA9-4175-9042-E233A8CF7888"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -62,7 +62,7 @@
       "id": "0C33B54F-02A3-42B0-9807-3065084C6A73"
     }
   ],
-  "name": "Icon/Categories/Gloves/White",
+  "name": "Icons/Categories/Gloves/White",
   "nameIsFixed": true,
   "overrideProperties": [
     {

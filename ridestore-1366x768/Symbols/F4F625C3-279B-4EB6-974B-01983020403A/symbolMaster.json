@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 238,
+  "changeIdentifier": 256,
   "clippingMaskMode": 0,
   "do_objectID": "F4F625C3-279B-4EB6-974B-01983020403A",
   "exportOptions": {
@@ -26,8 +26,8 @@
     "constrainProportions": false,
     "height": 29,
     "width": 90,
-    "x": 24190,
-    "y": -1741
+    "x": 1990,
+    "y": 205
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -50,7 +50,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "rectangle",
@@ -65,13 +65,18 @@
       "id": "721E699D-19A5-439E-8CF6-9F8BF8B0B404"
     }
   ],
-  "name": "Filter/ActiveFilters/Filter",
-  "nameIsFixed": false,
+  "name": "Category/Filter/Active/Button",
+  "nameIsFixed": true,
   "overrideProperties": [
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
       "overrideName": "5CC69201-96DE-4C1A-A492-624DD8C8448E_textStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "721E699D-19A5-439E-8CF6-9F8BF8B0B404_symbolID"
     },
     {
       "_class": "MSImmutableOverrideProperty",

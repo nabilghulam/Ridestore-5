@@ -10,7 +10,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 1084,
+  "changeIdentifier": 1087,
   "clippingMaskMode": 0,
   "do_objectID": "122E3EA4-C295-4F35-B75C-60699F6C7F0A",
   "exportOptions": {
@@ -37,7 +37,7 @@
     "do_objectID": "7338F108-796D-49FC-BF77-B6123D192935"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -62,8 +62,8 @@
       "id": "013C2F78-C48A-4330-8FC4-A848AF820C6B"
     }
   ],
-  "name": "Icon/Categories/Skis",
-  "nameIsFixed": false,
+  "name": "Icons/Categories/Skis",
+  "nameIsFixed": true,
   "overrideProperties": [
   ],
   "resizesContent": false,

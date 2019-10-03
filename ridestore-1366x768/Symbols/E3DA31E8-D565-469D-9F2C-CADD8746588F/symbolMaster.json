@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 4507,
+  "changeIdentifier": 4527,
   "clippingMaskMode": 0,
   "do_objectID": "E3DA31E8-D565-469D-9F2C-CADD8746588F",
   "exportOptions": {
@@ -26,8 +26,8 @@
     "constrainProportions": false,
     "height": 505,
     "width": 1366,
-    "x": 100,
-    "y": 347
+    "x": 0,
+    "y": 392
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -50,15 +50,15 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "group",
       "id": "1784015A-9A27-429B-A525-0433F1B66994"
     }
   ],
-  "name": "Navigation-2",
-  "nameIsFixed": false,
+  "name": "Bars/Navigation/Menu",
+  "nameIsFixed": true,
   "overrideProperties": [
     {
       "_class": "MSImmutableOverrideProperty",
@@ -119,11 +119,6 @@
       "_class": "MSImmutableOverrideProperty",
       "canOverride": false,
       "overrideName": "1F05B0EA-EFB8-4403-86C4-EA9D1F118810_symbolID"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": false,
-      "overrideName": "18E483E9-EFB7-41FC-A083-971C72651E02_textStyle"
     },
     {
       "_class": "MSImmutableOverrideProperty",

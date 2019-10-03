@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 3,
+  "changeIdentifier": 20,
   "clippingMaskMode": 0,
   "do_objectID": "AA50C2C0-A954-456F-B1D8-613FEC9F1FF1",
   "exportOptions": {
@@ -26,8 +26,8 @@
     "constrainProportions": false,
     "height": 13,
     "width": 19,
-    "x": 38400,
-    "y": -1722
+    "x": 5579,
+    "y": 678
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -50,15 +50,15 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "group",
       "id": "1C4E2846-4CA2-458B-B06D-5BA13181E36A"
     }
   ],
-  "name": "Flag/Netherlands",
-  "nameIsFixed": false,
+  "name": "Icons/Flag/Netherlands",
+  "nameIsFixed": true,
   "overrideProperties": [
   ],
   "resizesContent": false,

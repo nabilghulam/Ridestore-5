@@ -10,7 +10,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 453,
+  "changeIdentifier": 455,
   "clippingMaskMode": 0,
   "do_objectID": "9B624D04-D162-446C-AD4C-940406E4968C",
   "exportOptions": {
@@ -62,8 +62,8 @@
       "id": "247BF9BD-1FC0-463A-AD19-19E9B2B99259"
     }
   ],
-  "name": "Icon/Categories/Giftcard",
-  "nameIsFixed": false,
+  "name": "Icons/Categories/Giftcard",
+  "nameIsFixed": true,
   "overrideProperties": [
   ],
   "resizesContent": false,

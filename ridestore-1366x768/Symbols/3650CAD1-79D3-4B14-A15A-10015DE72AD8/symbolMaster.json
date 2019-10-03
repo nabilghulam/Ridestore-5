@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 293,
+  "changeIdentifier": 313,
   "clippingMaskMode": 0,
   "do_objectID": "3650CAD1-79D3-4B14-A15A-10015DE72AD8",
   "exportOptions": {
@@ -26,8 +26,8 @@
     "constrainProportions": false,
     "height": 41,
     "width": 41,
-    "x": 8523,
-    "y": -364
+    "x": 7368,
+    "y": 3135
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -50,15 +50,15 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "group",
       "id": "B313A91B-F587-46F6-BA1D-CDF15D7DCF0F"
     }
   ],
-  "name": "Button (Previous)",
-  "nameIsFixed": false,
+  "name": "Product/Gallery/Controls/Play",
+  "nameIsFixed": true,
   "overrideProperties": [
     {
       "_class": "MSImmutableOverrideProperty",

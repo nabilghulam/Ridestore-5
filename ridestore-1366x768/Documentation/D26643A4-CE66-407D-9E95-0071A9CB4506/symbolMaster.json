@@ -10,7 +10,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 453,
+  "changeIdentifier": 455,
   "clippingMaskMode": 0,
   "do_objectID": "D26643A4-CE66-407D-9E95-0071A9CB4506",
   "exportOptions": {
@@ -37,7 +37,7 @@
     "do_objectID": "5ED9F669-A1F7-46EB-9EF9-1F3E58F5AF0B"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -62,8 +62,8 @@
       "id": "F34A5B8D-E16D-410C-A5F3-028D0BB97E85"
     }
   ],
-  "name": "Icon/Categories/Glasses",
-  "nameIsFixed": false,
+  "name": "Icons/Categories/Glasses",
+  "nameIsFixed": true,
   "overrideProperties": [
   ],
   "resizesContent": false,

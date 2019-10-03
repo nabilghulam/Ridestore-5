@@ -10,7 +10,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 453,
+  "changeIdentifier": 455,
   "clippingMaskMode": 0,
   "do_objectID": "ED7EA5DC-F483-477C-BCC0-F699C4D6F9C3",
   "exportOptions": {
@@ -37,7 +37,7 @@
     "do_objectID": "5DC91365-E7AF-4BC1-BE46-7B6DDC070AF4"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -62,8 +62,8 @@
       "id": "313EF748-7C94-4562-9D38-A8EEDFBF176F"
     }
   ],
-  "name": "Icon/Categories/Sweater",
-  "nameIsFixed": false,
+  "name": "Icons/Categories/Sweater",
+  "nameIsFixed": true,
   "overrideProperties": [
   ],
   "resizesContent": false,

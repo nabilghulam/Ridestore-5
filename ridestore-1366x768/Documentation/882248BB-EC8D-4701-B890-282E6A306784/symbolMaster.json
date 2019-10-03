@@ -10,7 +10,7 @@
     "red": 0
   },
   "booleanOperation": -1,
-  "changeIdentifier": 1096,
+  "changeIdentifier": 1097,
   "clippingMaskMode": 0,
   "do_objectID": "882248BB-EC8D-4701-B890-282E6A306784",
   "exportOptions": {
@@ -37,7 +37,7 @@
     "do_objectID": "34817EB0-0A90-4807-9E7B-49795782F0C8"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -62,7 +62,7 @@
       "id": "907EE7C8-23D0-4306-AD7D-94D4434EA9F4"
     }
   ],
-  "name": "Icon/Categories/Snowboard/White",
+  "name": "Icons/Categories/Snowboard/White",
   "nameIsFixed": true,
   "overrideProperties": [
     {

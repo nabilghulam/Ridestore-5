@@ -10,7 +10,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 499,
+  "changeIdentifier": 501,
   "clippingMaskMode": 0,
   "do_objectID": "5FC2E579-DBEC-44F0-BCA0-1D26EC164F1D",
   "exportOptions": {
@@ -37,7 +37,7 @@
     "do_objectID": "259F0842-C4A3-4D97-A6BD-4554BE717C2E"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -62,8 +62,8 @@
       "id": "683A7F96-9000-4A24-97D3-BEF545B2472C"
     }
   ],
-  "name": "Icon/Categories/Beanie",
-  "nameIsFixed": false,
+  "name": "Icons/Categories/Beanie",
+  "nameIsFixed": true,
   "overrideProperties": [
   ],
   "resizesContent": false,

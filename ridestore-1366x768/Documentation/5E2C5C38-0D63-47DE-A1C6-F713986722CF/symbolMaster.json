@@ -10,7 +10,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 1084,
+  "changeIdentifier": 1086,
   "clippingMaskMode": 0,
   "do_objectID": "5E2C5C38-0D63-47DE-A1C6-F713986722CF",
   "exportOptions": {
@@ -37,7 +37,7 @@
     "do_objectID": "F56F33FD-8248-4900-9CAA-A1CF2AB11B22"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -62,8 +62,8 @@
       "id": "BFACDF58-2C5B-4480-983F-39B1A6F4034F"
     }
   ],
-  "name": "Icon/Categories/Accessories",
-  "nameIsFixed": false,
+  "name": "Icons/Categories/Accessories",
+  "nameIsFixed": true,
   "overrideProperties": [
   ],
   "resizesContent": false,

@@ -10,7 +10,7 @@
     "red": 0
   },
   "booleanOperation": -1,
-  "changeIdentifier": 327,
+  "changeIdentifier": 328,
   "clippingMaskMode": 0,
   "do_objectID": "8CA80267-2BA5-4D29-8C2F-FDBA17FE9769",
   "exportOptions": {
@@ -37,7 +37,7 @@
     "do_objectID": "6FD77D55-5801-4636-9662-4F08DF3BCB31"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -62,7 +62,7 @@
       "id": "8C61CC80-E155-44D8-A3E4-1B0095930CAE"
     }
   ],
-  "name": "Icon/Categories/Tanktop/White",
+  "name": "Icons/Categories/Tanktop/White",
   "nameIsFixed": true,
   "overrideProperties": [
     {

@@ -10,7 +10,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 454,
+  "changeIdentifier": 456,
   "clippingMaskMode": 0,
   "do_objectID": "FCFE2155-12E9-4FDE-A1B7-26550584045F",
   "exportOptions": {
@@ -62,8 +62,8 @@
       "id": "90C2690D-C711-40A7-8869-93B119E74E76"
     }
   ],
-  "name": "Icon/Categories/Facemask",
-  "nameIsFixed": false,
+  "name": "Icons/Categories/Facemask",
+  "nameIsFixed": true,
   "overrideProperties": [
   ],
   "resizesContent": false,

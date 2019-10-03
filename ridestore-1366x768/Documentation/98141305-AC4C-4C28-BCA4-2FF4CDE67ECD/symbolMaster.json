@@ -10,7 +10,7 @@
     "red": 0
   },
   "booleanOperation": -1,
-  "changeIdentifier": 947,
+  "changeIdentifier": 948,
   "clippingMaskMode": 0,
   "do_objectID": "98141305-AC4C-4C28-BCA4-2FF4CDE67ECD",
   "exportOptions": {
@@ -37,7 +37,7 @@
     "do_objectID": "F389DC39-EEA7-4BF7-92D1-699DCEEACF56"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -62,7 +62,7 @@
       "id": "54E9EAD1-0DFD-400D-B4E0-5D7B789CE8A8"
     }
   ],
-  "name": "Icon/Categories/Socks/White",
+  "name": "Icons/Categories/Socks/White",
   "nameIsFixed": true,
   "overrideProperties": [
     {

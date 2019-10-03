@@ -10,7 +10,7 @@
     "red": 0
   },
   "booleanOperation": -1,
-  "changeIdentifier": 336,
+  "changeIdentifier": 338,
   "clippingMaskMode": 0,
   "do_objectID": "4AD92CAF-2A3A-4E1F-94D9-31B595FAB900",
   "exportOptions": {
@@ -37,7 +37,7 @@
     "do_objectID": "59BBE8F9-3D4F-4C4B-838F-52BB4A1A3457"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -62,8 +62,8 @@
       "id": "75721019-4F13-4E94-9D9C-16BB2F883EC7"
     }
   ],
-  "name": "Icon/Categories/Facemask",
-  "nameIsFixed": false,
+  "name": "Icons/Categories/Facemask",
+  "nameIsFixed": true,
   "overrideProperties": [
     {
       "_class": "MSImmutableOverrideProperty",

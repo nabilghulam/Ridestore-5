@@ -10,7 +10,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 89,
+  "changeIdentifier": 110,
   "clippingMaskMode": 0,
   "do_objectID": "D66597D3-F979-412B-877F-13F0D88AF1F0",
   "exportOptions": {
@@ -29,8 +29,8 @@
     "do_objectID": "E255E8D7-7DFD-42D0-9F84-7A0B8CDEC757",
     "height": 31,
     "width": 150,
-    "x": 19136,
-    "y": 0
+    "x": 9674,
+    "y": 382
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout",
@@ -55,20 +55,30 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "group",
       "id": "1F4FA679-83FF-4844-A966-E8D1632F2B04"
     }
   ],
-  "name": "Styleguide/Product/Item/Select/Normal",
+  "name": "Styleguide/Product/Select/Normal",
   "nameIsFixed": true,
   "overrideProperties": [
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
       "overrideName": "6C0C845F-F4BF-4CEA-BCB4-CE100F1C1EF6_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "35E977EF-DF98-4E20-BB9E-15DF0829E5D3_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "A5890660-56DE-452E-816A-F04B54C3F7B7_layerStyle"
     },
     {
       "_class": "MSImmutableOverrideProperty",

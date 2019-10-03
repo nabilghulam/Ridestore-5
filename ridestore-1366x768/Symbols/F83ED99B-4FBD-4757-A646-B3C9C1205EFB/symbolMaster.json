@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 3,
+  "changeIdentifier": 20,
   "clippingMaskMode": 0,
   "do_objectID": "F83ED99B-4FBD-4757-A646-B3C9C1205EFB",
   "exportOptions": {
@@ -26,8 +26,8 @@
     "constrainProportions": false,
     "height": 13,
     "width": 19,
-    "x": 38400,
-    "y": -1948
+    "x": 5579,
+    "y": 1017
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -50,15 +50,15 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "group",
       "id": "9C150B3A-E4E1-4A19-A737-B58E68DB1866"
     }
   ],
-  "name": "Flag/Sweden",
-  "nameIsFixed": false,
+  "name": "Icons/Flag/Sweden",
+  "nameIsFixed": true,
   "overrideProperties": [
   ],
   "resizesContent": false,

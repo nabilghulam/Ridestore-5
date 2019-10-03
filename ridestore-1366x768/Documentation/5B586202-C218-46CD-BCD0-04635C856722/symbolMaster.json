@@ -10,7 +10,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 453,
+  "changeIdentifier": 455,
   "clippingMaskMode": 0,
   "do_objectID": "5B586202-C218-46CD-BCD0-04635C856722",
   "exportOptions": {
@@ -37,7 +37,7 @@
     "do_objectID": "E7DA0E75-D887-4DBE-A0BD-36D20205D2AF"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -62,8 +62,8 @@
       "id": "9D35A172-2B96-4656-A7CC-5188B88E38CD"
     }
   ],
-  "name": "Icon/Categories/Hat",
-  "nameIsFixed": false,
+  "name": "Icons/Categories/Hat",
+  "nameIsFixed": true,
   "overrideProperties": [
   ],
   "resizesContent": false,

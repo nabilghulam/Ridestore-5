@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 91,
+  "changeIdentifier": 112,
   "clippingMaskMode": 0,
   "do_objectID": "74CC0D52-29A8-4DAF-AC59-12EC23534BDE",
   "exportOptions": {
@@ -26,8 +26,8 @@
     "constrainProportions": false,
     "height": 84,
     "width": 1286,
-    "x": 8031,
-    "y": 3625
+    "x": 7368,
+    "y": 3276
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -50,20 +50,20 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "group",
       "id": "9421059C-9BE6-4ACC-8B2C-30E872A8DD38"
     }
   ],
-  "name": "Button (Skip)",
-  "nameIsFixed": false,
+  "name": "Product/Gallery/Skip",
+  "nameIsFixed": true,
   "overrideProperties": [
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "E8CD42E4-AE01-4ECC-A337-CD66D1D54406_layerStyle"
+      "overrideName": "2E3F6FBD-351C-4D10-8F5D-1735BF4F91BA_symbolID"
     }
   ],
   "resizesContent": false,

@@ -10,7 +10,7 @@
     "red": 0
   },
   "booleanOperation": -1,
-  "changeIdentifier": 334,
+  "changeIdentifier": 335,
   "clippingMaskMode": 0,
   "do_objectID": "65728BD6-4AB8-4FDC-A55C-CFD07A0813DA",
   "exportOptions": {
@@ -37,7 +37,7 @@
     "do_objectID": "B2EA8A2A-7013-4683-A232-416FF9F17CBD"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -62,7 +62,7 @@
       "id": "661E21CC-909B-4423-946A-4A7AD83E0BF4"
     }
   ],
-  "name": "Icon/Categories/Neck Protector/White",
+  "name": "Icons/Categories/Neck Protector/White",
   "nameIsFixed": true,
   "overrideProperties": [
     {

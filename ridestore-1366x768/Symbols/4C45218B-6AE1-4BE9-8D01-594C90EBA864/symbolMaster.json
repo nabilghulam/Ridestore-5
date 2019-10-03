@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 212,
+  "changeIdentifier": 283,
   "clippingMaskMode": 0,
   "do_objectID": "4C45218B-6AE1-4BE9-8D01-594C90EBA864",
   "exportOptions": {
@@ -26,8 +26,8 @@
     "constrainProportions": false,
     "height": 36,
     "width": 165,
-    "x": 12338,
-    "y": 2050
+    "x": 1990,
+    "y": 4555
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -50,30 +50,25 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "group",
       "id": "0C4974E7-238A-4D1D-BB5E-919CB681F4A6"
     }
   ],
-  "name": "Categories/Filter/Dropdown/Search",
-  "nameIsFixed": false,
+  "name": "Category/Filter/Search/Input",
+  "nameIsFixed": true,
   "overrideProperties": [
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "16CDB353-A200-4B86-BD67-441AAED026F2_layerStyle"
+      "overrideName": "1F3BED60-CC32-41D0-A8DD-16055E0BD737_symbolID"
     },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "F973D40E-7431-4E92-9042-749BE5DA3D96_layerStyle"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "34AF29D8-49AE-4525-AC6A-FBBDC81FAE0B_textStyle"
+      "overrideName": "9402041E-17C3-49A8-BE73-579F71859E21_layerStyle"
     },
     {
       "_class": "MSImmutableOverrideProperty",

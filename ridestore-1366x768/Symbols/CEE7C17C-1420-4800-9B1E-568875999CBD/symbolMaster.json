@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 225,
+  "changeIdentifier": 240,
   "clippingMaskMode": 0,
   "do_objectID": "CEE7C17C-1420-4800-9B1E-568875999CBD",
   "exportOptions": {
@@ -26,8 +26,8 @@
     "constrainProportions": false,
     "height": 300,
     "width": 342,
-    "x": 20310,
-    "y": -1739
+    "x": 3556,
+    "y": 1647
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -50,15 +50,15 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "group",
       "id": "21986260-91C0-45E6-8627-44BD855B0828"
     }
   ],
-  "name": "Footer/Navigation/Column (Links)",
-  "nameIsFixed": false,
+  "name": "Footer/Navigation",
+  "nameIsFixed": true,
   "overrideProperties": [
     {
       "_class": "MSImmutableOverrideProperty",

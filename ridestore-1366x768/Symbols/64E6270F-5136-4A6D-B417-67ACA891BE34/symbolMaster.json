@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 19,
+  "changeIdentifier": 37,
   "clippingMaskMode": 0,
   "do_objectID": "64E6270F-5136-4A6D-B417-67ACA891BE34",
   "exportOptions": {
@@ -26,8 +26,8 @@
     "constrainProportions": false,
     "height": 70,
     "width": 70,
-    "x": 25768,
-    "y": -1741
+    "x": 5882,
+    "y": 446
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -50,20 +50,20 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "group",
       "id": "16E6329B-D349-4A04-BFA1-0B0A3B6FE60F"
     }
   ],
-  "name": "Heros/Badges/Category",
-  "nameIsFixed": false,
+  "name": "Landing/Heros/Badges/Category",
+  "nameIsFixed": true,
   "overrideProperties": [
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "3372FFDB-C1FC-468A-AE12-CBDE58D120DB_symbolID"
+      "overrideName": "D255B489-306D-487D-B561-4E4976482372_symbolID"
     }
   ],
   "resizesContent": false,

@@ -10,7 +10,7 @@
     "red": 0
   },
   "booleanOperation": -1,
-  "changeIdentifier": 328,
+  "changeIdentifier": 329,
   "clippingMaskMode": 0,
   "do_objectID": "91ACD66D-9BC4-43BB-B543-05CA789D365A",
   "exportOptions": {
@@ -37,7 +37,7 @@
     "do_objectID": "2E637CB9-8111-4C3D-B02F-720740E6707F"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -55,14 +55,14 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "group",
       "id": "31A0FAEE-9AE2-46B7-95E3-48194803E362"
     }
   ],
-  "name": "Icon/Categories/Pants/White",
+  "name": "Icons/Categories/Pants/White",
   "nameIsFixed": true,
   "overrideProperties": [
     {

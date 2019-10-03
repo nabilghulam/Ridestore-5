@@ -10,7 +10,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 453,
+  "changeIdentifier": 455,
   "clippingMaskMode": 0,
   "do_objectID": "C397D8BB-35E7-40CD-A23C-BB913C2288E9",
   "exportOptions": {
@@ -37,7 +37,7 @@
     "do_objectID": "0E5248C5-AE1E-477B-A116-428C1CC66691"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -62,8 +62,8 @@
       "id": "5B2EC286-8362-4A64-B38E-0CEF97095FC2"
     }
   ],
-  "name": "Icon/Categories/Tshirt",
-  "nameIsFixed": false,
+  "name": "Icons/Categories/Tshirt",
+  "nameIsFixed": true,
   "overrideProperties": [
   ],
   "resizesContent": false,

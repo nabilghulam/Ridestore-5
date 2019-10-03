@@ -4,12 +4,12 @@
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
-    "blue": 1,
-    "green": 1,
-    "red": 1
+    "blue": 0,
+    "green": 0,
+    "red": 0
   },
   "booleanOperation": -1,
-  "changeIdentifier": 3,
+  "changeIdentifier": 28,
   "clippingMaskMode": 0,
   "do_objectID": "EF08BEFB-242F-454F-BF06-EC1718541AA3",
   "exportOptions": {
@@ -26,13 +26,13 @@
     "constrainProportions": false,
     "height": 33,
     "width": 100,
-    "x": 34095,
-    "y": -2061
+    "x": 1566,
+    "y": 445
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
-  "hasBackgroundColor": false,
+  "hasBackgroundColor": true,
   "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
@@ -41,7 +41,7 @@
     "guides": [
     ]
   },
-  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInExport": false,
   "includeBackgroundColorInInstance": false,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
@@ -50,7 +50,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "rectangle",
@@ -61,9 +61,19 @@
       "id": "B7BD8F31-F426-49AF-B7CA-A968AE7B78E5"
     }
   ],
-  "name": "Button/New Items",
-  "nameIsFixed": false,
+  "name": "Button/New",
+  "nameIsFixed": true,
   "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "B7BD8F31-F426-49AF-B7CA-A968AE7B78E5_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "B7BD8F31-F426-49AF-B7CA-A968AE7B78E5_textStyle"
+    }
   ],
   "resizesContent": false,
   "resizingConstraint": 63,

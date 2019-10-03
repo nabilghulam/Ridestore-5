@@ -10,7 +10,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 1084,
+  "changeIdentifier": 1086,
   "clippingMaskMode": 0,
   "do_objectID": "27BB2069-8136-462B-AA37-44B424D5F0F2",
   "exportOptions": {
@@ -37,7 +37,7 @@
     "do_objectID": "DEBB3409-8345-40AF-B645-44EE80581BED"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -62,8 +62,8 @@
       "id": "D200FBE1-4703-487E-85AA-060FAB09C9F2"
     }
   ],
-  "name": "Icon/Categories/Backpack",
-  "nameIsFixed": false,
+  "name": "Icons/Categories/Backpack",
+  "nameIsFixed": true,
   "overrideProperties": [
   ],
   "resizesContent": false,

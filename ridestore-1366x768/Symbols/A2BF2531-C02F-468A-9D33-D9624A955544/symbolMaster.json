@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 1919,
+  "changeIdentifier": 1935,
   "clippingMaskMode": 0,
   "do_objectID": "A2BF2531-C02F-468A-9D33-D9624A955544",
   "exportOptions": {
@@ -26,8 +26,8 @@
     "constrainProportions": false,
     "height": 110,
     "width": 311,
-    "x": 12596,
-    "y": 932
+    "x": 1990,
+    "y": 7818
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -50,25 +50,20 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "group",
       "id": "DDA6E3D1-3DF0-4F12-9511-E6DF8C99C490"
     }
   ],
-  "name": "Quickbuy",
+  "name": "Category/Product/Image/Quickbuy",
   "nameIsFixed": true,
   "overrideProperties": [
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "2371D1D4-04AB-4660-9333-5E6D5F5345A9_layerStyle"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "17B6181F-E58A-4393-A039-8D065DF62767_layerStyle"
+      "overrideName": "3F4E0369-4E87-45FB-B5A6-27C9E95250E0_symbolID"
     },
     {
       "_class": "MSImmutableOverrideProperty",

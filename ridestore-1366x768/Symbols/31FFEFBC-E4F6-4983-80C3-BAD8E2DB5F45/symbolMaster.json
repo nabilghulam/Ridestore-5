@@ -10,7 +10,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 747,
+  "changeIdentifier": 767,
   "clippingMaskMode": 0,
   "do_objectID": "31FFEFBC-E4F6-4983-80C3-BAD8E2DB5F45",
   "exportOptions": {
@@ -29,8 +29,8 @@
     "do_objectID": "DD3A63AC-3866-450D-B12D-F0135AB73785",
     "height": 16,
     "width": 1286,
-    "x": 16046,
-    "y": 124
+    "x": 0,
+    "y": 276
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout",
@@ -55,7 +55,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "text",
@@ -78,7 +78,7 @@
       "id": "289B980D-7C50-4A6D-97F8-73BCF430C680"
     }
   ],
-  "name": "Breadcrumbs/2",
+  "name": "Bars/Navigation/Breadcrumbs/2",
   "nameIsFixed": true,
   "overrideProperties": [
     {
@@ -89,7 +89,7 @@
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "DF4571FD-11D3-4F61-8081-164ACF863F56_symbolID"
+      "overrideName": "87303EA7-F713-49BA-831E-5DEA1F368DA4_symbolID"
     },
     {
       "_class": "MSImmutableOverrideProperty",

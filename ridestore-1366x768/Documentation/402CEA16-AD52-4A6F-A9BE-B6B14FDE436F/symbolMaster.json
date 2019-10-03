@@ -10,7 +10,7 @@
     "red": 0
   },
   "booleanOperation": -1,
-  "changeIdentifier": 956,
+  "changeIdentifier": 957,
   "clippingMaskMode": 0,
   "do_objectID": "402CEA16-AD52-4A6F-A9BE-B6B14FDE436F",
   "exportOptions": {
@@ -37,7 +37,7 @@
     "do_objectID": "2E328E82-7909-4C68-9FEB-FEFD4E9483FD"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -62,7 +62,7 @@
       "id": "01FF2F4E-EE90-4DAC-AEE8-D3D243026510"
     }
   ],
-  "name": "Icon/Categories/Technical Underwear/White",
+  "name": "Icons/Categories/Technical Underwear/White",
   "nameIsFixed": true,
   "overrideProperties": [
     {

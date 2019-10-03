@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 3,
+  "changeIdentifier": 20,
   "clippingMaskMode": 0,
   "do_objectID": "4159CD83-9D54-45BD-B784-D97C75287E27",
   "exportOptions": {
@@ -26,8 +26,8 @@
     "constrainProportions": false,
     "height": 13,
     "width": 20,
-    "x": 38519,
-    "y": -2061
+    "x": 5579,
+    "y": 339
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -50,15 +50,15 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "group",
       "id": "521C439B-4C2D-470F-BF4E-CB2D15C4E237"
     }
   ],
-  "name": "Flag/France",
-  "nameIsFixed": false,
+  "name": "Icons/Flag/France",
+  "nameIsFixed": true,
   "overrideProperties": [
   ],
   "resizesContent": false,

@@ -10,7 +10,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 98,
+  "changeIdentifier": 114,
   "clippingMaskMode": 0,
   "do_objectID": "EC055DAF-2163-4510-A34E-CEFA2A48B623",
   "exportOptions": {
@@ -29,8 +29,8 @@
     "do_objectID": "0E8C6FDD-64C2-4FDE-80C9-3210CA89BAB8",
     "height": 50,
     "width": 124,
-    "x": 30867,
-    "y": -1741
+    "x": 1566,
+    "y": 578
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout",
@@ -55,7 +55,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "rectangle",
@@ -66,8 +66,8 @@
       "id": "FFBA5EE6-B04D-48E9-AA47-3BFE3624E8B5"
     }
   ],
-  "name": "Button/Normal",
-  "nameIsFixed": false,
+  "name": "Button/Normal/Default",
+  "nameIsFixed": true,
   "overrideProperties": [
     {
       "_class": "MSImmutableOverrideProperty",

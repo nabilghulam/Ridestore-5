@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 72,
+  "changeIdentifier": 89,
   "clippingMaskMode": 0,
   "do_objectID": "FEEBC7CB-A363-4B94-92FE-3B2325F74095",
   "exportOptions": {
@@ -26,8 +26,8 @@
     "constrainProportions": false,
     "height": 16,
     "width": 1286,
-    "x": 16046,
-    "y": 73
+    "x": 0,
+    "y": 160
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -50,7 +50,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "text",
@@ -69,7 +69,7 @@
       "id": "9C757390-3862-41E1-9CDC-135328E043F5"
     }
   ],
-  "name": "Breadcrumbs/1",
+  "name": "Bars/Navigation/Breadcrumbs/1",
   "nameIsFixed": true,
   "overrideProperties": [
     {

@@ -10,7 +10,7 @@
     "red": 0
   },
   "booleanOperation": -1,
-  "changeIdentifier": 968,
+  "changeIdentifier": 969,
   "clippingMaskMode": 0,
   "do_objectID": "A13B3CFE-F0CE-4A97-9F9D-DC5BC35EB809",
   "exportOptions": {
@@ -37,7 +37,7 @@
     "do_objectID": "9671199B-6E8A-4E32-91CA-DC015A1146F3"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -62,7 +62,7 @@
       "id": "2D825B42-7B65-4F08-8859-DD14370C2F9C"
     }
   ],
-  "name": "Icon/Categories/Belts/White",
+  "name": "Icons/Categories/Belts/White",
   "nameIsFixed": true,
   "overrideProperties": [
     {

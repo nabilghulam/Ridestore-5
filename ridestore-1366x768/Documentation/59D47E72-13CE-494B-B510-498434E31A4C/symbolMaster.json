@@ -10,7 +10,7 @@
     "red": 0
   },
   "booleanOperation": -1,
-  "changeIdentifier": 327,
+  "changeIdentifier": 328,
   "clippingMaskMode": 0,
   "do_objectID": "59D47E72-13CE-494B-B510-498434E31A4C",
   "exportOptions": {
@@ -37,7 +37,7 @@
     "do_objectID": "17395FCC-C360-49FC-9892-E8C3200BEB08"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -62,7 +62,7 @@
       "id": "BB29F67E-7D63-4AC6-9386-D214597066B0"
     }
   ],
-  "name": "Icon/Categories/Shorts/White",
+  "name": "Icons/Categories/Shorts/White",
   "nameIsFixed": true,
   "overrideProperties": [
     {

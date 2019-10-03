@@ -10,7 +10,7 @@
     "red": 0
   },
   "booleanOperation": -1,
-  "changeIdentifier": 355,
+  "changeIdentifier": 356,
   "clippingMaskMode": 0,
   "do_objectID": "669F6E87-3E33-4815-8B0C-F3AA9BF60F45",
   "exportOptions": {
@@ -37,7 +37,7 @@
     "do_objectID": "FFD26142-0640-4735-A32D-10B5C006F18C"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -55,14 +55,14 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "group",
       "id": "55D634E0-BD50-4525-83C5-7437704E5EF4"
     }
   ],
-  "name": "Icon/Categories/Shirt/White",
+  "name": "Icons/Categories/Shirt/White",
   "nameIsFixed": true,
   "overrideProperties": [
     {

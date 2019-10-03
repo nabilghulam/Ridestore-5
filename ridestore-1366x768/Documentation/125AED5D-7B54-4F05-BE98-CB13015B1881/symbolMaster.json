@@ -10,7 +10,7 @@
     "red": 0
   },
   "booleanOperation": -1,
-  "changeIdentifier": 968,
+  "changeIdentifier": 969,
   "clippingMaskMode": 0,
   "do_objectID": "125AED5D-7B54-4F05-BE98-CB13015B1881",
   "exportOptions": {
@@ -37,7 +37,7 @@
     "do_objectID": "3E786448-E653-4C25-81CD-F5830FFEA5D1"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -62,7 +62,7 @@
       "id": "DEE66BB8-75BA-4BA4-B2ED-CEF587F753E0"
     }
   ],
-  "name": "Icon/Categories/Headphones/White",
+  "name": "Icons/Categories/Headphones/White",
   "nameIsFixed": true,
   "overrideProperties": [
     {

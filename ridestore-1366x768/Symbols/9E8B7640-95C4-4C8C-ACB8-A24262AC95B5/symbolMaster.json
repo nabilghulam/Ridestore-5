@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 339,
+  "changeIdentifier": 360,
   "clippingMaskMode": 0,
   "do_objectID": "9E8B7640-95C4-4C8C-ACB8-A24262AC95B5",
   "exportOptions": {
@@ -26,8 +26,8 @@
     "constrainProportions": false,
     "height": 15,
     "width": 165,
-    "x": 12338,
-    "y": 2123
+    "x": 1990,
+    "y": 1664
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -50,7 +50,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "text",
@@ -61,18 +61,13 @@
       "id": "46BD49E0-CFB1-491A-9CEE-74E64E834A18"
     }
   ],
-  "name": "List/Checkbox",
-  "nameIsFixed": false,
+  "name": "Category/Filter/List/Item/Checkbox",
+  "nameIsFixed": true,
   "overrideProperties": [
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
       "overrideName": "46BD49E0-CFB1-491A-9CEE-74E64E834A18_symbolID"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "2E73DBF7-521A-4C84-AD74-2D2596980B2F_textStyle"
     },
     {
       "_class": "MSImmutableOverrideProperty",

@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 3,
+  "changeIdentifier": 22,
   "clippingMaskMode": 0,
   "do_objectID": "451CEA0B-049D-4ED1-9F52-4E9A9587B84F",
   "exportOptions": {
@@ -26,8 +26,8 @@
     "constrainProportions": false,
     "height": 25,
     "width": 103,
-    "x": 38639,
-    "y": -2061
+    "x": 5579,
+    "y": 6368
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -50,15 +50,15 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "group",
       "id": "DE4038D0-E3D0-4180-87A3-2C231F8319DC"
     }
   ],
-  "name": "Logo",
-  "nameIsFixed": false,
+  "name": "Icons/Misc/Logo",
+  "nameIsFixed": true,
   "overrideProperties": [
   ],
   "resizesContent": false,

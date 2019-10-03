@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 3,
+  "changeIdentifier": 25,
   "clippingMaskMode": 0,
   "do_objectID": "D76FA63B-6D80-4442-B338-FCFBEAC9398D",
   "exportOptions": {
@@ -26,8 +26,8 @@
     "constrainProportions": false,
     "height": 6,
     "width": 6,
-    "x": 32212,
-    "y": -2061
+    "x": 9674,
+    "y": 276
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -50,15 +50,15 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "oval",
       "id": "812F758D-710E-42F8-9DB2-2DDFD6EEF8B8"
     }
   ],
-  "name": "Circle",
-  "nameIsFixed": false,
+  "name": "Styleguide/Product/Radio/Circle",
+  "nameIsFixed": true,
   "overrideProperties": [
   ],
   "resizesContent": false,

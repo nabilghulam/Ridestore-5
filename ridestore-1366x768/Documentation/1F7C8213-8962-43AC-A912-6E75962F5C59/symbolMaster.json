@@ -10,7 +10,7 @@
     "red": 0
   },
   "booleanOperation": -1,
-  "changeIdentifier": 984,
+  "changeIdentifier": 985,
   "clippingMaskMode": 0,
   "do_objectID": "1F7C8213-8962-43AC-A912-6E75962F5C59",
   "exportOptions": {
@@ -37,7 +37,7 @@
     "do_objectID": "96C490AD-997C-47A2-98EB-CFC56B358514"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -62,7 +62,7 @@
       "id": "ECF20E14-3C6C-440B-8A84-424B011ACAB9"
     }
   ],
-  "name": "Icon/Categories/Giftcard/White",
+  "name": "Icons/Categories/Giftcard/White",
   "nameIsFixed": true,
   "overrideProperties": [
     {

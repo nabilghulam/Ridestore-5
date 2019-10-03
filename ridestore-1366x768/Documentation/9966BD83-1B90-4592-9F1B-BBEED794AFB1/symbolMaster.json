@@ -10,7 +10,7 @@
     "red": 0
   },
   "booleanOperation": -1,
-  "changeIdentifier": 979,
+  "changeIdentifier": 980,
   "clippingMaskMode": 0,
   "do_objectID": "9966BD83-1B90-4592-9F1B-BBEED794AFB1",
   "exportOptions": {
@@ -37,7 +37,7 @@
     "do_objectID": "F511DC6D-2CC5-41D4-B45C-82B11B39E416"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -62,7 +62,7 @@
       "id": "41C2EBFA-6FC1-4A0A-AC82-FB86971699C4"
     }
   ],
-  "name": "Icon/Categories/Shoe/White",
+  "name": "Icons/Categories/Shoe/White",
   "nameIsFixed": true,
   "overrideProperties": [
     {

@@ -10,7 +10,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 1084,
+  "changeIdentifier": 1086,
   "clippingMaskMode": 0,
   "do_objectID": "961010F4-796C-4792-BC3E-22E503853813",
   "exportOptions": {
@@ -62,8 +62,8 @@
       "id": "1AC08D63-D3DF-4258-9AD4-7283E8A8569A"
     }
   ],
-  "name": "Icon/Categories/Overall",
-  "nameIsFixed": false,
+  "name": "Icons/Categories/Overall",
+  "nameIsFixed": true,
   "overrideProperties": [
   ],
   "resizesContent": false,

@@ -10,7 +10,7 @@
     "red": 0
   },
   "booleanOperation": -1,
-  "changeIdentifier": 948,
+  "changeIdentifier": 949,
   "clippingMaskMode": 0,
   "do_objectID": "B9C6982A-9C74-4AE9-8B07-073ADD410C58",
   "exportOptions": {
@@ -37,7 +37,7 @@
     "do_objectID": "B1DC6185-4899-43B4-8D73-DDF4EF1460EF"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -62,7 +62,7 @@
       "id": "16191AD5-97C4-4902-839A-BEB91252667B"
     }
   ],
-  "name": "Icon/Categories/Stickers/White",
+  "name": "Icons/Categories/Stickers/White",
   "nameIsFixed": true,
   "overrideProperties": [
     {

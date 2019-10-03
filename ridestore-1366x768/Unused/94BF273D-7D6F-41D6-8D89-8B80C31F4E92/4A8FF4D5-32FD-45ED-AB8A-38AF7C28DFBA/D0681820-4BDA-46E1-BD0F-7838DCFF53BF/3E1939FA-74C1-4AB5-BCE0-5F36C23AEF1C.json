@@ -1,0 +1,83 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "3E1939FA-74C1-4AB5-BCE0-5F36C23AEF1C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 465.0000000000001,
+    "width": 311,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Item (Product-1)",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "C8B7AECF-982F-4189-AA5E-96B9FEBF3E87_stringValue",
+      "value": "Newsoul Face Hood Vit"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "D1D0DCC3-A9A5-41D1-8773-BAE1E5D7BC15_stringValue",
+      "value": "399 sek"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "504F736F-A3C1-41A9-B683-E586F680A3F3/F8356A99-84FE-46AE-B384-DD183D270AA0_symbolID",
+      "value": "86EDEB9E-D041-4D18-BAF5-E25BD3B2D400"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "504F736F-A3C1-41A9-B683-E586F680A3F3/F8356A99-84FE-46AE-B384-DD183D270AA0/E2513680-6A45-49BE-A6EE-867DF9F1456D_stringValue",
+      "value": "New"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "504F736F-A3C1-41A9-B683-E586F680A3F3/28E73BB8-C631-4D72-B955-189CD7F49CB8_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/a163c6f0a1f3973d8d449df3c4ce6d2ebceb7497.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "661337D9-646E-49C8-8511-F0ED8E8D8372_layerStyle",
+      "value": "D2F99126-BB0C-452D-97E5-74EEB6671E83"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "2431887C-FBDB-460B-9AA3-4206850DBB79",
+  "verticalSpacing": 0
+}

@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 113,
+  "changeIdentifier": 137,
   "clippingMaskMode": 0,
   "do_objectID": "D270A8DF-B898-481D-9781-577DBE73971C",
   "exportOptions": {
@@ -26,8 +26,8 @@
     "constrainProportions": false,
     "height": 50,
     "width": 162,
-    "x": 23928,
-    "y": -1741
+    "x": 12351,
+    "y": 671
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -57,8 +57,8 @@
       "id": "843235DC-8AE7-4A98-8557-8564C953A90A"
     }
   ],
-  "name": "Item (Feature)",
-  "nameIsFixed": false,
+  "name": "Videoplayer/Buttons/Option",
+  "nameIsFixed": true,
   "overrideProperties": [
     {
       "_class": "MSImmutableOverrideProperty",
@@ -68,12 +68,12 @@
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "25B3CCF3-DB53-4DFE-8F0A-387AB77F968C_textStyle"
+      "overrideName": "2FB76C11-05CC-4D27-9D4F-2163175E48FB_symbolID"
     },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "78401DCB-8625-41E1-BEA2-D6381B741260_layerStyle"
+      "overrideName": "25B3CCF3-DB53-4DFE-8F0A-387AB77F968C_textStyle"
     }
   ],
   "resizesContent": false,

@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 133,
+  "changeIdentifier": 149,
   "clippingMaskMode": 0,
   "do_objectID": "AB41E41C-3A85-43E4-9E85-A0EEC7AE2E60",
   "exportOptions": {
@@ -26,8 +26,8 @@
     "constrainProportions": false,
     "height": 172,
     "width": 455,
-    "x": 19755,
-    "y": -1731
+    "x": 3556,
+    "y": 1375
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -57,8 +57,8 @@
       "id": "FD3C0CEC-C703-421D-9669-6284F28F8250"
     }
   ],
-  "name": "Column (Guarantees)",
-  "nameIsFixed": false,
+  "name": "Footer/Guarantee",
+  "nameIsFixed": true,
   "overrideProperties": [
     {
       "_class": "MSImmutableOverrideProperty",

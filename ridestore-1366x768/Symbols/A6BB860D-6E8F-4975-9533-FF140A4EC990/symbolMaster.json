@@ -10,7 +10,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 13049,
+  "changeIdentifier": 13064,
   "clippingMaskMode": 0,
   "do_objectID": "A6BB860D-6E8F-4975-9533-FF140A4EC990",
   "exportOptions": {
@@ -29,8 +29,8 @@
     "do_objectID": "80937765-ADFD-4961-83CD-AAD4626ACD5F",
     "height": 340,
     "width": 223,
-    "x": 11864,
-    "y": 3570
+    "x": 1990,
+    "y": 334
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout",
@@ -55,7 +55,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "rectangle",
@@ -82,9 +82,14 @@
       "id": "DAD36457-BFAC-4DF6-9C67-C9F83B070F11"
     }
   ],
-  "name": "Categories/Filter/Color",
+  "name": "Category/Filter/Color",
   "nameIsFixed": true,
   "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "6E3B5B84-EB07-40BF-AE10-69D2FA729EAB_layerStyle"
+    },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
