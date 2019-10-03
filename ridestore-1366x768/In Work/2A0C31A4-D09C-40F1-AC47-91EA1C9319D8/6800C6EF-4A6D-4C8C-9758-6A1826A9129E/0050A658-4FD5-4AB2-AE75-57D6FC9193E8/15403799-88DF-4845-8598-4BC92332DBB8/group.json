@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "15403799-88DF-4845-8598-4BC92332DBB8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "89C6FECE-67CF-4C8E-9BD7-99D218B43A46",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C7798875-9092-41BF-AE02-FEC3F2D0F607",
+    "height": 76,
+    "width": 124,
+    "x": 618,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "B0CAD467-9B87-411B-BF61-7801D7230A56"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "CB9CFCF2-5602-49D1-8CBF-9620EA792536"
+    },
+    {
+      "class": "group",
+      "id": "BC76A20B-E12E-457B-B0FC-1952F0C0740C"
+    }
+  ],
+  "name": "Brand",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4B0F805C-AC62-4C17-8CBC-C68FAB1DC860",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

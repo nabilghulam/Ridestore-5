@@ -1,0 +1,82 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "EE4715B9-BA49-4805-8065-F3D18B1C2282",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "132F476F-EDF8-4BC6-881F-C166870115FB",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "BD8AF65D-41B4-4953-B6AB-6D150555B838",
+    "height": 60,
+    "width": 1366,
+    "x": 0,
+    "y": 276
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Row (Filters)",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "FDB1E433-4DDB-456F-8F97-1CA775D349BD",
+      "overrideName": "F06EF1E1-6CB0-424B-9978-0B0E750582AF_stringValue",
+      "value": "Storlek"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3608BD36-90E8-4FEC-9A29-D88C9800F3F8",
+      "overrideName": "08A093DB-25F6-4E76-B6CD-5694766B8D9B/48D37A3C-D565-4B9C-8099-8C443D744589_stringValue",
+      "value": "Märke"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6645C32B-39E3-4931-9851-93D77A4746D9",
+      "overrideName": "A0DD237F-521D-42BB-954E-6BF73809453A/48D37A3C-D565-4B9C-8099-8C443D744589_stringValue",
+      "value": "Storlek"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F02DB3F6-1EB6-4C3D-B009-F7B101BB47D7",
+      "overrideName": "115CA01F-3896-45BD-8EB5-E0B979816AC9/48D37A3C-D565-4B9C-8099-8C443D744589_stringValue",
+      "value": "Foder"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E2E0A6AB-09B3-4BA5-81C0-F4631739116B",
+      "overrideName": "A23EFA3F-E155-49A7-BD0C-3AF92E412184/48D37A3C-D565-4B9C-8099-8C443D744589_stringValue",
+      "value": "Färg"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E984D669-8DA5-4A10-838E-94077E7B7D30",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "65657490-80FC-4057-ADA0-8F1A0A26412A",
+  "verticalSpacing": 0
+}

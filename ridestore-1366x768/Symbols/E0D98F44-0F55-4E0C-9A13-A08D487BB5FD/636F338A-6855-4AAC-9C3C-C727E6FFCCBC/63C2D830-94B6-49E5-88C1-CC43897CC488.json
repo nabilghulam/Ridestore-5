@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "63C2D830-94B6-49E5-88C1-CC43897CC488",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "29C059E0-0F07-4D64-8CE2-4432F0642EF9",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "49F1B0A7-AC81-4B09-953C-FAA32661EFE7",
+    "height": 55,
+    "width": 470,
+    "x": 0,
+    "y": 594
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Tab/Small",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "78D7586D-8F17-4177-A0A7-14BCF2A52761",
+      "overrideName": "14B775E9-507C-4FD1-A89E-855217B69789_stringValue",
+      "value": "Kontakt"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7E3577EB-1127-40BB-8FBB-E95C42795C5D",
+      "overrideName": "12A004A9-02CB-4BA2-B00E-094159C750DD_layerStyle",
+      "value": "6D9133A7-923E-42E1-87B2-D15F7B443B66"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4FE9FCCC-5B39-495B-BE55-13B97A3A9993",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "CC45A164-9554-4ADB-9DFF-C81071C42E79",
+  "verticalSpacing": 0
+}

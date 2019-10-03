@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "5B2EC286-8362-4A64-B38E-0CEF97095FC2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E9E3625D-A66E-4D11-B47B-028A6713CFB2",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8533C937-BFD5-4471-B9E3-CB97D2C95F8B",
+    "height": 31,
+    "width": 32,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "9F85E19A-12B7-4241-9964-816E046F6FA5"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "7D5366A8-0C90-4A46-A60D-BBB49B8758A3"
+    },
+    {
+      "class": "group",
+      "id": "BF424972-5D0D-4D56-BA5D-FFEE4197C521"
+    }
+  ],
+  "name": "Icon/Categories/Tshirt",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "DD651FEF-15DF-4241-A7F1-61C00C156DCC",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

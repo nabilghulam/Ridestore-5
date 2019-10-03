@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "9BF62184-5F3A-4614-A869-EA25FED08689",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F9387C63-E137-4EDC-BB02-8F299EB461DE",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2E857C4F-A85B-4D47-932C-A651F9611DFF",
+    "height": 1100,
+    "width": 635,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Heros/Column-2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C7F4F1D4-81BC-4049-B83E-12404D20FE28",
+      "overrideName": "8D242F34-9FF1-42FF-8040-407210F47892_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "AD0523E7-0C8F-4E8C-9885-F4A738AB1EA6",
+      "overrideName": "E3DB86A9-9AC5-402F-B172-0CA91C2A3239_symbolID",
+      "value": ""
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F890CD2D-6CF6-4932-B2DA-C249DD653154",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "E8A4A25A-BA1D-43F8-914B-842457260FAE",
+  "verticalSpacing": 0
+}

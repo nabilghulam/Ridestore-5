@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "16B4BDED-82E0-4EE5-8A68-B6D7DEB162F7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "767A4853-DBB2-4FC8-A900-ABCE2C385465",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "97380FB7-7058-4281-8D44-66AF61DEF400",
+    "height": 31,
+    "width": 32,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "F360B7B5-6989-4EA4-B2F1-D83275A1DD77"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "811A4EB2-6F1D-461B-A8AA-60BDA133B1F6"
+    },
+    {
+      "class": "group",
+      "id": "DD15E66E-3DDB-47EE-B9CE-FFD3CBCE844A"
+    }
+  ],
+  "name": "Icon/Categories/Sweater",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4DA1FEF8-FA76-40A5-BE81-3E0A5DABA432",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

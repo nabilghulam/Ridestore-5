@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "C75B8ED3-8016-438F-87C9-56EC96178A4B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0E636C66-1AFF-46ED-8746-14ACB7248901",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E221F090-BA97-4A11-9441-A0CED520248A",
+    "height": 298,
+    "width": 339,
+    "x": 40,
+    "y": 281
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "name": "Shopthelook/Category",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "33A3BDA0-7C9D-486C-97DD-A810B86FD052",
+      "overrideName": "B0430F84-EEEC-4F38-9A51-B998905DA81D_stringValue",
+      "value": "Accessories"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1FFE7518-1CB7-4A1B-95E1-E4DC644146DD",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "A1D50DDC-E03A-4F3A-8A52-F7D30AB691D7",
+  "verticalSpacing": 0
+}

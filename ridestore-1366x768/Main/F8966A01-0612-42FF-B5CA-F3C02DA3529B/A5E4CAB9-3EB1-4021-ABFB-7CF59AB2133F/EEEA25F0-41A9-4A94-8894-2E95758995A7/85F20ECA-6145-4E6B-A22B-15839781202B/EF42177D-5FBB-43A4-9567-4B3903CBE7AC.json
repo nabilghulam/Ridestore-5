@@ -1,0 +1,74 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "EF42177D-5FBB-43A4-9567-4B3903CBE7AC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2127B5CF-23D9-4099-8D33-610846D28B5F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "FDBEE72A-FB83-46BE-AC7F-0DDFAB9CD5BC",
+    "height": 160,
+    "width": 360.5385826771654,
+    "x": 8.810729923425242e-13,
+    "y": 180
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Product/Goggles/Highlight",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E8047A71-F0F3-4DE8-BBCB-F13075F0D42B",
+      "overrideName": "6C9CE1ED-DCDC-45AC-ACD2-454BDAF8AF0F_stringValue",
+      "value": "Feels soft to the skin and keeps the cold and snow out"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "BB9588F0-E887-4095-B302-B3AE3F7A8985",
+      "overrideName": "0476D5B9-2C1C-4082-BE2D-9D87CBD9BA8F_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/8510d9856d208d18ff5e154a280a02a16d25d8f1.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "FD80728D-DD55-4BD7-A6A0-0FAB84969921",
+      "overrideName": "7EEA6879-B4D8-4189-9A33-46FDCCF94AB8_stringValue",
+      "value": "Lycra Wrist Gaiters"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2A6EA485-952B-4B11-B30F-64E50EFDFAD8",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "0ED4B0E3-FBA7-4090-88C7-215E20A4F898",
+  "verticalSpacing": 0
+}

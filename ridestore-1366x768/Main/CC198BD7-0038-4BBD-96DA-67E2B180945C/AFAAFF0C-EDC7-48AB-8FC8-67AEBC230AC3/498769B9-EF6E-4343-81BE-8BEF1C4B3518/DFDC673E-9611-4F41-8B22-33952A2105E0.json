@@ -1,0 +1,74 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "DFDC673E-9611-4F41-8B22-33952A2105E0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "62B5271E-3D54-4E6F-9D19-A9779CD03D41",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "DBBFFEE2-13AD-409F-89F8-313525478BA2",
+    "height": 494.9999999999999,
+    "width": 325,
+    "x": 643,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Image (Product)",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6386AD36-89CA-4EEB-98DE-F2B68A5FEB26",
+      "overrideName": "19873287-F041-4693-8FAF-C4DCED5AB8BC/28E73BB8-C631-4D72-B955-189CD7F49CB8_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/1145dbee2da072088bbcbdc8f8735b8cfc0d7350.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "38D45B16-C111-4FE2-8F5A-AA99B06358C7",
+      "overrideName": "F0F5AB2F-AA13-4266-B1A8-181CBEDEEA04_stringValue",
+      "value": "Rambler W Hood"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A66149D7-AC14-4257-8156-75CE4EE1ACDB",
+      "overrideName": "4E665E08-4833-4F3D-B8D2-132E3251213B_stringValue",
+      "value": "999 sek"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "759181AF-345E-417B-ADFB-6271AACDFE86",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "D8A05B5C-1E7A-48A3-A05E-DF1B447D1174",
+  "verticalSpacing": 0
+}

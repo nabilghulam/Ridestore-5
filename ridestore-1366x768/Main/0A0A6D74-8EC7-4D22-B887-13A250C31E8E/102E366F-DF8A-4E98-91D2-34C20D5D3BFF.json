@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "102E366F-DF8A-4E98-91D2-34C20D5D3BFF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B802847F-4629-4B2F-BEEE-1017E3E021B6",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2DC7C6E6-5CFC-4057-80B5-31C49C277242",
+    "height": 1275,
+    "width": 1368,
+    "x": 0,
+    "y": 1409
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Footer",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "703C7983-F0D2-4F9C-94EB-B64F7646C502",
+      "overrideName": "5CA47AA7-CD07-4608-BFB8-182B09448DA6_stringValue",
+      "value": "Your e-mail"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1350048A-8D2D-4E70-9B07-E64B8273FFAE",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "C508F8DB-77F6-483B-B609-5E6059A48B53",
+  "verticalSpacing": 0
+}

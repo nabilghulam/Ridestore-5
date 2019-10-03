@@ -1,0 +1,124 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "738B71FD-68F9-4FAC-90EC-4E39CFBE078F",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "2A0C31A4-D09C-40F1-AC47-91EA1C9319D8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5D6097B3-9333-4264-AD44-8DF5F18552D4",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "BCD9F36A-0E8B-486E-AF16-72A2AC3FDF11",
+    "height": 5219,
+    "width": 1366,
+    "x": 1516,
+    "y": -1863
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "7CEE5F6A-E994-4B49-AB0F-D7EE643B0C8D"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "E7F9BD2A-272B-4220-9936-19A82398D3C5",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "50666EA7-E9AA-4537-8DDE-91C69C82B941"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C5BB61D0-10CA-4470-A838-7CE6DA0DCEBB"
+    },
+    {
+      "class": "group",
+      "id": "861FF4CF-364F-4AE5-9542-E5F0E387F0D9"
+    },
+    {
+      "class": "group",
+      "id": "D9F6231C-D5B1-4B5D-AF97-ED4304F52965"
+    },
+    {
+      "class": "group",
+      "id": "6800C6EF-4A6D-4C8C-9758-6A1826A9129E"
+    },
+    {
+      "class": "group",
+      "id": "269D7538-A9A3-4966-81C5-0195A7D2FFAE"
+    },
+    {
+      "class": "group",
+      "id": "30FB5BA6-F85A-42EA-8F7D-C94A4BC0E5A6"
+    },
+    {
+      "class": "text",
+      "id": "6C85A2B4-704E-4C13-882D-235CB2D60063"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "16EEB0C6-1B99-4C5D-9920-91AB3B3BD12B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "012F4844-E610-463F-AA50-D4045A3E1687"
+    },
+    {
+      "class": "group",
+      "id": "3EBEB509-B627-4AE5-9B03-ED99ACAFFB69"
+    }
+  ],
+  "name": ".Landing",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "BE2770E5-4CD8-40CD-A104-2BD45DB25B10",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "3DD92D87-1D1F-4B2E-9EE9-183972AC7D5F",
+    "guides": [
+    ]
+  }
+}

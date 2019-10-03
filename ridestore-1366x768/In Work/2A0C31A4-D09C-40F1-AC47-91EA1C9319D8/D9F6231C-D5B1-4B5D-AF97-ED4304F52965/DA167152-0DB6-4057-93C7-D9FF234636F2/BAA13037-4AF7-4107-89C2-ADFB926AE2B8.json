@@ -1,0 +1,68 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "BAA13037-4AF7-4107-89C2-ADFB926AE2B8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "FCB961A7-61BD-4FB8-8DE5-2E1CE764F6E1",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3D2BAC4E-1197-4C7E-B876-156E23210C78",
+    "height": 375,
+    "width": 246,
+    "x": 260,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Home/Main/Category with Image",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6D8DAC32-445F-4F75-9321-25B00571E422",
+      "overrideName": "AE2A0EC3-474D-444B-B12C-2B94EF13F00F_stringValue",
+      "value": "Pants Women"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "638ED632-E109-435E-B380-D6C0FFEF8F23",
+      "overrideName": "087E28EB-7C91-480C-BD2D-0F6D7D419FA1_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/93c8467fd03ab71c2010caedb1b335eea066463f.png",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4B1C9B03-15FA-490B-A11B-27C310A2A6A8",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "E5B34258-5876-44D2-AE68-A13480590E79",
+  "verticalSpacing": 0
+}

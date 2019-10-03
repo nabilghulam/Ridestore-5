@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "955393B9-2E15-41A4-BAF5-57633AC787B4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2FCE11A6-69FC-4189-82C6-D3C3C5A7EB98",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "96C93471-48F7-4CBC-BDCD-06A673B3236D",
+    "height": 17,
+    "width": 25,
+    "x": 75,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "5A1D012B-A4C7-47EC-96E6-F410715C0EAE"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "text",
+      "id": "EB4730C2-A14E-43CA-89DD-AAD3DD36AAD5"
+    }
+  ],
+  "name": "Switch (Men)",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "368EC840-65C6-4E1B-AE4B-33297C1D0CA3",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

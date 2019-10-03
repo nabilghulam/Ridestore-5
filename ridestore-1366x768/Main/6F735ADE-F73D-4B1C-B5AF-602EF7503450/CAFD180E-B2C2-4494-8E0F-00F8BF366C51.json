@@ -1,0 +1,294 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "CAFD180E-B2C2-4494-8E0F-00F8BF366C51",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "AAEA0A02-8025-43BE-906D-64A854838409",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "06F7589D-F5CF-486F-84D1-99A71BD508D7",
+    "height": 1001,
+    "width": 1366,
+    "x": 0,
+    "y": 2487
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Section (Shop the Look)",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5C5B81FA-1757-4F3C-A838-6B4D8E3049E7",
+      "overrideName": "9888902E-9519-4FBB-9938-A9FBF2869358_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/f7c31cd37285e2aa2cfc92113e6b2efb59bc95e0.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "EC8C0467-9589-4F33-9222-81D249DE3F74",
+      "overrideName": "D4C26E1B-004B-441E-9BC0-FC14D32AB26C_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/e2d69c9e5b81c26d952605401fc7cba1abeda6e0.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "53129E36-230A-422F-A5FF-1C187EBE8B12",
+      "overrideName": "F8369EB7-7F79-4B42-8405-8A5A4EE43960_stringValue",
+      "value": "Dope Hiker W Jacka"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "ABDFB250-68DA-471A-B8E5-57FA791EFC46",
+      "overrideName": "8A703EE6-838B-4848-9F4F-CDDB2E0819EC/B0430F84-EEEC-4F38-9A51-B998905DA81D_stringValue",
+      "value": "Outfit"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "EBA03C0E-A73E-494C-BDCF-BE18563C8148",
+      "overrideName": "8A703EE6-838B-4848-9F4F-CDDB2E0819EC/1789177B-80B6-4686-93D2-78A9DBD536EC/DB286D05-54FB-4163-ACD6-E126835B4A02_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/e50e5fbe6c34f9df7d60a61f2d8db6d725d27b93.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "37E860E4-4D9F-493C-A952-9591E1FC2C02",
+      "overrideName": "8A703EE6-838B-4848-9F4F-CDDB2E0819EC/1789177B-80B6-4686-93D2-78A9DBD536EC/56F976BD-C5AF-4710-976A-411F2AFB10E3_stringValue",
+      "value": "Dope Copain Square Longsleeve"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "AAC4A6C3-E568-4EA2-8AE9-46C82337BAE6",
+      "overrideName": "8A703EE6-838B-4848-9F4F-CDDB2E0819EC/1789177B-80B6-4686-93D2-78A9DBD536EC/C78CCF04-7839-4483-89BE-253ACBC825D0_stringValue",
+      "value": "349 sek"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D280C623-7B82-4C0B-9A5F-087002D7FCB4",
+      "overrideName": "4E8192C6-2AE4-473B-B3B9-EB9532DD8392_stringValue",
+      "value": "Dope Rambler W Byxa"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2CDFEA21-F426-4D39-BC4B-E36C00AB0653",
+      "overrideName": "73A69DCE-D737-4BC1-8DB4-394D4B6A2347_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/f018b0275da1cfbd6c5203569020f76aefd7c08b.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1014DF21-6EA0-44E1-9127-0C7B48869723",
+      "overrideName": "65051D14-43EC-4036-8540-4DD6745D8883_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/9fa4f1264f5f5990b29c6e11ec66fc63ef712032.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "69AC43AD-42DD-46BA-9F7D-E15A1FEBA2FC",
+      "overrideName": "433B29A9-BEE9-44F1-9840-1F892E3839FE_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/4e32357b45d8cb66aba83d2400c0167dfe65d603.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "EA0C0992-7DC5-4460-89D6-18CC105966AF",
+      "overrideName": "04F40716-8FCD-4B93-AD15-2D055A262FED_stringValue",
+      "value": "Dope Solitude Mössa"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C20C02F9-CD38-40DB-AEB4-AD2FE4296313",
+      "overrideName": "7588745B-F0E0-41A5-AC70-2AB2ABD61F78_stringValue",
+      "value": "799 sek"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "BC0514D6-B4C6-4165-BA57-B70A4DF3A87B",
+      "overrideName": "D0EEE2B5-CEC9-47EA-A907-3616EBDEAA44_stringValue",
+      "value": "1299 sek"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8328956C-2D04-4B90-B6DE-E3F42F162C11",
+      "overrideName": "C64306B3-B472-41ED-B158-8ACA407908BC_stringValue",
+      "value": "199 sek"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D1E9DFC2-DB19-4E35-A9BA-612F614D6B45",
+      "overrideName": "8A703EE6-838B-4848-9F4F-CDDB2E0819EC/7C42F93E-68C9-49F0-BCDE-BF4C3C4323BA/56F976BD-C5AF-4710-976A-411F2AFB10E3_stringValue",
+      "value": "Rambler W Outdoor Byxa"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C4E14214-2221-4C3C-962B-4A26867ABF9A",
+      "overrideName": "8A703EE6-838B-4848-9F4F-CDDB2E0819EC/903BFD71-3E82-431F-8B3F-4BF18E43BBF2/56F976BD-C5AF-4710-976A-411F2AFB10E3_stringValue",
+      "value": "Hiker W Outdoor Jacka"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "15840D13-996F-49AB-B082-EA4685F13AF5",
+      "overrideName": "7D58F840-C499-4E7F-9FA2-075F88D7554D/56F976BD-C5AF-4710-976A-411F2AFB10E3_stringValue",
+      "value": "Solitude Mössa"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "27F92BCA-463C-4AEE-B5F2-3F109104A3E5",
+      "overrideName": "7D58F840-C499-4E7F-9FA2-075F88D7554D/C78CCF04-7839-4483-89BE-253ACBC825D0_stringValue",
+      "value": "199 sek"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "FD4C57DC-AF95-455E-9125-192B34092F71",
+      "overrideName": "8A703EE6-838B-4848-9F4F-CDDB2E0819EC/903BFD71-3E82-431F-8B3F-4BF18E43BBF2/C78CCF04-7839-4483-89BE-253ACBC825D0_stringValue",
+      "value": "1299 sek"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D7FA8E57-89AD-464E-9F24-30B8CC0A584D",
+      "overrideName": "8A703EE6-838B-4848-9F4F-CDDB2E0819EC/7C42F93E-68C9-49F0-BCDE-BF4C3C4323BA/C78CCF04-7839-4483-89BE-253ACBC825D0_stringValue",
+      "value": "799 sek"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C9531142-0340-4B85-A747-6F3026C11F5A",
+      "overrideName": "8A703EE6-838B-4848-9F4F-CDDB2E0819EC/7C42F93E-68C9-49F0-BCDE-BF4C3C4323BA/DB286D05-54FB-4163-ACD6-E126835B4A02_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/ca6aade56dddd2101d14e9a64a5e33f85ea61f4e.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4E444570-FBC6-4EC7-8D89-41BB15914A1B",
+      "overrideName": "8A703EE6-838B-4848-9F4F-CDDB2E0819EC/903BFD71-3E82-431F-8B3F-4BF18E43BBF2/DB286D05-54FB-4163-ACD6-E126835B4A02_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/c3de7cee46daf9ddd56d643eb1fe070182e1de7c.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5EE58D2B-6F37-4A25-992E-CA13217B80FD",
+      "overrideName": "7D58F840-C499-4E7F-9FA2-075F88D7554D/DB286D05-54FB-4163-ACD6-E126835B4A02_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/b27dcdd9e3359aa568efebee5f169af97d904827.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A828836D-54A7-438E-B628-6244EEC167EE",
+      "overrideName": "9FC15127-1030-44B8-8984-B776F60B8E23_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "460BF8B0-910F-4A4A-951E-C9D4A309547B",
+      "overrideName": "5B3DC158-F2ED-474F-9140-F9CC488D4906_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5A08A987-9E0A-4A5F-B11C-399C6740875B",
+      "overrideName": "8A703EE6-838B-4848-9F4F-CDDB2E0819EC/7C42F93E-68C9-49F0-BCDE-BF4C3C4323BA/2E11B9C0-7452-424E-A891-9FBEC409154C_stringValue",
+      "value": "Dr. Denim Lexy Byxa"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "EFF60C7D-C624-44DB-A466-5DE9783AD339",
+      "overrideName": "8A703EE6-838B-4848-9F4F-CDDB2E0819EC/1789177B-80B6-4686-93D2-78A9DBD536EC/7E2BB3A9-5E86-4C88-9CB0-D5CFF7A61988_stringValue",
+      "value": "749 sek"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A5064BFF-918C-4F48-9FB2-C3A151A475B9",
+      "overrideName": "8A703EE6-838B-4848-9F4F-CDDB2E0819EC/1789177B-80B6-4686-93D2-78A9DBD536EC/2E11B9C0-7452-424E-A891-9FBEC409154C_stringValue",
+      "value": "Vans Old Skool Skor"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DE2FF781-07E0-41AE-B8A3-66CECF2885E6",
+      "overrideName": "8A703EE6-838B-4848-9F4F-CDDB2E0819EC/903BFD71-3E82-431F-8B3F-4BF18E43BBF2/7E2BB3A9-5E86-4C88-9CB0-D5CFF7A61988_stringValue",
+      "value": "399 sek"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CA064116-BF89-4840-AEC3-869A6B30B8C6",
+      "overrideName": "C75B8ED3-8016-438F-87C9-56EC96178A4B/1789177B-80B6-4686-93D2-78A9DBD536EC/DB286D05-54FB-4163-ACD6-E126835B4A02_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/e282c0e72658249d9a16c061119689516de9acd4.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5C788A79-2266-4522-94F0-098FF93F878A",
+      "overrideName": "C75B8ED3-8016-438F-87C9-56EC96178A4B/7C42F93E-68C9-49F0-BCDE-BF4C3C4323BA/DB286D05-54FB-4163-ACD6-E126835B4A02_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/4ceb2a20c3218a0c3cd9336677d2cc3ddda37bee.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "256C423C-1193-4E19-AD85-E1EA676E2064",
+      "overrideName": "C75B8ED3-8016-438F-87C9-56EC96178A4B/903BFD71-3E82-431F-8B3F-4BF18E43BBF2_symbolID",
+      "value": ""
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7585569A-6B9C-4CDA-BA2A-20662429426A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "2F58E144-1C86-4883-B990-B417D10E0A45",
+  "verticalSpacing": 0
+}

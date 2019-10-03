@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "B1C0726C-6C88-4C92-8720-F0B7A9111F9A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "EBD4019A-8D7D-4733-9013-52888B74EA0C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "27240145-4445-4B07-92C0-60EA1B27A77C",
+    "height": 147,
+    "width": 276.5,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Product/Goggles/Features/Feature",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B37D41EC-9D73-4DC4-9076-D4415C888BE6",
+      "overrideName": "7CA5E484-9646-4252-A963-14ADECDB4C87_stringValue",
+      "value": "Impact"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A425C5E6-D141-46DC-8907-5C1397B16583",
+      "overrideName": "BC68B810-AEBA-4264-88A7-F1C1FFCDE2E3_symbolID",
+      "value": "4E364A49-5C08-4D2E-B4AC-B9867BB9AA68"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D5CA5428-503D-41E4-BB8B-9AFAB0939181",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "A95D5FBF-624E-4BAF-BA08-639B056CD3D3",
+  "verticalSpacing": 0
+}

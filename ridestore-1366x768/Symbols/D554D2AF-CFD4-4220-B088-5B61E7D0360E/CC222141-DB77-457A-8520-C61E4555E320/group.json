@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "CC222141-DB77-457A-8520-C61E4555E320",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3AD5989A-E11D-4C11-AE73-202E33A3C3A9",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "11F3D7D2-03A4-4445-9D16-6452352D24DE",
+    "height": 13,
+    "width": 19,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "2E84A2B8-BE52-4A9D-8593-9C427B6D8403"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "3F63414F-4585-423D-A705-3054EED0DA26"
+    },
+    {
+      "class": "rectangle",
+      "id": "C6BAE1DF-A4A0-4E29-8765-733583F4C03A"
+    },
+    {
+      "class": "rectangle",
+      "id": "ED94BFFB-C911-4277-B0C5-EFFDB5DD241F"
+    }
+  ],
+  "name": "Flag/Italy",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "96AB9BA3-BD03-4B1A-B1A6-49772CEAC90C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "8AA9B03B-80D8-4019-B687-67F15B412131",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "35D21A0A-9397-49C9-B1C8-6989824365DD",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7DC0CBB8-231F-4774-BF6B-14473A2F03C7",
+    "height": 31,
+    "width": 32,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "8B3BEA8A-6746-4747-A4E2-752FA773B58C"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "DC384DA8-CC12-4FA9-BBF0-56543AA1F5A9"
+    },
+    {
+      "class": "group",
+      "id": "AD8DC817-5FA2-4C30-A09F-09C8A3FEC50A"
+    }
+  ],
+  "name": "Icon/Categories/Helmet",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "040B8789-6155-4DFE-A8D7-300DE9ED6767",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

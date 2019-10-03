@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "70D27874-9D9D-46F9-B702-1AB464089245",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 773,
+    "width": 1366,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "707343AA-D65A-4204-B967-CB5760AB4754"
+    },
+    {
+      "class": "group",
+      "id": "20567915-C8EA-42B6-8837-F448E5FBB548"
+    },
+    {
+      "class": "group",
+      "id": "2DEA60F1-D967-48C3-82F4-9B2BFEEFB3D7"
+    },
+    {
+      "class": "group",
+      "id": "BCBB29D6-68DC-4BFC-9AC0-707CAB0BAAA8"
+    }
+  ],
+  "name": "Section (Related Products)",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

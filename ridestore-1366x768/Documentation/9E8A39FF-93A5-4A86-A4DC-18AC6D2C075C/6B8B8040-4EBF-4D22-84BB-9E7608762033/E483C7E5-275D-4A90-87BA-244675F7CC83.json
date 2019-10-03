@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "E483C7E5-275D-4A90-87BA-244675F7CC83",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3E5CB3EB-0985-4254-96F5-8616E905CFAD",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "49132E1D-A39D-4B02-9316-FD54B1EC3C7B",
+    "height": 14,
+    "width": 14,
+    "x": 0,
+    "y": 78
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Styleguide/Product/Item/Input/Radio",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7D959694-4AF9-4596-A66B-FEE629FA5332",
+      "overrideName": "E197C620-14A2-4804-AB51-01BE5FDB5C86_symbolID",
+      "value": ""
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "DD4D77A5-DB62-4513-8457-CC0B57FD89E7",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "3870BA87-284E-4E64-A79A-283BFEDD095F",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "D306FC55-0D5F-4910-8696-1111A49A007C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "67B67445-C9E6-4BE0-85C5-24601CEB490D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1F5D9CBC-68AD-45D9-9C9D-868A8D8330A5",
+    "height": 300,
+    "width": 342,
+    "x": 684,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Footer/Navigation/Column (Links)",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9B466645-6945-4200-B247-BD6F2694D637",
+      "overrideName": "696194CE-F20C-4E5A-9795-EA5F5F81135B_stringValue",
+      "value": "Services"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "815D2B15-3A2A-48CB-99AD-2C4DD9193B6B",
+      "overrideName": "0ADE0FAA-0D99-4A63-8C62-E1D9AEFA5305_stringValue",
+      "value": "Recensioner\nJobb"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "FC64A5B8-F872-47AA-B150-A7A948D5B761",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "7C6D3D8B-74D3-432B-A979-ECC372E49B51",
+  "verticalSpacing": 0
+}

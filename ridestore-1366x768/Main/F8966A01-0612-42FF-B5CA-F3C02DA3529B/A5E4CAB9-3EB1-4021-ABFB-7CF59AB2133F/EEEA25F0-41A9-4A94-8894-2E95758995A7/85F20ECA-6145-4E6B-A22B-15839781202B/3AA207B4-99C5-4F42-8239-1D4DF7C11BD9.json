@@ -1,0 +1,74 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "3AA207B4-99C5-4F42-8239-1D4DF7C11BD9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "15B47339-2908-43CD-A9BC-DF3E9D973AE4",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "10CEED26-93C5-4C8D-AACD-C88D120258D5",
+    "height": 160,
+    "width": 360.5385826771654,
+    "x": -2.842170943040401e-14,
+    "y": 360
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Product/Goggles/Highlight",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E8047A71-F0F3-4DE8-BBCB-F13075F0D42B",
+      "overrideName": "6C9CE1ED-DCDC-45AC-ACD2-454BDAF8AF0F_stringValue",
+      "value": "Perfectly placed pocket for your liftpass"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "151810EB-215D-42EB-9A43-C5A4B6B72085",
+      "overrideName": "0476D5B9-2C1C-4082-BE2D-9D87CBD9BA8F_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/d359c2f6fa39fdf53403b700335f4867f65c1d67.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "AF685E95-0ABB-4BCB-A777-A29E9D709909",
+      "overrideName": "7EEA6879-B4D8-4189-9A33-46FDCCF94AB8_stringValue",
+      "value": "Liftpass Pocket"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B7EE2EA0-A7DB-4CAA-8596-6695AE02C777",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "0ED4B0E3-FBA7-4090-88C7-215E20A4F898",
+  "verticalSpacing": 0
+}

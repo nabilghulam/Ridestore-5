@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "E061B557-37A8-4028-BA4E-980A009E685E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5A29242D-1FDD-42E8-B6E5-E7AF510247A4",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "BD5D38AF-8CE2-446E-947D-6352CBD4860F",
+    "height": 31,
+    "width": 32,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "1B0A701C-F554-4158-B483-8EDF59DD9BD1"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "13470CDB-2CC6-4040-84CC-77A9416430D7"
+    },
+    {
+      "class": "group",
+      "id": "4437F3BA-A9DF-4D15-B94A-3C20224F1C6B"
+    }
+  ],
+  "name": "Icon/Categories/Technical Underwear",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7E83477F-E99B-44F0-B45F-BF2C7ABE672D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

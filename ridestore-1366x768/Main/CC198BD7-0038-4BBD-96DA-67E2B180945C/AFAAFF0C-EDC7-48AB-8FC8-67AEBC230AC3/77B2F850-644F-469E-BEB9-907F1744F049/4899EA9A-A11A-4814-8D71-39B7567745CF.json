@@ -1,0 +1,74 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "4899EA9A-A11A-4814-8D71-39B7567745CF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5E856FFC-F7CA-4ED6-BFDF-6A544DA7D192",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E2CD0C6E-ECA3-40C1-BB16-23C21A281D80",
+    "height": 494.9999999999999,
+    "width": 325,
+    "x": 643,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Image (Product)",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "AE58BEAC-FCC4-4823-B146-198074B9E1F9",
+      "overrideName": "19873287-F041-4693-8FAF-C4DCED5AB8BC/28E73BB8-C631-4D72-B955-189CD7F49CB8_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/cd4cb47d5af053e3c8e421040a7ec711416024f9.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3A55CF15-5184-476D-9F3A-E2F743D05FAD",
+      "overrideName": "F0F5AB2F-AA13-4266-B1A8-181CBEDEEA04_stringValue",
+      "value": "2X-UP T-Shirt"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F4DB84FE-E149-4EF0-80C7-54BD13554366",
+      "overrideName": "4E665E08-4833-4F3D-B8D2-132E3251213B_stringValue",
+      "value": "299 sek"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F87379AE-7F16-4ADA-B4C7-5C1E8F8329D8",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "D8A05B5C-1E7A-48A3-A05E-DF1B447D1174",
+  "verticalSpacing": 0
+}

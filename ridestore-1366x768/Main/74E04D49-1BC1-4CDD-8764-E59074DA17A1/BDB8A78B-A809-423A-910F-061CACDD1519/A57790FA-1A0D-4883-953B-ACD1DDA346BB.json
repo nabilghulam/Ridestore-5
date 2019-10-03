@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "A57790FA-1A0D-4883-953B-ACD1DDA346BB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6B9A8688-4A4F-4168-9A1A-434DDB57EB1C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1D5E9A1F-130B-48F9-8643-FE7EF4448413",
+    "height": 54,
+    "width": 342,
+    "x": 25,
+    "y": 503
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Product/Actions/Guarantees",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "965AB04B-A27D-42C4-8FD1-B1635F23349E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "E7D6FB72-4762-4835-B43A-2FF115D6C197",
+  "verticalSpacing": 0
+}

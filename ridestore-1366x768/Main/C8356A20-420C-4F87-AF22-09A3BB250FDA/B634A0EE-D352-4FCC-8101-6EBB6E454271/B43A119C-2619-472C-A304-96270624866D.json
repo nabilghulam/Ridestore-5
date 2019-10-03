@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "B43A119C-2619-472C-A304-96270624866D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "618B5CCF-FB27-49D3-9693-BB0966130C28",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "757870FA-1DA6-4F18-A7B5-E46BAC42F918",
+    "height": 166,
+    "width": 1366,
+    "x": 0,
+    "y": 110
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Header (Category)",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2BBE68E8-25FA-48E2-BB61-8933B8BE7D10",
+      "overrideName": "27A04651-3FA0-4BA2-B742-AD2102623356_stringValue",
+      "value": "Streetwear"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "FE9E2FE8-ABF6-40D8-A20D-E168C9C4E74E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "F9A771AC-ED3B-441E-8EA3-B8BCF9AF8C3E",
+  "verticalSpacing": 0
+}

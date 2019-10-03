@@ -1,0 +1,60 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "4401EF39-759B-45BA-96C5-6B9321377F21",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 30,
+    "width": 132,
+    "x": 20.5,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Filter/Feedback",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "C26C1552-6387-4B8D-B61C-E5DBC31E65E7_stringValue",
+      "value": "Let us know."
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0FABC3C8-C7D4-46CF-A77D-83C292133CC2",
+      "overrideName": "0ECEC1D6-6C27-43E6-A27D-F21903EF81B0_stringValue",
+      "value": "Feedback on these filters?"
+    }
+  ],
+  "resizingConstraint": 45,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "72EE51CD-EA90-4E13-88C0-B48889413A04",
+  "verticalSpacing": 0
+}

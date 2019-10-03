@@ -1,0 +1,82 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "399E3E38-10E1-4CF0-AD1C-A5B26E34BEF9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E8950AD0-B746-4BBC-BA96-4C94220E6742",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "28889041-2456-4CD9-AEF9-1CCF4D6C251F",
+    "height": 166,
+    "width": 1366,
+    "x": 0,
+    "y": 110
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Header (Category)",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2BBE68E8-25FA-48E2-BB61-8933B8BE7D10",
+      "overrideName": "27A04651-3FA0-4BA2-B742-AD2102623356_stringValue",
+      "value": "Streetwear Tops"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D9FF9096-BCAE-461E-A505-F01BC3F42DC4",
+      "overrideName": "66102172-07BB-40FC-A1A0-15EB566DA98E/B7D64B43-B5DA-417A-A9B9-C3B839DA2CE6_stringValue",
+      "value": "Women"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "EE1F7D44-A2FC-44FE-A9A3-59A3873EB592",
+      "overrideName": "66102172-07BB-40FC-A1A0-15EB566DA98E/5801E5B9-BDD9-4567-8829-5C9B965279A8_stringValue",
+      "value": "Streetwear"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E14BE07B-2085-40B6-B730-700BDED5A827",
+      "overrideName": "66102172-07BB-40FC-A1A0-15EB566DA98E/289B980D-7C50-4A6D-97F8-73BCF430C680_stringValue",
+      "value": "Tops"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8D6F0323-8283-4A5C-8C7C-46C087C3352D",
+      "overrideName": "C9EB8D01-F857-4707-A706-19F1B020CC02_stringValue",
+      "value": "Vi vill att du ska vara helt nöjd med din snowboardjacka herr du köper av oss. Vi erbjuder därför fri retur och 30 dagars ångerrätt. Vi har även snowboardjackor för damer"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "298F7909-ED4E-4C8F-AE9A-01A28289ADA3",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "F9A771AC-ED3B-441E-8EA3-B8BCF9AF8C3E",
+  "verticalSpacing": 0
+}

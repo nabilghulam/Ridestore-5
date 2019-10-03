@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "75721019-4F13-4E94-9D9C-16BB2F883EC7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "CCA8A625-2E1E-43B1-ADA8-94205AC0ADC0",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "82D82DCF-CAAC-4506-857B-508A6C8EB301",
+    "height": 31,
+    "width": 32,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "B54E1858-6053-425B-A041-4D7D2CFB08C3"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "6562414D-FDC1-47FC-A382-D87BC86F58A3"
+    },
+    {
+      "class": "group",
+      "id": "7AFF532B-7DF1-432B-B090-E0B618908BA2"
+    }
+  ],
+  "name": "Icon/Categories/Facemask/White",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6625B147-DE22-497B-9A45-F7CAE61DC6CA",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "FF7D912A-CC23-48BC-A024-6BF28277C80F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9F90048A-A94A-4B9D-934A-DD59D5D89A91",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "EA2834FD-5B08-4063-89FA-1FFDF0D54F0E",
+    "height": 358,
+    "width": 1366,
+    "x": 0,
+    "y": 110
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Header (Category + Hero)",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "FD751E2F-EB01-4C61-9C49-0DEA17ABEE21",
+      "overrideName": "36B7225B-5818-41F6-AB62-D9D28A3F2BFC_stringValue",
+      "value": "Accessories"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6A307E96-2790-4B3E-BDB3-8850C9A7BC2F",
+      "overrideName": "40F2019C-E88D-4445-AE8D-3689B4F2E30F_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/71aea094ed5a2ac39a21cca71cf20bbc98b2d8d8.png",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8FB0196D-B0FC-4489-B2C3-7CF0A662969A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "217E2854-8EF0-4093-94AF-FE3E7B18D756",
+  "verticalSpacing": 0
+}

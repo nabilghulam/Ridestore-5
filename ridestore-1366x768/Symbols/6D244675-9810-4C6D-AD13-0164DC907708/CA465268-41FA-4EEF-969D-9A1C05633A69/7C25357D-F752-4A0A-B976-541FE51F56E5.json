@@ -1,0 +1,61 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "7C25357D-F752-4A0A-B976-541FE51F56E5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 60,
+    "width": 1366,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Row (Filters)",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "98EB10B4-545B-4A20-884C-50F0A58A8040",
+      "overrideName": "F06EF1E1-6CB0-424B-9978-0B0E750582AF_stringValue",
+      "value": "Storlek"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7CDE0A5B-1304-4619-A26C-A00042DDD350",
+      "overrideName": "4401EF39-759B-45BA-96C5-6B9321377F21/C26C1552-6387-4B8D-B61C-E5DBC31E65E7_stringValue",
+      "value": "Let us know."
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "65657490-80FC-4057-ADA0-8F1A0A26412A",
+  "verticalSpacing": 0
+}

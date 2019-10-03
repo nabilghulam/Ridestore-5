@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "04130D26-483F-4E95-9FE4-EB1B07D5AF40",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F8C11CC3-65AB-4EC3-A980-97DD3B145B1C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0DCC129D-D05F-40DB-A0DE-505239D233F4",
+    "height": 24,
+    "width": 177,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "3CBAEE28-FD2D-4845-8B3E-4EBA5C93428B"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "BA456472-D903-49BE-8899-B560656A7058"
+    },
+    {
+      "class": "text",
+      "id": "05C578BA-5172-4F6E-9D80-FFB0B05F88CC"
+    }
+  ],
+  "name": "Item (Guarantee)",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "ED876828-B3B7-44BE-9607-0EE5AD1F9AE6",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

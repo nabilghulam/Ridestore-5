@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "EECFF1D6-2FAC-442F-B6AC-4B50854309A9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C2B89095-9F31-4606-87E2-02D864EE1623",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F2F1B38F-79AD-4F31-937E-CDA30357C9E1",
+    "height": 55,
+    "width": 470,
+    "x": 0,
+    "y": 486
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Tab/Small",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3CF87A5F-AA8E-4A0F-8EF5-72DDA638C0BA",
+      "overrideName": "14B775E9-507C-4FD1-A89E-855217B69789_stringValue",
+      "value": "Force Majeure"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5ED59A8C-8193-4096-ACE5-625F1B2FB976",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "CC45A164-9554-4ADB-9DFF-C81071C42E79",
+  "verticalSpacing": 0
+}

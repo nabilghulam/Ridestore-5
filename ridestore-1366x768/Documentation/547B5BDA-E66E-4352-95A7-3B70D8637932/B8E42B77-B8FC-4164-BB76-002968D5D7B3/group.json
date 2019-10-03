@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "B8E42B77-B8FC-4164-BB76-002968D5D7B3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C5E9A3EF-AA45-4BA6-B481-C2E299CE94A0",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7B338311-89DC-48DB-A8DD-E6BA8714B33E",
+    "height": 31,
+    "width": 32,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "A63E8DE5-5470-452A-BB00-5A5E4A120527"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "13AA72D8-2BD5-48D3-8DDD-D8CE1437473A"
+    },
+    {
+      "class": "group",
+      "id": "64BD06F6-DE3F-4FE3-8372-913FAB856582"
+    }
+  ],
+  "name": "Icon/Categories/Belts",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "248A0DAD-23F5-4A46-9019-1B4EDAA9F2B2",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

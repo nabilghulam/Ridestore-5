@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "08B47863-4874-4139-AF9C-16E97D6B5274",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7ABF2356-5C69-405E-949D-BFF9508F6CB3",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A7F019C8-E71D-4867-81A6-58B90AFC32FC",
+    "height": 151,
+    "width": 430,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "5518111C-18C7-4799-8AC7-033BE8AE9914"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "bitmap",
+      "id": "B4F811C0-CB6F-4E41-81FD-3B56D6F90992"
+    },
+    {
+      "class": "text",
+      "id": "33444528-B466-40D8-B736-91F2A4763CFE"
+    }
+  ],
+  "name": "Dope Dry",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "618BF3C1-1B45-43D6-822C-C334130698E2",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "F3B26BD6-2DD1-4BB5-B536-8194DB682017",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A059C06D-7D00-4782-B6AC-3E965F8E2D5D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6EECC90D-4C96-4B81-8D4F-BEDB055D6E59",
+    "height": 31,
+    "width": 32,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "60B5C2CC-015D-448A-974A-206571442D75"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "EEB41B00-0ACE-41FF-98C2-281C3B9545E0"
+    },
+    {
+      "class": "group",
+      "id": "FA048CF5-68FA-438D-B2DA-9C2E226B5A0C"
+    }
+  ],
+  "name": "Icon/Categories/Elbow Protector",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "50CE6B48-AAF0-49EE-AAF9-C80764BBEEF6",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

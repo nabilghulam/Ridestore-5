@@ -1,0 +1,79 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "9AD589B5-A1BD-48EF-AA55-31DAECEF151C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 578,
+    "width": 392,
+    "x": 889,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Actions (Product) - Size Dropdown",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E0F1C88A-6176-428C-AF29-914BC009F2B4",
+      "overrideName": "4C06B8DA-599F-40E1-91DD-9C670FB50300_stringValue",
+      "value": "Our all time most popular snow jacket, in a new updated version. We kept the clean and humble design everyone..."
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A13CB48E-69D7-4275-A80E-BE4EA40DA28F",
+      "overrideName": "7B378DFC-C9C4-4112-9B7C-F5401623D281/05C578BA-5172-4F6E-9D80-FFB0B05F88CC_stringValue",
+      "value": "Free deliveries & returns"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "14FB059A-AB45-4788-BEE3-9C1E9EFD487D",
+      "overrideName": "BFE6F7F2-281C-404B-A7A1-7F0A3570595D/E41A50E3-BAF5-42C4-83E9-95FF6CA49570/38BBCDA7-DC98-4F32-AB33-2E9A6688CCF6_stringValue",
+      "value": "Choose size"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "EB56D460-45A5-486A-BF84-9FB1FF564931",
+      "overrideName": "A372DCBE-5BA4-4507-84CF-656D81A09F81/DCC85882-2B10-469D-B277-0DFE4BBB9B6A/3E50F8D6-67CF-4CF9-A62E-1DFC926B4938_stringValue",
+      "value": "519 sek"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9E99D06A-CED3-487D-9024-01634F6471B5",
+      "overrideName": "AC62BEB1-048C-4849-ABBD-F856F10DC065_stringValue",
+      "value": "Produktinformation"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "965B65DD-4ED4-4C3B-88DA-57AB5A7310E0",
+  "verticalSpacing": 0
+}

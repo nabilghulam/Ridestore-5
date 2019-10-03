@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "DEE66BB8-75BA-4BA4-B2ED-CEF587F753E0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "20BD66B8-7516-4210-B660-4E427AFF1222",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D1A83C5C-B638-4569-BB02-03E1A52F7C62",
+    "height": 31,
+    "width": 32,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "DE1C7E12-6139-4D5F-8716-DBC050335A8D"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "79C80500-06BB-4373-827C-396E1049417E"
+    },
+    {
+      "class": "group",
+      "id": "2CE8FE74-48C7-4EC6-8846-231386B8CCB6"
+    }
+  ],
+  "name": "Icon/Categories/Headphones",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9CD0AA7F-D8BB-49FF-A11B-C61367B8E651",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

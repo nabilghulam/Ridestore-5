@@ -1,0 +1,61 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "58B27539-08F9-427B-BB81-BA9B5D729BE5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 322,
+    "width": 540,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Reviews/Review",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DF02E58E-2D71-4373-9328-C08D138401CC",
+      "overrideName": "07D33792-D814-4D67-BB74-B7E0C0B21467_stringValue",
+      "value": "Our all time most popular snow jacket, in a new updated version. We kept the clean and humble design from last year but packed it with.."
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2C49F6A7-ED91-42E8-BB21-3376FCEF4D1F",
+      "overrideName": "09ED21A4-7F2B-465F-9592-F17C1CD8B99A_stringValue",
+      "value": "Jag rekommenderar den här produkten"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "7A219A4E-6598-47CA-9627-5564E39D865A",
+  "verticalSpacing": 0
+}

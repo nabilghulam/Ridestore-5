@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "364823F3-6E09-478D-8193-67AE804F1033",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "CC9CD6E6-C373-427B-96CF-8944731BDB65",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "DFC287C5-61BB-4DEB-BDE7-DBA2EBFA6674",
+    "height": 786,
+    "width": 1285,
+    "x": 40,
+    "y": 60
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "485472A7-7E35-4D4D-80BD-9228EAF31E0F"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "BAFE3056-F39F-46B5-AAAD-C96614889400"
+    },
+    {
+      "class": "group",
+      "id": "56EF23CE-6635-40D2-B674-67C919850A14"
+    }
+  ],
+  "name": "Gallery (Products Overflow-X)",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E72DDA4A-044D-4C41-ADF2-3562FA03DCFF",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

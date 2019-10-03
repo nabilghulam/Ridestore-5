@@ -1,0 +1,69 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "2DEA60F1-D967-48C3-82F4-9B2BFEEFB3D7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 475,
+    "width": 1445,
+    "x": 40,
+    "y": 178
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "76D0E035-A4E2-459C-804D-280AD2AA8B53"
+    },
+    {
+      "class": "group",
+      "id": "862961B5-DCC9-4CEA-BD21-C5A0D5CAC8D0"
+    },
+    {
+      "class": "group",
+      "id": "54011961-EBA5-4758-BA68-A3E1E714B042"
+    },
+    {
+      "class": "group",
+      "id": "08C767EC-83AE-4058-BAC1-4501ACC2D470"
+    },
+    {
+      "class": "group",
+      "id": "1E57B8CA-5709-480B-A5A7-380C64EEBC27"
+    }
+  ],
+  "name": "Gallery (Products Overflow-X)",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

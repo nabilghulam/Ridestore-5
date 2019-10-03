@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "2B2114CA-8888-4E7F-B07A-8EA5D18E0917",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "CD080BFC-CF8C-4E1A-BE1C-1ACFDAD63E28",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E0523547-7BDE-441B-B5DB-26FF7D435864",
+    "height": 1371,
+    "width": 1106,
+    "x": 130,
+    "y": 822
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Product/Goggles",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4AFAA079-F058-41FD-8986-4A9D95C3ABD6",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "0F062305-C03F-4F97-B147-0D93FFFE9CDF",
+  "verticalSpacing": 0
+}

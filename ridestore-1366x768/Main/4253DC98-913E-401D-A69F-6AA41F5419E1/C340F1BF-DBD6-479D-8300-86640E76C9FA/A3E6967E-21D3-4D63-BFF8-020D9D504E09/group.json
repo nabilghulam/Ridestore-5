@@ -1,0 +1,69 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "A3E6967E-21D3-4D63-BFF8-020D9D504E09",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "29C0BF44-B39B-42A8-9214-909E40FC5DC1",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7DA3E836-91DF-41B8-B785-B81DB2789295",
+    "height": 415,
+    "width": 339,
+    "x": 354,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "84E7189C-11A9-4144-9A04-EB6AA08C757D"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "F74C6038-160F-48F0-9008-DC428B797E4F"
+    },
+    {
+      "class": "group",
+      "id": "65042F2C-88E4-446F-8786-6AADAA9A84E5"
+    },
+    {
+      "class": "group",
+      "id": "F440B453-418C-41CB-BAA0-D06EAE6E07BA"
+    },
+    {
+      "class": "group",
+      "id": "9AFC5D31-DF7A-4298-A4CD-DCF2B493D825"
+    }
+  ],
+  "name": "Contact (Chat)",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D4EF597B-0C9E-4778-883A-90A928AB0250",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

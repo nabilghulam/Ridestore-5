@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "8D242F34-9FF1-42FF-8040-407210F47892",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "70CFFD8A-EC8C-43CF-A422-3CFD655BB7FE",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "060100EC-6D99-4595-959F-7254FCEAC91B",
+    "height": 102,
+    "width": 535,
+    "x": 0,
+    "y": 449
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Text (Center)",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "81E9ED2B-0C22-438F-94A3-A5BD2C579A35",
+      "overrideName": "115EF8FC-9933-433F-9960-845CF4046AF2_stringValue",
+      "value": "Backpacks from Douchebags and more"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "357AF93B-DA88-484C-A8A1-D248B89FCF26",
+      "overrideName": "13DBD3D1-F5DD-47F7-94E9-32ACFF63E43E_stringValue",
+      "value": "This Springs Collection"
+    }
+  ],
+  "resizingConstraint": 42,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "25F46EB7-F9B2-4486-88AB-213A3F1C44A1",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "8703B0D3-057B-4931-B55B-FB573796FB93",
+  "verticalSpacing": 0
+}

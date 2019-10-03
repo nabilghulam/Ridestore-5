@@ -1,0 +1,68 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "39DE8261-1CA2-4728-8318-7B5469C9CDE8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C2373E06-A0A7-4B86-B145-04348A32DAAD",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "BE9004FB-5EBC-43BA-BD3B-F4F4C675E08D",
+    "height": 375,
+    "width": 246,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Home/Main/Category with Image",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3B5EA183-B3E2-4B83-BB05-FAA39C8B5322",
+      "overrideName": "087E28EB-7C91-480C-BD2D-0F6D7D419FA1_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/576b38d3d3222879054a292e2d61ec4998869870.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7A0F99AC-868E-4F33-9CDD-A28EC4DD98FF",
+      "overrideName": "AE2A0EC3-474D-444B-B12C-2B94EF13F00F_stringValue",
+      "value": "Jackets Women"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D96F38CE-99C2-428F-9B61-EDD0C206316D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "E5B34258-5876-44D2-AE68-A13480590E79",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "16E6329B-D349-4A04-BFA1-0B0A3B6FE60F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "EE239543-5409-4FB8-81A7-154C0098C063",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4F4D6D2B-8057-4FA1-83C2-4C17BED99129",
+    "height": 70,
+    "width": 70,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "BF137B24-EFCC-4410-9DE2-A5AC61BABE25"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "2B9ECFF0-5ABB-4D05-BAD3-991A0602AC72"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D255B489-306D-487D-B561-4E4976482372"
+    }
+  ],
+  "name": "Heros/Badges/Category",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "FA664AF3-5A42-42A3-93F4-F9A8F1314193",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

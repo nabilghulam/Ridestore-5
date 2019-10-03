@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "7B46D16A-9FD6-4B9A-80CC-1371D2D9A35E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A1F2EC6C-1A76-44E9-A516-EE8EE4E2EA9E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "933C696F-D467-4B5D-993F-87066341F92D",
+    "height": 24,
+    "width": 338,
+    "x": 40,
+    "y": 351
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "F57C44CA-526E-4BBC-ABAC-89D3265F2537"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "9568BDE4-ACFA-4B76-8DF8-57F0542D0ADA"
+    }
+  ],
+  "name": "Product/Actions/Guarantees",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "36FFF581-3A67-4596-9475-45730A0FB86C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

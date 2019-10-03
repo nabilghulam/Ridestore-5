@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "7ADD8532-D7D7-40B1-B413-8943E21478AA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "94A6D14A-8C97-42EB-8ABE-0515A5A4A00D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "08CC3E9A-FE61-445D-A556-9BCD637DD85A",
+    "height": 31,
+    "width": 32,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "F586FDF7-5BF5-46CC-9509-4630CEECABBE"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "091B4D3A-4399-4491-BE41-20029F0B2BD1"
+    },
+    {
+      "class": "group",
+      "id": "036CDBED-EE29-469F-A3EA-91D1261CD95E"
+    }
+  ],
+  "name": "Icon/Categories/Backpack",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4FCD576F-BB32-4CDD-88D8-54F3ED4C5759",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

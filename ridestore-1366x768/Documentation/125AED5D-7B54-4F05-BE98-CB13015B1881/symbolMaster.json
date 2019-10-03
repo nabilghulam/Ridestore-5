@@ -1,0 +1,110 @@
+{
+  "_class": "symbolMaster",
+  "allowsOverrides": true,
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0,
+    "do_objectID": "7E029C9F-0B88-48D6-A223-A4DA3CB4F539",
+    "green": 0,
+    "red": 0
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 968,
+  "clippingMaskMode": 0,
+  "do_objectID": "125AED5D-7B54-4F05-BE98-CB13015B1881",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "753DC026-3085-4F1F-92A0-23D3DAE5EA81",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A3F0CA72-AECB-421E-88C9-B9DA51943A4A",
+    "height": 31,
+    "width": 32,
+    "x": 1734,
+    "y": 7257
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "3E786448-E653-4C25-81CD-F5830FFEA5D1"
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "3877AB6C-F1C8-4F35-86D4-C1755A68D6AD",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": false,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "DEE66BB8-75BA-4BA4-B2ED-CEF587F753E0"
+    }
+  ],
+  "name": "Icon/Categories/Headphones/White",
+  "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "84525E98-5EA8-434C-8422-ABAEF224BF18_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "2B81D575-5A75-48B2-A0F0-6A5B51565DEC_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "F66547C7-69FF-4D48-80D7-4E845354D1DF_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "C504383A-332E-4959-A180-E399BF65731B_layerStyle"
+    }
+  ],
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "AC54F70D-C5F8-4720-AF8F-C0642A86C0C6",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "A062440E-F57F-4746-9001-3B8EF1F18B1E",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "C88EC264-985D-4FAE-8DC8-99CD6BBC4DAB",
+    "guides": [
+    ]
+  }
+}

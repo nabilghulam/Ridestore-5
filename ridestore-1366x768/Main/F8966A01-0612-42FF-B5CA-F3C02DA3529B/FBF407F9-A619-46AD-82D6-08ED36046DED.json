@@ -1,0 +1,70 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "FBF407F9-A619-46AD-82D6-08ED36046DED",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9EB1B752-8D1B-4F72-BAC3-25145F0D6F6D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E216D9B9-6599-4DD4-A430-94F16BF41691",
+    "height": 1675,
+    "width": 1286,
+    "x": 40,
+    "y": 2218
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Section (Reviews)",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7259000E-A164-4830-B068-BB19169407B3",
+      "overrideName": "E985697D-34AF-4AB7-9024-3C4EBDDF0EE3_stringValue",
+      "value": "Betyg & Recensioner"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0F5C7274-A782-4CE6-ABAA-BF29078F221B",
+      "overrideName": "36225263-0838-426B-B3C4-779615EF0021_stringValue",
+      "value": "Betygsöversikt"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8D52A0F0-F8A2-4C98-BD0E-03067C42310D",
+      "overrideName": "8B63A261-CA6A-4557-84DF-521945D1E71D/58B27539-08F9-427B-BB81-BA9B5D729BE5/D74800F6-5825-4EDD-9B8C-5AD853BA7707_stringValue",
+      "value": "Really Snygg Jacka"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5D363875-2CFE-4F70-88AD-85C9E2A7A18C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "846AF25E-DA00-4B47-908B-DC215E873FC4",
+  "verticalSpacing": 0
+}

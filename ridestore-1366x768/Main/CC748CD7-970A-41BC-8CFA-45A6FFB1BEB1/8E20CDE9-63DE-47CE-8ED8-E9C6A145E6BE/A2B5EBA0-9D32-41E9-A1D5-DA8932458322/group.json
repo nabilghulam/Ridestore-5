@@ -1,0 +1,85 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "A2B5EBA0-9D32-41E9-A1D5-DA8932458322",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "DFDDF6A5-22F2-41AC-8C2F-2137FD38A624",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8EEE3FAF-C038-4D33-90C5-3BAA51A25E14",
+    "height": 1014,
+    "width": 1025,
+    "x": 261,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "FED1C056-25F9-4C0A-8388-9A1F36268A6A"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "7D8E6C76-DA2D-405D-BA73-887D562C0A24"
+    },
+    {
+      "class": "group",
+      "id": "3013A179-AA98-414E-AC96-B4D58E394E91"
+    },
+    {
+      "class": "group",
+      "id": "2FAB82E6-49B1-44DC-9A4C-AEBC258C1F43"
+    },
+    {
+      "class": "group",
+      "id": "835A5FC8-C3B8-44BB-934A-33D7600CCBA2"
+    },
+    {
+      "class": "group",
+      "id": "24BC1369-8257-4C8E-8CC5-85201CEEB144"
+    },
+    {
+      "class": "group",
+      "id": "EE2A540B-2DC1-47B5-AB62-681D5DC3F4A6"
+    },
+    {
+      "class": "group",
+      "id": "FEF8FE39-64BE-4955-87BC-F54E7D764870"
+    },
+    {
+      "class": "group",
+      "id": "837F9190-A3BE-4A0A-AAD4-03A2257FC63D"
+    }
+  ],
+  "name": "Brands",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E18F1752-B804-455B-AF3F-CA9088F9391A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "5675ACF8-CB33-45BF-A1F1-810307BC38D7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F2904694-1FFF-4881-B67A-52389B610A2F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E6BF7CAE-BA75-4D3C-B84F-5DD70AB028BA",
+    "height": 50,
+    "width": 342,
+    "x": 40,
+    "y": 359
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Product/Actions/Buttons",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "729915C7-A5AB-4B21-B917-7C44CAFF1060",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "64E3B9C7-7FB7-4EE4-BB03-C2A9BA001096",
+  "verticalSpacing": 0
+}

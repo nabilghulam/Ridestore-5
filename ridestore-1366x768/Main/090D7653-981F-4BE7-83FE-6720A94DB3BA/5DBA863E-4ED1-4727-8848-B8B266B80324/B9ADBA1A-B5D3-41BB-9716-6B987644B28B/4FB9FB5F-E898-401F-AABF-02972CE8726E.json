@@ -1,0 +1,86 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "4FB9FB5F-E898-401F-AABF-02972CE8726E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "20A9D492-01AA-4D50-94E7-C341FCAEFF2D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6AD8DE09-E90F-45CA-A2AB-8DBEA139C275",
+    "height": 494.9999999999999,
+    "width": 325,
+    "x": 968,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Image (Product)",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1BA06AAB-B84A-43CF-A16C-6FE09D57DABA",
+      "overrideName": "19873287-F041-4693-8FAF-C4DCED5AB8BC/F7A1EAB2-6B64-4768-8C92-D9ED561D2BAF_stringValue",
+      "value": "New"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "51707136-96CF-42AE-8B39-0B80353FD33E",
+      "overrideName": "0589CE91-9795-474E-AB68-2B4AEB087034_stringValue",
+      "value": "Newsoul"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CEC17E93-9593-4B44-8710-0BBF0FCFE81C",
+      "overrideName": "19873287-F041-4693-8FAF-C4DCED5AB8BC/28E73BB8-C631-4D72-B955-189CD7F49CB8_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/b73ca1ec170ae8401061d4c33ef72697908b483e.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C27AAABC-7282-450A-AF8C-25A76A2B0766",
+      "overrideName": "F0F5AB2F-AA13-4266-B1A8-181CBEDEEA04_stringValue",
+      "value": "Hiker W Jacka"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "87311DDE-FC6F-4AE6-934F-0A01385D7837",
+      "overrideName": "4E665E08-4833-4F3D-B8D2-132E3251213B_stringValue",
+      "value": "1299 sek"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "94971F55-0613-4579-9FCF-F3942B9E3971",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "D8A05B5C-1E7A-48A3-A05E-DF1B447D1174",
+  "verticalSpacing": 0
+}

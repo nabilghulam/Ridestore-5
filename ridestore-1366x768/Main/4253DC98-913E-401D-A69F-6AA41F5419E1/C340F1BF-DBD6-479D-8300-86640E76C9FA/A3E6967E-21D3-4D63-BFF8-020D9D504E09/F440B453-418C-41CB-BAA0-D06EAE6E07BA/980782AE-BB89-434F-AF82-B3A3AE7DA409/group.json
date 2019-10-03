@@ -1,0 +1,69 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "980782AE-BB89-434F-AF82-B3A3AE7DA409",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9FDE54F7-B59C-4D73-8D53-387F36BD1B3B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5F234DE2-4270-41CB-A139-27883BC21004",
+    "height": 24,
+    "width": 24,
+    "x": 235,
+    "y": 23
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "A4EF94B8-22EE-4833-A7B5-A881E105E658"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "oval",
+      "id": "E1A11998-DB61-4E19-8946-BFD616568739"
+    },
+    {
+      "class": "oval",
+      "id": "3AB25F17-3E10-4FEE-BD64-F44F18DA4256"
+    },
+    {
+      "class": "oval",
+      "id": "26D740C5-6524-460A-94EF-C26371DE3B7A"
+    },
+    {
+      "class": "oval",
+      "id": "88D1630D-1CB5-45DE-BC2B-CAE8932BF0EF"
+    }
+  ],
+  "name": "icon-ma-vector-chat-emoji",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C31967BC-5AD5-4C56-A57C-8934B0D6AD9F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

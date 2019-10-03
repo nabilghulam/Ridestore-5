@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "9DBD3717-B110-4D43-AE0A-DD492C2C21CB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "330E6261-2AE5-4E45-B1D5-DBB812B8D917",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5AEB0149-38E1-4240-B8BD-5FBF360831D8",
+    "height": 31,
+    "width": 32,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "0B4FC78E-7604-422E-BFBF-EA573F6D4B6C"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "AC49C723-11A0-4DB8-80C1-68EF75084549"
+    },
+    {
+      "class": "group",
+      "id": "7F7BB3EB-16CF-4AD0-B5DF-800890716698"
+    }
+  ],
+  "name": "Icon/Categories/Knee Protector",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F47A921C-2DB2-4415-B546-76BFFF3AE68F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

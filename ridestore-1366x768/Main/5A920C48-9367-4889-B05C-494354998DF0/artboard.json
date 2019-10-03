@@ -1,0 +1,109 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "5A920C48-9367-4889-B05C-494354998DF0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 7048,
+    "width": 1366,
+    "x": 4841,
+    "y": 17638
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "1B121E9C-AB9B-4BAD-802C-F1E80AFD49ED"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DDCD264F-A159-4FC2-ADBD-80DCE2A9B569"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "03897F0A-C536-4B8E-89AA-BA7DAB5976FD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2B2114CA-8888-4E7F-B07A-8EA5D18E0917"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "11741B17-90DC-4272-9F1D-048E445ABDAA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "739D5065-C45B-4DC8-9674-352DC3ABDAFC"
+    },
+    {
+      "class": "group",
+      "id": "152C8B51-4822-4E0C-AE31-3574EB973CE4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "EF8DAF91-ECCC-46C2-A7AD-0626F09B94A2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5F8308C8-8A71-45EC-A880-22BC213B19D1"
+    }
+  ],
+  "name": "Product (Goggles)",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

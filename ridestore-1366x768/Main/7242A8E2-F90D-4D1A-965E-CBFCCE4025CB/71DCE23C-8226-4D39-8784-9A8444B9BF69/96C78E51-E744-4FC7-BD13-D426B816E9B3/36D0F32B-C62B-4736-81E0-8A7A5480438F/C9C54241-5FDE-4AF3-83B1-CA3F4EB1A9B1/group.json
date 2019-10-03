@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "C9C54241-5FDE-4AF3-83B1-CA3F4EB1A9B1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "242F7DF9-ADF0-4814-B98C-CB1BE08A62B1",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "903FF05E-3C65-47E6-B7E4-3375E413899E",
+    "height": 17,
+    "width": 100,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "AE97BCC4-14F8-4ADE-903F-8B08FCA6567E"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "527A2474-29BB-4F1C-BB2F-0DB962225599"
+    },
+    {
+      "class": "group",
+      "id": "955393B9-2E15-41A4-BAF5-57633AC787B4"
+    }
+  ],
+  "name": "Switch (Genders)",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6CAC955C-1F5A-4869-A7AE-C02985BDAB30",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

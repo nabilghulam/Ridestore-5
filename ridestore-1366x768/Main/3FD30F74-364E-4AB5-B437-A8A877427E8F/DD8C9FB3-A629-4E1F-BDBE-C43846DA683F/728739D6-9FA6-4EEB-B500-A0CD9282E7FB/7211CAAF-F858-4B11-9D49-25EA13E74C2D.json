@@ -1,0 +1,80 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "7211CAAF-F858-4B11-9D49-25EA13E74C2D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7B53CD41-076C-4571-8408-4A8248536F5B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4CFC8135-0C6F-422B-A076-08F733412778",
+    "height": 494.9999999999999,
+    "width": 325,
+    "x": -7,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Image (Product)",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7E819448-4C98-4BE0-A11F-9356B3F53355",
+      "overrideName": "0589CE91-9795-474E-AB68-2B4AEB087034_stringValue",
+      "value": "Newsoul"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DC35521C-EAD0-4613-941B-E3FB51E09428",
+      "overrideName": "19873287-F041-4693-8FAF-C4DCED5AB8BC/28E73BB8-C631-4D72-B955-189CD7F49CB8_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/9522736d9e9e7eba606ba9fc64b13bf0850a7808.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4D4373F9-7C03-43EA-A03F-ACA5A57217DC",
+      "overrideName": "F0F5AB2F-AA13-4266-B1A8-181CBEDEEA04_stringValue",
+      "value": "Hiker W Jacka"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CA140795-A761-4717-9BEE-B6D852DE3D02",
+      "overrideName": "4E665E08-4833-4F3D-B8D2-132E3251213B_stringValue",
+      "value": "1299 sek"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C73EF63B-BC19-4653-9F12-70D7A388CC6D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "D8A05B5C-1E7A-48A3-A05E-DF1B447D1174",
+  "verticalSpacing": 0
+}

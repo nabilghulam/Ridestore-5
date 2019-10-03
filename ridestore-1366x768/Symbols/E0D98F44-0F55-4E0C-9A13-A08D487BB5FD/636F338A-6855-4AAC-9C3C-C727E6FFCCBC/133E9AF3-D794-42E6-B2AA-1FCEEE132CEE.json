@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "133E9AF3-D794-42E6-B2AA-1FCEEE132CEE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "FD0A4E13-D935-4D95-B283-C73B7677641F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E5DA078B-4BB8-4B9E-BCCC-E63AA1A8ED14",
+    "height": 55,
+    "width": 470,
+    "x": 0,
+    "y": 540
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Tab/Small",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "11D7743D-D5D2-4217-A6D3-300946321599",
+      "overrideName": "14B775E9-507C-4FD1-A89E-855217B69789_stringValue",
+      "value": "Tvister och Tillämplig Lag"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "741A4936-007D-47F0-A717-69CBDB6CD872",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "CC45A164-9554-4ADB-9DFF-C81071C42E79",
+  "verticalSpacing": 0
+}

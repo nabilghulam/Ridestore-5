@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "64CE25F1-77CB-4C95-BFE2-274510D01C24",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "94D80EAC-3259-4ACF-9FC8-20219A1EC062",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8979DC46-7D5B-4919-98DD-A611697B5948",
+    "height": 31,
+    "width": 32,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "B3696FFD-71B2-43AC-B385-F4FA79C5D91F"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "9040E1CB-AAB4-4BF0-A335-34589E6D7C74"
+    },
+    {
+      "class": "group",
+      "id": "B1FE1728-CF14-4C37-B7A1-CB32DFDF7087"
+    }
+  ],
+  "name": "Icon/Categories/Skis",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9ABB3B20-84D0-46C4-819E-D3ECF701325D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

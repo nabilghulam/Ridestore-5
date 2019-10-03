@@ -1,0 +1,74 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "46611E17-2147-49AD-BEAB-88EE3BE0E72B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2E6959E5-875B-4363-B861-3FCD540EC37E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "EDA144F0-5212-4204-B534-128CD98D8D5A",
+    "height": 160,
+    "width": 360.5385826771654,
+    "x": -2.842170943040401e-14,
+    "y": 540
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Product/Goggles/Highlight",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E8047A71-F0F3-4DE8-BBCB-F13075F0D42B",
+      "overrideName": "6C9CE1ED-DCDC-45AC-ACD2-454BDAF8AF0F_stringValue",
+      "value": "Easy access ventilation zippers when you need that extra ventilation"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5236109D-8A5C-454E-8E4E-97C8DA2DFA84",
+      "overrideName": "0476D5B9-2C1C-4082-BE2D-9D87CBD9BA8F_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/dcfa92033b95e33b6fe7145248a9c5c307b37609.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "07786664-62E3-4659-8BBD-DEBCA0E7BB8D",
+      "overrideName": "7EEA6879-B4D8-4189-9A33-46FDCCF94AB8_stringValue",
+      "value": "Pit Vent Zippers"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9AD510C5-F702-4ACA-8AF9-B13481AAAB5E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "0ED4B0E3-FBA7-4090-88C7-215E20A4F898",
+  "verticalSpacing": 0
+}

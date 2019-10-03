@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "61EC330F-6149-43A8-8BD5-977C573A85E4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2B6C4DE3-B859-4169-968D-112791FB4988",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "584A3CB2-5AAE-41FA-89CF-B6209AF96CBE",
+    "height": 358,
+    "width": 1366,
+    "x": 0,
+    "y": 110
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Header (Category + Hero)",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3CAA91FA-0203-4703-9315-FD9173F71F3D",
+      "overrideName": "36B7225B-5818-41F6-AB62-D9D28A3F2BFC_stringValue",
+      "value": "Template, 1"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D21AD1F5-6970-46B5-98F8-04C931566F48",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "217E2854-8EF0-4093-94AF-FE3E7B18D756",
+  "verticalSpacing": 0
+}

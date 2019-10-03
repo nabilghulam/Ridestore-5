@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "9FA918B8-F9BE-4FA3-9C07-A8635F66791C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "821624A1-3E34-4516-AF62-5E10D8BAE021",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1550C2EE-9F35-4737-A640-7C886D96947A",
+    "height": 15,
+    "width": 15,
+    "x": 2.5,
+    "y": 2.5
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "EA6CBEE8-FC31-4DBE-8EC7-30DBEBF24AF2"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "AF3B82E8-5159-4CDD-860D-8D79B2AF404D"
+    }
+  ],
+  "name": "icon-ma-filled-message",
+  "nameIsFixed": false,
+  "resizingConstraint": 45,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3EA22C1C-75F6-4353-8944-2BCD7BC1C31D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

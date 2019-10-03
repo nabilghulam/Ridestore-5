@@ -1,0 +1,120 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "E72099A5-E53F-40C7-9EC5-97BCF94635F6",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "F8966A01-0612-42FF-B5CA-F3C02DA3529B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1D019409-8B5F-45C1-A957-A0D7A46816D9",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "65FED414-B5D9-4C65-9696-4784BF2F1A35",
+    "height": 6195,
+    "width": 1366,
+    "x": 3375,
+    "y": 17638
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "D6B0D868-8BF3-4818-AE48-DC2254C89FC2"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "398C3C44-D517-4899-B6DA-50B2C6C9F66C",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "F0098528-A30E-4EB1-8191-FFD5A5AA24AE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FBF407F9-A619-46AD-82D6-08ED36046DED"
+    },
+    {
+      "class": "group",
+      "id": "345E2D1C-C25A-4DD9-AEC6-8E03266A171E"
+    },
+    {
+      "class": "group",
+      "id": "A5E4CAB9-3EB1-4021-ABFB-7CF59AB2133F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "565A275A-D63F-4FDF-AD71-0B458E3F4FE7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5B81C168-59B2-459B-919C-E79F2037131E"
+    },
+    {
+      "class": "group",
+      "id": "7B554300-90A4-4323-A905-DA486802F105"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "50304877-E0DF-4BB4-97F6-057124320301"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8ADAF29F-2D47-42F0-86C3-2B97A19B19F7"
+    },
+    {
+      "class": "group",
+      "id": "6BEC7B0E-7686-4302-BA31-CD76A04DED45"
+    }
+  ],
+  "name": "Product (Dope Jacket)",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F25D0803-E69B-4B60-AFBA-BF4E2F71581E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "BD6922C8-44A8-4CFC-A50B-7B216B83992D",
+    "guides": [
+    ]
+  }
+}

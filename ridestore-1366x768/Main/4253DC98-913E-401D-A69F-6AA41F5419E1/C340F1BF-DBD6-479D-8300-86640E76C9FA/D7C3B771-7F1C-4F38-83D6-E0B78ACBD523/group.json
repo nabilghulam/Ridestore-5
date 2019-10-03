@@ -1,0 +1,69 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "D7C3B771-7F1C-4F38-83D6-E0B78ACBD523",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3519CD99-BF13-4FB0-AC99-542A41B3D0DA",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9E17BBE8-BC8B-4EB6-BED7-280E55AD7A0B",
+    "height": 200,
+    "width": 339,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "F9AD5A08-94CC-4FE1-9DAF-93313CD6A29E"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "F3EFD287-C617-4F63-AD19-ADD57D5979FB"
+    },
+    {
+      "class": "text",
+      "id": "F166C9CF-9DC6-44D4-B6DB-19AABBB700FE"
+    },
+    {
+      "class": "group",
+      "id": "EEE6086B-4DB6-42A4-BFE5-CA8D0E897BB7"
+    },
+    {
+      "class": "group",
+      "id": "AB493102-3159-4B32-9E58-F45775D8E365"
+    }
+  ],
+  "name": "Contact (Messenger)",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "EF580388-090A-456D-8A08-4199C1FC59A9",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

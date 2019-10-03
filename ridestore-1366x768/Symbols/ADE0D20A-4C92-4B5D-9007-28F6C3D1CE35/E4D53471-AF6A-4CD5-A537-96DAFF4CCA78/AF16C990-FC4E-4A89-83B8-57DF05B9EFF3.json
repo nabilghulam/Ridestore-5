@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "AF16C990-FC4E-4A89-83B8-57DF05B9EFF3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6C7C3D04-617A-47A4-8A6F-FBED29599F86",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4FF0796D-F869-4487-9143-7FA7EC33FFC5",
+    "height": 465.0000000000001,
+    "width": 311,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Item (Product-1)",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "FEF0DE9C-B442-4733-92C7-CA172EA3F199",
+      "overrideName": "C8B7AECF-982F-4189-AA5E-96B9FEBF3E87_stringValue",
+      "value": "Newsoul Face Hood Vit"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7717B10D-661A-45A5-99EC-9740012E18E0",
+      "overrideName": "D1D0DCC3-A9A5-41D1-8773-BAE1E5D7BC15_stringValue",
+      "value": "399 sek"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "BA32832B-FE48-4C26-844C-11C0397C8E9D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "2431887C-FBDB-460B-9AA3-4206850DBB79",
+  "verticalSpacing": 0
+}

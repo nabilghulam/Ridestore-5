@@ -1,0 +1,70 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "FC8836C5-A06F-43FE-8CEE-50816446D3FA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F3BB0A3F-DCFD-4CEC-A812-97C758E6994B",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "BFFF602B-AD0C-430D-B52F-AAF3811C9306",
+    "height": 28,
+    "width": 30,
+    "x": 1,
+    "y": 2
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "9C7E3841-779E-407B-BA1B-215E3D44DA50"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "A642DF5F-2401-4004-B0C5-9DC79CA7C2FF"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "FEE591F2-02FD-4A1E-8D10-C8B122989355"
+    }
+  ],
+  "name": "icon-ca-underwear",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "156C5D57-A2E2-41D4-8BD2-BFFA9F2D723A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

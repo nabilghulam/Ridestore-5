@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "9C150B3A-E4E1-4A19-A737-B58E68DB1866",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "CA70621F-BE8E-4532-BA96-568BB36BE66F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9A11E7BC-F748-4121-8708-73BC01A3146D",
+    "height": 13,
+    "width": 19,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "A70DD2A1-626C-4902-9EA8-14D6C81048D7"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "BEBF6052-236C-4BC8-9FC4-3420ABC64C9B"
+    },
+    {
+      "class": "rectangle",
+      "id": "E6D9475A-0A4A-4FEE-8F35-4C60231DE527"
+    },
+    {
+      "class": "rectangle",
+      "id": "C787FFF7-3B5C-44E3-9734-3BB1D26B7873"
+    }
+  ],
+  "name": "Flag/Sweden",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E287500F-8FA4-47EE-8FF7-6007AC60A97D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

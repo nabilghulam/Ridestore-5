@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "4C365717-90BC-4FEC-B152-417ABAC1921C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0E8F62D8-EF5B-46ED-82EB-E4EE5B87312A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F57A5FEE-866B-4F83-97CE-237D642F39D1",
+    "height": 20,
+    "width": 20,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "921FB18D-3A36-49D5-A2DF-E12483365E50"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "41636EAB-DC16-4F21-B2D7-67A90CB07ACD"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "2E2D1C77-A52F-44CE-BBD5-1A1C3C1154AD"
+    }
+  ],
+  "name": "Icon (iOS-Messages)",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8A839AB8-3EAE-4BD7-8A76-4ABFB5807E13",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

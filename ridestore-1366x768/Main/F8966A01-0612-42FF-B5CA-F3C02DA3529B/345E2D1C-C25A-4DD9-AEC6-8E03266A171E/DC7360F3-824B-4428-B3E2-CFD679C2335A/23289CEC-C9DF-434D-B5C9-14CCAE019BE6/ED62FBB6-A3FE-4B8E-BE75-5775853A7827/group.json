@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "ED62FBB6-A3FE-4B8E-BE75-5775853A7827",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7DA5971A-BC25-486E-979C-AB5296DE0E52",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B8AE84BF-B2C5-47B5-B7BE-AF92A9F1C746",
+    "height": 126,
+    "width": 298,
+    "x": 0,
+    "y": 168
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "AC18DC4F-AF64-4938-994C-909EA7155E4F"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "9778B37D-3FFC-4B0E-85D8-36333849A0B7"
+    },
+    {
+      "class": "group",
+      "id": "4232A73F-6D4C-41FC-B0C5-E3CD064304F9"
+    },
+    {
+      "class": "group",
+      "id": "19DA2ACA-750B-4E74-81FE-69EF47FA2453"
+    }
+  ],
+  "name": "Section (Andningsförmåga)",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3912B832-2B4F-4B85-B229-0715F1532640",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

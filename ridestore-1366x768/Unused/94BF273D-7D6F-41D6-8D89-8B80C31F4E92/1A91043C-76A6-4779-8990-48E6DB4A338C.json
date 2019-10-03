@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "1A91043C-76A6-4779-8990-48E6DB4A338C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9A879313-7D75-429B-8088-3A19DB91D1C2",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9CB5BB6E-2FAC-4284-ABD1-0672CDA7C3BD",
+    "height": 1275,
+    "width": 1368,
+    "x": -1,
+    "y": 2087
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Footer",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "656C6E82-BAFF-4115-870C-7738B2A30B4D",
+      "overrideName": "22281DD8-16D6-4D21-B284-1EBA6426FCC0_stringValue",
+      "value": "Wonderful service, can’t wait to order more. Placed a order and it came 2 days later."
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "52E6FA91-2100-48F8-8ABB-D3B6DFD7FF18",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "C508F8DB-77F6-483B-B609-5E6059A48B53",
+  "verticalSpacing": 0
+}

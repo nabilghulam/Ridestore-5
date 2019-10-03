@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "B99CB97A-32B9-47F1-82B4-1536DCAAD86B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F0F8710F-F2A0-473B-85A8-F048CE052C95",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "18921853-7E35-4105-977A-08E96594ACDE",
+    "height": 45,
+    "width": 176,
+    "x": 950,
+    "y": 14
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Button/CTA/Small",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "ED3E2ABD-2A83-42D1-BD9E-3D412F74A829",
+      "overrideName": "2818F3F4-1F61-4763-BFB5-3896221E5CFD_stringValue",
+      "value": "VIEW COLLECTION"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "28AD24B1-FA2B-4628-BE0C-A7CF48D2829C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "AA559A97-1679-48C8-A684-C86BD4210C62",
+  "verticalSpacing": 0
+}

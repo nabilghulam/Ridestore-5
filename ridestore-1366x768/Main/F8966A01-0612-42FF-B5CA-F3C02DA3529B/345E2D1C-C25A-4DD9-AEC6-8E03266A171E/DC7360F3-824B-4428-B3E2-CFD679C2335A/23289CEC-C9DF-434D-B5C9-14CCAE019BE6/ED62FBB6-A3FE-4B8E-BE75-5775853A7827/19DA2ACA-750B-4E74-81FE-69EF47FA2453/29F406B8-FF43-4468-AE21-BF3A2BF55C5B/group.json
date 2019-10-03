@@ -1,0 +1,73 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "29F406B8-FF43-4468-AE21-BF3A2BF55C5B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "66EFD475-7847-45DE-A15F-F43172801A30",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A692A717-1573-4C1B-B3EC-24A7A4445F6D",
+    "height": 50,
+    "width": 298,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "1D36E377-06BD-4842-B58C-AF46C4404600"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "37308044-05E9-4A71-AACE-FDFE136D37A2"
+    },
+    {
+      "class": "group",
+      "id": "A2AADFD0-40A8-4A40-B906-6E52E0C312E0"
+    },
+    {
+      "class": "group",
+      "id": "2B989B2D-1873-4054-A07A-E0BC6C5FCD64"
+    },
+    {
+      "class": "group",
+      "id": "8481654C-ABF9-4AA6-8E07-83E65B70DE35"
+    },
+    {
+      "class": "group",
+      "id": "C89DEBA6-7C4E-441C-B678-DB8D7088B396"
+    }
+  ],
+  "name": "Stat (Andningsformaga)",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2F28E414-5128-460C-8C89-5F390469FDDB",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

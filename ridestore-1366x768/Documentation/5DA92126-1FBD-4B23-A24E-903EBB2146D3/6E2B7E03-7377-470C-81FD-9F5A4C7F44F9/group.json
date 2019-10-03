@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "6E2B7E03-7377-470C-81FD-9F5A4C7F44F9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8C454FB0-4DDE-4125-8810-D266CF565F48",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "BE2B5056-FD63-4713-BFC6-3E3EA3FF572C",
+    "height": 31,
+    "width": 32,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "C2A1427A-632D-48CB-A2C1-9EF1CBA0BF58"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "0FE9556E-4800-41B5-B5A3-FE870EF2643E"
+    },
+    {
+      "class": "group",
+      "id": "85AD2072-CBF5-480B-B212-2D4068919B05"
+    }
+  ],
+  "name": "Icon/Categories/Underwear",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "53ECCAEB-47EF-4AE3-B366-4F55AB08CB9C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

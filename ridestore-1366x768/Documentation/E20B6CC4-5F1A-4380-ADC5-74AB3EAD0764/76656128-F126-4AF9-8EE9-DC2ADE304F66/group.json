@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "76656128-F126-4AF9-8EE9-DC2ADE304F66",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "59A6C76E-E89C-4F14-8360-8413022CA68B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "AC1ADBD9-7F34-4D08-9E24-1301B8B758AC",
+    "height": 31,
+    "width": 32,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "C793252D-CBC4-4964-B6B9-58A728CA7D2D"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "D10974DE-FB5A-4A5F-AEFB-A4FCE8EC5A2C"
+    },
+    {
+      "class": "group",
+      "id": "FA4673C2-BC1E-4597-A503-B1133A5481C8"
+    }
+  ],
+  "name": "Icon/Categories/Mittens",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B9FBC267-E3FF-4B2D-A1D6-9B7F2CABFB1E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

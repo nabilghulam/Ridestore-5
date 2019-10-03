@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "67DB8E86-B82C-4415-8651-C61F226EE99B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "39CEAEDE-99F2-44FE-8330-F31940534585",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4ADA9564-40C3-48B0-B889-8827A2BAF59E",
+    "height": 1275,
+    "width": 1368,
+    "x": 0,
+    "y": 3634
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Footer",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "642B4C91-3B48-4941-B57F-FB845B42D7C2",
+      "overrideName": "6344A5DD-1797-42B9-A99A-1203200956E7_stringValue",
+      "value": "Verified Purchaser"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "801C169A-74C1-4D0B-B891-199FD8CA79B2",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "C508F8DB-77F6-483B-B609-5E6059A48B53",
+  "verticalSpacing": 0
+}

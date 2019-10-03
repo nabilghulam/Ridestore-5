@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "C0F4AD02-8BAC-4E08-8116-F50421B54F8F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E2A3CC1A-5023-4F3A-855B-6EFB3118675D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9FC20BDC-8D69-4604-B8F8-7F54E777BDB5",
+    "height": 13,
+    "width": 19,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "83DD04A2-B766-4E14-A071-6F17D78C44B4"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "974A442F-E955-47DC-A63B-CC5D43E882CC"
+    },
+    {
+      "class": "rectangle",
+      "id": "ADE5BC0F-3290-4FD4-A1B7-3C427A52175F"
+    },
+    {
+      "class": "rectangle",
+      "id": "0E6EB5DD-5BA0-48C4-9EE4-EF736C574DDB"
+    }
+  ],
+  "name": "Flag/Finland",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D33FFA74-AF14-4F67-BD10-7FCCF737B259",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

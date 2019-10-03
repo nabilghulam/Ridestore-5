@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "8DF4A309-A986-474A-B977-89FEAF098D9C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 227,
+    "width": 456,
+    "x": 912,
+    "y": 910
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "E0B87BC1-6C59-4BEF-92C1-1BBECD2C9F63"
+    },
+    {
+      "class": "group",
+      "id": "5CA94CB3-DD18-46DB-8D60-F419F598862D"
+    },
+    {
+      "class": "group",
+      "id": "4B6C18B8-3505-40DE-BCDC-63F4FCD42C56"
+    },
+    {
+      "class": "group",
+      "id": "B0AEFD00-D048-467E-819B-4A943A7BB11B"
+    }
+  ],
+  "name": "Footer/Social",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "58055424-584D-454A-AC97-D75796A681A6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "EA40B50F-05C9-413A-ACD6-AB0118726FCE",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "77E402CA-448E-42A6-BC73-DA2B8F48797B",
+    "height": 31,
+    "width": 32,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "8835D2D1-34B5-4ED7-A092-BDAF029C0F46"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "FEBE3D9D-BF5E-4CE3-A4F6-D8B8166628EE"
+    },
+    {
+      "class": "group",
+      "id": "8A79FDE4-0CC4-4651-ACD9-BBC0553C7160"
+    }
+  ],
+  "name": "Icon/Categories/Stickers",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "EE0F8CFA-E606-4A6D-8131-BFC5BC555E14",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "75EC1029-C235-4D7B-BB01-01EA690BEA92",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "65D568F7-4EE4-4344-8339-D83238412E3C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "FC4D8023-9172-43C6-83DE-D25AB4163BE0",
+    "height": 105,
+    "width": 1366,
+    "x": 0,
+    "y": 276
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Filter Bar",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "40C84D23-D84E-4614-8B01-83047F3007DB",
+      "overrideName": "2AE2840F-8D47-48F5-BFB9-59F6B7F5B60B/5CC69201-96DE-4C1A-A492-624DD8C8448E_stringValue",
+      "value": "Faux Leather"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "FD66EC0C-2FE2-453B-AE53-E2E2EA7B1B03",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "A2488759-4913-4BF6-9F45-9E0B3A469435",
+  "verticalSpacing": 0
+}

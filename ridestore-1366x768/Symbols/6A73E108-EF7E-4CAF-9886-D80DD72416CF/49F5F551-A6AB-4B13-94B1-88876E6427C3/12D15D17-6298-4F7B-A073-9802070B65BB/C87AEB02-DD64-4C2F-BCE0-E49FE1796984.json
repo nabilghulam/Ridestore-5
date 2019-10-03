@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "C87AEB02-DD64-4C2F-BCE0-E49FE1796984",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1FA1E609-3F43-4CE7-B827-29323590AF45",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5304F70F-321C-491F-86D6-C0A85D7A9659",
+    "height": 45,
+    "width": 102,
+    "x": 194,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "name": "Button/CTA/Small",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "55DD01FB-D78E-4639-A554-56F9DAD69014",
+      "overrideName": "2818F3F4-1F61-4763-BFB5-3896221E5CFD_stringValue",
+      "value": "Buy"
+    }
+  ],
+  "resizingConstraint": 60,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0F5AC84D-E1A3-421B-AC5B-F41CCAFCD733",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "AA559A97-1679-48C8-A684-C86BD4210C62",
+  "verticalSpacing": 0
+}

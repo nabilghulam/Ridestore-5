@@ -1,0 +1,78 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "2CE8FE74-48C7-4EC6-8846-231386B8CCB6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "851823B2-5DDE-4001-AB80-0EE8F111A2B3",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "CC28CB2A-2347-4EAA-A2B9-2D2644251A32",
+    "height": 29,
+    "width": 30,
+    "x": 1,
+    "y": 1
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "011EA60C-6C3A-4810-8447-7566B3E7E227"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "2B81D575-5A75-48B2-A0F0-6A5B51565DEC"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F66547C7-69FF-4D48-80D7-4E845354D1DF"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C504383A-332E-4959-A180-E399BF65731B"
+    },
+    {
+      "class": "shapePath",
+      "id": "84525E98-5EA8-434C-8422-ABAEF224BF18"
+    }
+  ],
+  "name": "icon-ca-headphones",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "CC332C12-E563-4C0E-BF02-C4257CDA7225",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

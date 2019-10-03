@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "E4154F09-70C9-4902-8B3B-14EB67345172",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8E4E61F6-CF1E-404B-B7DE-7C7280012BF9",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3770ACF3-5D16-424D-A792-D20D68415345",
+    "height": 45,
+    "width": 115,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "name": "Input/Select",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9C0B71E7-9036-48DA-8D82-F72EDC098DBB",
+      "overrideName": "38BBCDA7-DC98-4F32-AB33-2E9A6688CCF6_stringValue",
+      "value": "Women"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "AF539C19-17BB-444E-B70E-920A4F6B91B1",
+      "overrideName": "38BBCDA7-DC98-4F32-AB33-2E9A6688CCF6_textStyle",
+      "value": "180C00FE-A17F-44A5-AC47-B3DDEA6537F1"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C962662B-CB71-4CAC-9639-A34E75C29F3A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "6564D444-988C-4720-A4E8-C3B4BDE5AF73",
+  "verticalSpacing": 0
+}

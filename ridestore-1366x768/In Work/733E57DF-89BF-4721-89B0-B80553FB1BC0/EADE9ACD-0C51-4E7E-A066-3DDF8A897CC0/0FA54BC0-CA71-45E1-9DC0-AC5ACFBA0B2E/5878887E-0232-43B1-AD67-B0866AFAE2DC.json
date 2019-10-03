@@ -1,0 +1,68 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "5878887E-0232-43B1-AD67-B0866AFAE2DC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "322C8C80-96E7-4DFE-8ACB-179A9C178341",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F9300ECB-EAD5-4006-9AE8-7607E60ED4AA",
+    "height": 375,
+    "width": 246,
+    "x": 1040,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Home/Main/Category with Image",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "72D0268C-BBA7-4532-BBCB-312EA5DE45B1",
+      "overrideName": "AE2A0EC3-474D-444B-B12C-2B94EF13F00F_stringValue",
+      "value": "Goggles"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "777F5E0B-4906-4DD0-A3B3-5338A6251529",
+      "overrideName": "087E28EB-7C91-480C-BD2D-0F6D7D419FA1_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/644b55e1ecc8ee251ea94722b27b8f5f96c7c67d.png",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "34511301-3926-4BA5-896A-933EA6A54672",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "E5B34258-5876-44D2-AE68-A13480590E79",
+  "verticalSpacing": 0
+}

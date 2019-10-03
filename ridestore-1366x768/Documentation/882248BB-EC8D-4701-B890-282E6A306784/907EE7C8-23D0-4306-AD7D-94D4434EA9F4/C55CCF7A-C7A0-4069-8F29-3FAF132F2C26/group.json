@@ -1,0 +1,114 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "C55CCF7A-C7A0-4069-8F29-3FAF132F2C26",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "04753B11-C6D1-4EEA-834D-940499044193",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "85A0DB55-EFD5-4D36-9D7E-CB9405B57E74",
+    "height": 30,
+    "width": 30,
+    "x": 1,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "6D1835FC-98DE-4983-8385-6F95B6014BB4"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "D66B23F9-EDCB-4A1F-897C-DE0AEBE940B0"
+    },
+    {
+      "class": "shapePath",
+      "id": "7D5B0757-354B-4A5A-84D9-550E12E2C496"
+    },
+    {
+      "class": "shapePath",
+      "id": "7C5D0E9F-F235-439D-BB6B-36E56DE06219"
+    },
+    {
+      "class": "shapePath",
+      "id": "2ED361FA-B414-441C-A3A6-F54BE09CA5AE"
+    },
+    {
+      "class": "shapePath",
+      "id": "341F56BF-9ADA-42FB-8BC8-283E814D90C7"
+    },
+    {
+      "class": "shapePath",
+      "id": "8E315AA2-5CE7-4E4F-93C4-094A76822EAB"
+    },
+    {
+      "class": "shapePath",
+      "id": "13271073-542B-4D32-84EC-9AEE7CBC053C"
+    },
+    {
+      "class": "shapePath",
+      "id": "B536FAAD-2261-48AB-837E-FDDC048C1895"
+    },
+    {
+      "class": "shapePath",
+      "id": "9E423D9A-0767-424E-9C78-17CC2D7CD933"
+    },
+    {
+      "class": "shapePath",
+      "id": "DC439EEB-E7C6-48E5-A2D3-5290E9116429"
+    },
+    {
+      "class": "shapePath",
+      "id": "4D6C8B0C-8F1B-4EBE-9BC1-3F09AF1909ED"
+    },
+    {
+      "class": "shapePath",
+      "id": "85D2C381-2FA1-43F4-BF6E-BBC22D370D6A"
+    },
+    {
+      "class": "shapePath",
+      "id": "99D93CC0-3A9F-45D7-8FC9-EB6D72B50135"
+    }
+  ],
+  "name": "icon-ca-snowboard",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "99D67ADE-0776-4CEE-AA8E-1785A29C05A4",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

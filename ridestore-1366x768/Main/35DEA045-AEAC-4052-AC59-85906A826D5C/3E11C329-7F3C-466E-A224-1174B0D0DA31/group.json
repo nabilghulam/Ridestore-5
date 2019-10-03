@@ -1,0 +1,81 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "3E11C329-7F3C-466E-A224-1174B0D0DA31",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1B39829D-5208-4E51-A727-C05B7924CC31",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D633E2D1-2CA9-4F69-86F5-A76D4585912F",
+    "height": 768,
+    "width": 526,
+    "x": 840,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "622345F9-3872-4B29-B87D-216E00EE1CC0"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "43DA2938-F8E4-435A-96AA-56203F1A20BA"
+    },
+    {
+      "class": "group",
+      "id": "106B0381-F47D-47CD-8965-9069897188F3"
+    },
+    {
+      "class": "group",
+      "id": "FF69EDDD-C7FC-4248-BD90-23C5E6A8E4B8"
+    },
+    {
+      "class": "group",
+      "id": "65AB9716-FB9B-43B6-B27B-28D3AF88266E"
+    },
+    {
+      "class": "group",
+      "id": "5F3B6154-5C17-405B-BABB-05333C626A25"
+    },
+    {
+      "class": "group",
+      "id": "1543809C-8D96-4B53-9FEF-1AA2E573EBED"
+    },
+    {
+      "class": "group",
+      "id": "A4CF00C2-FDBA-47E6-A433-689306A1BC4D"
+    }
+  ],
+  "name": "Shopping Bag",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F622CAD8-9F86-4043-8E88-50D62D32B255",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "336CD637-77DC-493C-94DF-FAC84A7FFC1E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F223789B-FA5D-46B0-87AC-C99E960D1F15",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "87E941B4-C77C-4B4C-88B9-963FF57C160D",
+    "height": 91,
+    "width": 342,
+    "x": 25,
+    "y": 25
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Product/Actions/Header",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DAF2B9D5-4429-49B5-A478-34955F26028A",
+      "overrideName": "0CF44193-ACA6-4530-9887-B68B377DD7BA_stringValue",
+      "value": "Our all time most popular snow jacket, in a new updated version. We kept the clean and humble design everyone..."
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8361A10F-C9E8-419E-BEBE-3195E6B3936A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "BD300BB5-4D9D-459F-B077-5FD873D62F0A",
+  "verticalSpacing": 0
+}

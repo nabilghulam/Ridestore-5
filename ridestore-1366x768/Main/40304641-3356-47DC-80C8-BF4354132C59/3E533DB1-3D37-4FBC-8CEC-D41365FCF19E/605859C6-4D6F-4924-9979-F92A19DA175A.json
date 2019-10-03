@@ -1,0 +1,86 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "605859C6-4D6F-4924-9979-F92A19DA175A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "FE78D80A-E382-4199-B2B1-D0221144014D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "62B4435D-CC2B-4214-9E6C-BE60320D6CBE",
+    "height": 660,
+    "width": 635,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Heros/Column",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E8F71D76-A139-4564-AA37-AC3F3D0D1B5D",
+      "overrideName": "EBB9D320-6519-4BB3-A84B-022730637A9D_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/4d820f110eebf3e4fbb83b90d65fe7859000286e.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0C5D4DFC-95C6-44D3-AE67-B2D28045C03A",
+      "overrideName": "1D1C15F1-72DF-467D-901A-41CB2712B4D0/8E38C3C7-AD17-4000-BA2F-66BFCDCE3CD7_stringValue",
+      "value": "Outdoor"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "885849C8-026F-4139-8DE9-E2875E9794C1",
+      "overrideName": "CC68F0C6-8241-4178-B2FA-581C40077567/D255B489-306D-487D-B561-4E4976482372_symbolID",
+      "value": "8E2BE943-0D6D-41FD-B352-D9A5B0670692"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0ABBE16A-063D-4CB7-BEA2-1EF88066D6B1",
+      "overrideName": "1D1C15F1-72DF-467D-901A-41CB2712B4D0/DA38F2DA-D1F6-4F72-AFA7-D956E51F1581_stringValue",
+      "value": "Shop Men"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E2B88029-D4E3-4DE3-B0A8-A4E42506BB3D",
+      "overrideName": "1D1C15F1-72DF-467D-901A-41CB2712B4D0/A9F1FE70-1C5C-4467-8349-8222D9479CA1_symbolID",
+      "value": ""
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "53170A37-902A-437D-8E5C-9C291C99A198",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "76EE4E22-CA6D-4C5B-BFF7-7E25BD281BBB",
+  "verticalSpacing": 0
+}

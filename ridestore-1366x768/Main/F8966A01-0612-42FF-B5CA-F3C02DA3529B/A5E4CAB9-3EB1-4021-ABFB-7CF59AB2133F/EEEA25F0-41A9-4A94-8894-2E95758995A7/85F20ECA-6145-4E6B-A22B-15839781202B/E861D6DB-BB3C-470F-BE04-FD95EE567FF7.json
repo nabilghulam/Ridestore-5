@@ -1,0 +1,74 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "E861D6DB-BB3C-470F-BE04-FD95EE567FF7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7523B078-77EB-4D82-A2B1-31A20C7DE26B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8C789035-43CD-4ACB-8166-36CD1CE40084",
+    "height": 160,
+    "width": 360.5385826771654,
+    "x": -2.842170943040401e-14,
+    "y": 1080
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Product/Goggles/Highlight",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E8047A71-F0F3-4DE8-BBCB-F13075F0D42B",
+      "overrideName": "6C9CE1ED-DCDC-45AC-ACD2-454BDAF8AF0F_stringValue",
+      "value": "Snow skirt with adjustable button closure fits you perfectly and keeps the snow out"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "08F68CDE-D050-4A63-B3BA-AE3BCF09C145",
+      "overrideName": "0476D5B9-2C1C-4082-BE2D-9D87CBD9BA8F_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/c43cb41a965f8f78bb502bcc2c4073a870bda35d.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "FF8DF00C-44D8-472C-8F68-F7936366DEFD",
+      "overrideName": "7EEA6879-B4D8-4189-9A33-46FDCCF94AB8_stringValue",
+      "value": "Snow Skirt"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0B8C9756-45D0-431A-82BA-1900245B10B8",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "0ED4B0E3-FBA7-4090-88C7-215E20A4F898",
+  "verticalSpacing": 0
+}

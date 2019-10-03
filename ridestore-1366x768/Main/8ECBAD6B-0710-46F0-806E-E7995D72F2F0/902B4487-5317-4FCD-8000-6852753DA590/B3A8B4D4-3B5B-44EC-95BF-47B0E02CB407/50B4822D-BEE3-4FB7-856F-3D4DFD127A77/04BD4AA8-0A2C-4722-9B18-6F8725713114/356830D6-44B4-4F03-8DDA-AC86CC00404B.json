@@ -1,0 +1,80 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "356830D6-44B4-4F03-8DDA-AC86CC00404B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "035E0E73-5847-43D3-B30B-011E0976EBE3",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9DC587D4-2869-438C-A7E3-51B3BFE2D705",
+    "height": 62,
+    "width": 342,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Styleguide/Product/Item",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DD029FC4-F4E6-41F0-AEA6-8F47A6266F5A",
+      "overrideName": "7605CB91-97E8-4CF7-BF89-FB4CDB41261D_symbolID",
+      "value": "71F74DD8-5882-4FA7-95E3-B17C80BF682E"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CAF7C169-B35F-4FBE-9EF3-8D5434740B7E",
+      "overrideName": "4692012B-279B-4E44-AD0B-18BC6D3D9039_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/a937a0bb498666d5664af85f5c24b24f655b95c6.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "932141A0-EBB5-4179-A760-E9D8F63826D0",
+      "overrideName": "CC49A4AC-7284-4435-B8D3-EFA24DB389EC_stringValue",
+      "value": "1699 sek"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4E4841A9-4957-4DD9-920D-5EA66CFC65F7",
+      "overrideName": "EA53840F-CB3E-4A66-91BF-5B5CBB1383FA_stringValue",
+      "value": "Annok W 18 Snowboardjacka"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "ACC1476F-0C5A-4F87-B0BF-791EB57ABDBC",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "38F95016-46F3-4EB7-90DA-05FC2DF66B0C",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,92 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "70C3A5F1-0311-45D0-B6AC-42EF4916CBE6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "580DB509-F542-41C9-8776-621BE0EF8D6D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6B309BC3-D61E-4944-951E-8DA6368BBFBF",
+    "height": 62,
+    "width": 342,
+    "x": 0,
+    "y": 77
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Styleguide/Product/Item",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E080892D-879F-44E2-9760-F060B724C103",
+      "overrideName": "7605CB91-97E8-4CF7-BF89-FB4CDB41261D_symbolID",
+      "value": "71F74DD8-5882-4FA7-95E3-B17C80BF682E"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C68B731D-57F9-4F9E-9D3A-CDADDBA9A595",
+      "overrideName": "4692012B-279B-4E44-AD0B-18BC6D3D9039_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/ddcb67659574d211d150f0e388872cb5e03a959c.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3C025E8F-D69B-4FDF-8E50-41BD05F07876",
+      "overrideName": "CC49A4AC-7284-4435-B8D3-EFA24DB389EC_stringValue",
+      "value": "1499 sek"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3A3025C9-2FBE-4269-B104-69075B86658A",
+      "overrideName": "7605CB91-97E8-4CF7-BF89-FB4CDB41261D/75309F8E-A091-4B72-A36B-FD8802E59141_stringValue",
+      "value": "Size"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "84BD07C5-C214-4F7C-81DA-FF0146ABFD14",
+      "overrideName": "EA53840F-CB3E-4A66-91BF-5B5CBB1383FA_stringValue",
+      "value": "Con Snowboardbyxa"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C60CBF86-7001-4F4A-806E-F150058BC10B",
+      "overrideName": "7605CB91-97E8-4CF7-BF89-FB4CDB41261D/75309F8E-A091-4B72-A36B-FD8802E59141_textStyle",
+      "value": "02B62877-6FAA-4001-B625-630EB810CCBD"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C7D3D727-1A28-40F4-AA2D-91259980D1F6",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "38F95016-46F3-4EB7-90DA-05FC2DF66B0C",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "DBA9CB0A-2CAF-4E27-B282-F357BC5F1289",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "EC687C8F-E545-4C1B-B372-68FA9086B7E7",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "61DB456B-72CD-4FC7-A72C-B73C33A333DC",
+    "height": 55,
+    "width": 341.9999999999998,
+    "x": 25.00000000000011,
+    "y": 470.5
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Tab/Small",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "EFDB579D-0DEA-46CE-BEE2-5F03EDCE8368",
+      "overrideName": "14B775E9-507C-4FD1-A89E-855217B69789_stringValue",
+      "value": "Produktinformation"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C4D47D93-1D8C-4CAF-9B2C-4F9C69148398",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "CC45A164-9554-4ADB-9DFF-C81071C42E79",
+  "verticalSpacing": 0
+}

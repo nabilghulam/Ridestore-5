@@ -1,0 +1,76 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "20289441-70D3-4E0C-A615-1E08EFD2BDB7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E4675FF0-DF0E-492A-B2A5-EE542CCD92C5",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8A814776-5BAB-4A9D-B1A5-3955E310899E",
+    "height": 166,
+    "width": 1366,
+    "x": 0,
+    "y": 110
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Header (Category)",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2BBE68E8-25FA-48E2-BB61-8933B8BE7D10",
+      "overrideName": "27A04651-3FA0-4BA2-B742-AD2102623356_stringValue",
+      "value": "Streetwear"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F0584ADB-41C2-4C02-A904-0E7378A6526E",
+      "overrideName": "66102172-07BB-40FC-A1A0-15EB566DA98E_symbolID",
+      "value": "FAD5B12B-8E2E-4FCB-8CE1-0910FA42F53F"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C098E9C6-B6EB-4190-B10B-552A792CE473",
+      "overrideName": "66102172-07BB-40FC-A1A0-15EB566DA98E/A722B9D3-3B73-4B68-A4B2-B84F85B19ADC_stringValue",
+      "value": "Women"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D5CFD15D-D099-4617-A5F0-A402F41C5427",
+      "overrideName": "66102172-07BB-40FC-A1A0-15EB566DA98E/9C757390-3862-41E1-9CDC-135328E043F5_stringValue",
+      "value": "Streetwear"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "910D9D12-F2D8-440A-AE49-D1524401D94F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "F9A771AC-ED3B-441E-8EA3-B8BCF9AF8C3E",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "4795996E-C33A-4619-952A-CB189F57E588",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5C32461D-BA61-4987-9C59-D41354CCE6F4",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4BFE4C96-1FDB-4A5F-AA95-0AC45DD9700B",
+    "height": 45,
+    "width": 124,
+    "x": 138,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Button/Normal",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "50C5059B-AB2F-4CC8-A6C8-471C38EC7172",
+      "overrideName": "FFBA5EE6-B04D-48E9-AA47-3BFE3624E8B5_stringValue",
+      "value": "Nej"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4827BD36-B2FC-4E9D-A43F-AA8B60E31F7B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "0BE4A07C-53D1-4CAC-AFAD-93E4349FF2BB",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,94 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "F68CB071-D768-4507-B715-8953217330C5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "CE972B97-60CF-4A70-A1B3-6109332BA42E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5CEB0166-F3B8-40E6-84FE-7C8E0EBCC4C7",
+    "height": 267,
+    "width": 137,
+    "x": 50,
+    "y": 65
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "name": "Filter/List/Default",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8E3DAFA9-FA18-490A-9772-6A2D80B164DE",
+      "overrideName": "1FAF1474-7419-4C53-B417-0C266F7E2A25/2E73DBF7-521A-4C84-AD74-2D2596980B2F_stringValue",
+      "value": "Blue"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "68B74317-4B64-4F73-B083-54BC5E438C4A",
+      "overrideName": "D7830A85-ACF0-46B9-B85F-672EDC1169E5/2E73DBF7-521A-4C84-AD74-2D2596980B2F_stringValue",
+      "value": "Navy"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "164A08EA-E19D-49D6-9CBB-ABB8B9422DED",
+      "overrideName": "45AFCF60-A514-402C-8222-AC9E8AB06F0A/2E73DBF7-521A-4C84-AD74-2D2596980B2F_stringValue",
+      "value": "Grey"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2AB73BB2-8927-4CF3-8789-A1DDEF28F1E1",
+      "overrideName": "3B794D6B-9171-40BA-A53C-9B60BF97B485/2E73DBF7-521A-4C84-AD74-2D2596980B2F_stringValue",
+      "value": "Red"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "219C16C9-96ED-4E58-8921-04B92D9601DB",
+      "overrideName": "4D2C9DA5-71BA-418C-AABA-861A38B1BB97/2E73DBF7-521A-4C84-AD74-2D2596980B2F_stringValue",
+      "value": "Wine"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C47B2571-9DC5-4C19-853E-F67327CD6485",
+      "overrideName": "F94FABC2-0612-48B8-814A-54D39B97E84D/2E73DBF7-521A-4C84-AD74-2D2596980B2F_stringValue",
+      "value": "Pink"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B9583053-18A9-4B23-9027-2CA11CEFEBB8",
+      "overrideName": "8ECDB116-3FDC-4A27-A5FA-33208E897E39/2E73DBF7-521A-4C84-AD74-2D2596980B2F_stringValue",
+      "value": "Black"
+    }
+  ],
+  "resizingConstraint": 11,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7CA82D5A-9ACD-4C56-AD07-FBB704C727D7",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "188E6491-BF9D-4FBE-80C7-EA210B447217",
+  "verticalSpacing": 0
+}

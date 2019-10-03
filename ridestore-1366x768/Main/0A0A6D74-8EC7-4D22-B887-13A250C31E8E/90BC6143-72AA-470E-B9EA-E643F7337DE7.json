@@ -1,0 +1,82 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "90BC6143-72AA-470E-B9EA-E643F7337DE7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A27C1FD9-DF5A-4432-9453-B2B20A722633",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E57873FA-CC45-459E-9555-06613399A6C7",
+    "height": 166,
+    "width": 1366,
+    "x": 0,
+    "y": 110
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Header (Category)",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2BBE68E8-25FA-48E2-BB61-8933B8BE7D10",
+      "overrideName": "27A04651-3FA0-4BA2-B742-AD2102623356_stringValue",
+      "value": "Accessories"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E54C801B-0E40-40A5-8793-831A710A8651",
+      "overrideName": "78F6845E-8943-45F9-9F85-DD64449CA746/E7D61ECE-2362-4DDF-9A2F-CCAE3A8044E0_stringValue",
+      "value": "Women         Streetwear         Tops"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3BE3AFBF-FA6D-4318-B391-80B394AADEF1",
+      "overrideName": "66102172-07BB-40FC-A1A0-15EB566DA98E_symbolID",
+      "value": "FAD5B12B-8E2E-4FCB-8CE1-0910FA42F53F"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "549BC2AE-F716-41E0-B230-EFF99862AEF8",
+      "overrideName": "66102172-07BB-40FC-A1A0-15EB566DA98E/A722B9D3-3B73-4B68-A4B2-B84F85B19ADC_stringValue",
+      "value": "Women"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5C79C710-6858-40D9-B2F9-B44C6AC38EB9",
+      "overrideName": "66102172-07BB-40FC-A1A0-15EB566DA98E/9C757390-3862-41E1-9CDC-135328E043F5_stringValue",
+      "value": "Accessories"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F940C43B-5B05-49D5-9BCB-DDF9D4CFADE1",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "F9A771AC-ED3B-441E-8EA3-B8BCF9AF8C3E",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "B9A099DA-B690-497D-9408-FF22981D4667",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 81,
+    "width": 311,
+    "x": 0,
+    "y": 385
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "A0A16D8D-BCA0-4171-A749-ED23E73D4615"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9AF932AF-23EB-4183-8059-D01AF2AB9444"
+    },
+    {
+      "class": "text",
+      "id": "F0F5AB2F-AA13-4266-B1A8-181CBEDEEA04"
+    },
+    {
+      "class": "text",
+      "id": "4E665E08-4833-4F3D-B8D2-132E3251213B"
+    }
+  ],
+  "name": "Information (Product)",
+  "nameIsFixed": true,
+  "resizingConstraint": 39,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

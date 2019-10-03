@@ -1,0 +1,132 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "3C5D2631-F931-4DAF-9B28-56422E741C08",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F98A3D4B-CAD8-4B5A-95F5-D6A3991758BC",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "83DA636F-B3F7-4389-BC16-74F3B9EFEA2C",
+    "height": 609,
+    "width": 1366,
+    "x": 0,
+    "y": 110
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Gallery",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D815BBDA-EE03-4B27-9EC3-0DACE67B2838",
+      "overrideName": "69F20C86-029C-4EE2-87E6-188719247A5D_stringValue",
+      "value": "Our all time most popular snow jacket, in a new updated version. We kept the clean and humble design everyone..."
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4B668B9C-D0E8-41C7-92F8-B12CE5DD222A",
+      "overrideName": "F66B4BE6-AB98-4D9B-A51A-87C76706EB28_stringValue",
+      "value": "100 Glacier 1/4"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1E369F52-D549-460C-A156-CE8978BA0091",
+      "overrideName": "9914493A-1E04-4ABD-8FDF-D401BA48E0B3_stringValue",
+      "value": "The North Face"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7D6AE498-D198-42C4-9FCC-AB2F95AD9AEC",
+      "overrideName": "AB8196AC-7BCE-482C-BCA4-0DC4C85BFA37_stringValue",
+      "value": "549 sek"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6037E360-BE8C-4201-8541-7A70EE6EEE18",
+      "overrideName": "B5499C81-B0D3-44D8-938D-67C22909A5D1_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/ce72b712fe54589dd2578d14f4be69ab81f8236d.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D786116B-2378-4BE8-BF31-FA96C6553111",
+      "overrideName": "72D8458C-AF36-4985-84F3-E385A5AC9CB0_symbolID",
+      "value": "66B41F27-60EE-4636-93AC-C2035B4D6F51"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "54A9512C-9D5E-4D85-9A6D-A05DE2BECEC2",
+      "overrideName": "D6EFED8C-8E7D-4E7E-92E9-228689C3557C_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/6686483abe235e290a11d8cbdabcbbb68733cb9a.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2EA6080A-7241-466D-B018-F63FDE7E2CF7",
+      "overrideName": "01E84460-E9DF-4124-AB20-3DBB86C2AA67_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/ae7cf50f4bbf567adfd5e401ef6a58c1b5040bb4.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6AA18B38-551A-4923-B765-71B032F74CAA",
+      "overrideName": "7352AC53-1F54-42EC-B115-0260EB76553E_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/e0af0c31fef7315be64b68837d9666b1261ba43d.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "47C1B5AF-2D4C-4037-BB44-3CDA670FF63D",
+      "overrideName": "ADD39E0C-CC88-43BC-BCAA-6ECFF81EE3D2_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/59d4eb25aec806737f61a133dba870f8d53ba4fc.png",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A62974A0-B928-49EA-A1C3-8B7A41B3AD08",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "315F7CE7-C92C-4FB5-B92B-788E0A424885",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "54E9EAD1-0DFD-400D-B4E0-5D7B789CE8A8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A605EC65-A05E-4420-B16B-952B60CD2B50",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "21B28B63-3D64-4A03-91D1-0B61C3E29EFC",
+    "height": 31,
+    "width": 32,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "413246CE-F8C9-4F23-8CE0-563EF88E679D"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "277F0E8C-A9EA-4892-B56A-0F2D510B75B7"
+    },
+    {
+      "class": "group",
+      "id": "C9539193-4E1C-417B-A5CB-A0E4C933F642"
+    }
+  ],
+  "name": "Icon/Categories/Socks",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E1936634-F7BF-4ACA-8E74-ADB8D1D051F8",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

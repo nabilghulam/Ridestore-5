@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "683A7F96-9000-4A24-97D3-BEF545B2472C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "BDC8E87E-6AC5-4963-9CB9-52E516A3B6E8",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "442416AC-BA7D-4276-B3AE-670F869F3B61",
+    "height": 31,
+    "width": 32,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "04E85A6B-825A-46CA-9E45-DC7FF18EE995"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "44E4165D-CA66-4C67-9C44-C7D529939558"
+    },
+    {
+      "class": "group",
+      "id": "0362143D-414B-4134-A88C-13F10807801F"
+    }
+  ],
+  "name": "Icon/Categories/Beanie",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "56934625-5ECF-428F-B2FE-AB5118FE79D4",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

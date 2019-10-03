@@ -1,0 +1,108 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "656382A9-18B2-4E39-9FBA-45A8702657C7",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "82673F06-DDA4-4D89-A4CA-BDCAEAB42B06",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3DF53B76-73D1-470F-A9AE-6032AE5F8F9A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "519E6B49-CB75-4953-BF74-30AA1E744D6A",
+    "height": 3436,
+    "width": 1366,
+    "x": 30178,
+    "y": 313
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "F0540FBA-CA94-4602-9DAE-7CAB8B7BBA42"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "4E64C226-82CD-4404-A303-3494129DB157",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "45D88BB7-6337-448E-BC93-26914718466F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2463D68F-1601-499F-ABE7-1C0FBB9DEEE4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "77B96D72-B15E-4A0F-9F6F-908D2C8CDB23"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DC2C0615-AF9C-44C1-A19F-722630236A1D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "60ED67A6-AEA2-42A7-9285-372D1C57DF8A"
+    },
+    {
+      "class": "group",
+      "id": "639FA90A-FE1B-43E0-B846-3D1FDFB2501F"
+    },
+    {
+      "class": "group",
+      "id": "673974F9-4879-4AD2-9A76-40CA47EA955F"
+    }
+  ],
+  "name": "Brands/Brand",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "69B5B166-CBCD-41E3-8B6A-756403B72AD1",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "433F4FF5-AA13-4688-8086-C2CA41BEE560",
+    "guides": [
+    ]
+  }
+}

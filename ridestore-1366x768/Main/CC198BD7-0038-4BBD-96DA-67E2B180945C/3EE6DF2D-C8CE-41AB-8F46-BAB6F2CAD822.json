@@ -1,0 +1,76 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "3EE6DF2D-C8CE-41AB-8F46-BAB6F2CAD822",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4CDA0993-1145-4FC7-9DF1-BF9DE4CCA8C7",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B5F74F83-D86D-4C6B-ABF9-054357E9E5EE",
+    "height": 166,
+    "width": 1366,
+    "x": 0,
+    "y": 110
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Header (Category)",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2BBE68E8-25FA-48E2-BB61-8933B8BE7D10",
+      "overrideName": "27A04651-3FA0-4BA2-B742-AD2102623356_stringValue",
+      "value": "Snowboard"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "11915861-3BF7-46AF-96C3-C5B988708807",
+      "overrideName": "66102172-07BB-40FC-A1A0-15EB566DA98E_symbolID",
+      "value": "FAD5B12B-8E2E-4FCB-8CE1-0910FA42F53F"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "EDA06750-CBDA-48D1-83A6-8E0378EB4199",
+      "overrideName": "66102172-07BB-40FC-A1A0-15EB566DA98E/A722B9D3-3B73-4B68-A4B2-B84F85B19ADC_stringValue",
+      "value": "Women"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F23B092A-0687-46C1-9CD0-EC4A76C0E36A",
+      "overrideName": "66102172-07BB-40FC-A1A0-15EB566DA98E/9C757390-3862-41E1-9CDC-135328E043F5_stringValue",
+      "value": "Snowboard"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9B0DE407-3CB6-4137-BFAB-BA7704011BCE",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "F9A771AC-ED3B-441E-8EA3-B8BCF9AF8C3E",
+  "verticalSpacing": 0
+}

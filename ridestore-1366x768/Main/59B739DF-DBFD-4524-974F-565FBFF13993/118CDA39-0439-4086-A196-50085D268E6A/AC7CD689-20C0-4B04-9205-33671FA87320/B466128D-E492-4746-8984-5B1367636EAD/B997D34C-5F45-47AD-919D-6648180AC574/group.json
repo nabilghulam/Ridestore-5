@@ -1,0 +1,85 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "B997D34C-5F45-47AD-919D-6648180AC574",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 25,
+    "width": 103,
+    "x": 0,
+    "y": 0.6666666666666714
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "1C81F7F6-74C5-4469-9760-C140946EEC5A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B8701A6A-FEB1-43F5-B264-4814245866F6"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "28E80CAA-87B8-4FDE-907C-E786A67E8891"
+    },
+    {
+      "class": "shapePath",
+      "id": "5278AC9E-62D7-47E5-80D5-7FB4F44CEAD5"
+    },
+    {
+      "class": "shapePath",
+      "id": "E9500A25-88AA-4BCD-AA51-2CE20711997B"
+    },
+    {
+      "class": "shapePath",
+      "id": "2DD50F79-068E-46AC-9FC3-CB8C6E18D335"
+    },
+    {
+      "class": "shapePath",
+      "id": "DB288868-3C8C-4F06-9255-DCD5C68926EA"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "97100C70-9923-4F9B-B67E-16D60D3A1C66"
+    },
+    {
+      "class": "shapePath",
+      "id": "889F54B7-D90B-406B-A482-C01DC5BF4194"
+    }
+  ],
+  "name": "Logo (Ridestore)",
+  "nameIsFixed": true,
+  "resizingConstraint": 41,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

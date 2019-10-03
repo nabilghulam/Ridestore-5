@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "6CBEFB75-910D-420F-8C40-F09ADF6B1C0C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3356BC2E-1A2E-46A2-9B65-6096C9980365",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5060BE22-5872-46B1-97A5-36865AFBFB58",
+    "height": 60,
+    "width": 60,
+    "x": 640,
+    "y": 160
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "67D13B20-A6D5-4617-BB9A-7861A16484F1"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "8F5336E6-77BB-439F-8BB9-FBD453DCA50B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F49E271B-4CB2-42C3-97E0-3875E876B8A2"
+    }
+  ],
+  "name": "Icon Copy 31",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "20D65ADE-4F13-4390-8E00-29659EDFA8AA",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

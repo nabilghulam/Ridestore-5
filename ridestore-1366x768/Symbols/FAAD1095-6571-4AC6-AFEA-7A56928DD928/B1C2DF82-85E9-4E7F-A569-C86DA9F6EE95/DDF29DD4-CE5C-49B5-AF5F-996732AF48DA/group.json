@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "DDF29DD4-CE5C-49B5-AF5F-996732AF48DA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 578,
+    "width": 2000,
+    "x": -317,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "49B0F8A0-3D7C-4960-A823-753D260A1E2A"
+    },
+    {
+      "class": "rectangle",
+      "id": "82ADDA70-291A-4109-8C56-673FE73D526E"
+    },
+    {
+      "class": "rectangle",
+      "id": "8CC6EA62-28DA-4BBB-B0ED-CC064D1960C1"
+    },
+    {
+      "class": "rectangle",
+      "id": "5BF76116-4E82-4065-BE30-B3BCF79F9ACF"
+    }
+  ],
+  "name": "Images (Product)",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

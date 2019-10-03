@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "D0DF0A33-667E-495E-94A1-D5D305219DFC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "11AAD54A-0191-4E83-A925-A214317C2A18",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B1A5C366-F3D3-4CFE-9BE6-34188B5F32B5",
+    "height": 60,
+    "width": 1366,
+    "x": 0,
+    "y": 442
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Row (Filters)",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "FDB1E433-4DDB-456F-8F97-1CA775D349BD",
+      "overrideName": "F06EF1E1-6CB0-424B-9978-0B0E750582AF_stringValue",
+      "value": "Storlek"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2EBB0D32-5D3D-464A-BCD4-7572DC697C70",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "65657490-80FC-4057-ADA0-8F1A0A26412A",
+  "verticalSpacing": 0
+}

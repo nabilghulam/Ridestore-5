@@ -1,0 +1,67 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "B0B4854D-F023-42C2-9179-76A463A8F634",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 55,
+    "width": 470,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Tab/Small",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "881A045F-E727-4091-8A53-3F52D8D1DC2A",
+      "overrideName": "14B775E9-507C-4FD1-A89E-855217B69789_stringValue",
+      "value": "Allmänt"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "BAA8A108-1238-4668-939D-C845C9B081A3",
+      "overrideName": "14B775E9-507C-4FD1-A89E-855217B69789_textStyle",
+      "value": "180C00FE-A17F-44A5-AC47-B3DDEA6537F1"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5A9F962E-61CB-473C-86A4-2510AE8004FB",
+      "overrideName": "80DDF8D6-B44D-4E17-BB4F-61E3EEA5BF5E_layerStyle",
+      "value": "6D9133A7-923E-42E1-87B2-D15F7B443B66"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "CC45A164-9554-4ADB-9DFF-C81071C42E79",
+  "verticalSpacing": 0
+}

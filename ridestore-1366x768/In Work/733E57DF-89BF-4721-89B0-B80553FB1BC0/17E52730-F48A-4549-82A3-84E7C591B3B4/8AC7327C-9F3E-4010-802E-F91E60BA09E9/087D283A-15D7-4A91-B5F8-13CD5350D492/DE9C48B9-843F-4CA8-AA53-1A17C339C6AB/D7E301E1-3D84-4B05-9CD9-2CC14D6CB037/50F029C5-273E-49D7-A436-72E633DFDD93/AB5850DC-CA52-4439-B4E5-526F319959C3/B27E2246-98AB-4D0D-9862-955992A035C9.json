@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "B27E2246-98AB-4D0D-9862-955992A035C9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "17D00A7C-53A7-463C-A676-28429900C1FA",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "EE71C83D-89CD-45B1-A6CC-B9EF985F3C6A",
+    "height": 37,
+    "width": 230,
+    "x": 0,
+    "y": 227
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Button/CTA/Small",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E223A04B-58D2-4200-987A-F7A2818B03AC",
+      "overrideName": "2818F3F4-1F61-4763-BFB5-3896221E5CFD_stringValue",
+      "value": "Follow"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "FBE61026-9718-4809-8874-5EA1EB2997EB",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "AA559A97-1679-48C8-A684-C86BD4210C62",
+  "verticalSpacing": 0
+}

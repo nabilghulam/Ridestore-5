@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "FD66A80E-425A-4314-BCB3-8CA223DB30D4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "47036D70-66E1-4C0D-9719-8A44F66A0ADD",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "31B233BE-1179-4709-B01B-4C3EFD4B3F88",
+    "height": 31,
+    "width": 32,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "D19C901A-8323-453F-99AB-5D7651C8E162"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "085F2098-7E53-41BC-8B3D-98CAAF3FE4C9"
+    },
+    {
+      "class": "group",
+      "id": "03611CC9-DA2C-471C-8FD2-09BFFA8BF3EC"
+    }
+  ],
+  "name": "Icon/Categories/Glasses",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E645C873-227E-4529-8D57-A50945D882AB",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

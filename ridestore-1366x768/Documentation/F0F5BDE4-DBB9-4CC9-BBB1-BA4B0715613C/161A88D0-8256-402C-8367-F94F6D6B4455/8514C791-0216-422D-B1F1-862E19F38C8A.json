@@ -1,0 +1,113 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0,
+            "green": 0,
+            "red": 0
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "Courier",
+              "size": 11
+            }
+          },
+          "kerning": 0,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "allowsDefaultTighteningForTruncation": 0
+          },
+          "textStyleVerticalAlignmentKey": 0
+        },
+        "length": 2695,
+        "location": 0
+      }
+    ],
+    "string": "/* ---- Font ---- */\n// Family\n@import url('https://fonts.googleapis.com/css?family=Overpass:300,400,800&display=swap');\n$font: 'Overpass', sans-serif;\n\n// Weights\n$fontWeightBold: 800;\n$fontWeightRegular: 400;\n$fontWeightLight: 300;\n\n/* ---- Colors ---- */\n$color1: #2D2D2D;   // Primary\n$color2: #ffffff;   // White\n$color3: #f7f7f7;   // Lightest\n$color4: #000000;   // Black\n\n/* ---- General ---- */\n* {\n  font-family: $font;\n}\nbody {\n  color: $color1;\n}\na {\n  text-decoration: inherit;\n  color: inherit;\n}\n\n/* ---- Headings ---- */\nh1, h2, h3, h4, h5 {\n  font-weight: $fontWeightBold;\n}\nh1 {\n  font-size: 52px;\n}\nh2 {\n  font-size: 38px;\n}\nh3 {\n  font-size: 24px;\n}\nh4 {\n  font-size: 16px;\n}\nh5 {\n  font-size: 14px;\n}\n\n/* ---- Paragraphs ---- */\np {\n  font-weight: $fontWeightRegular;\n  font-size: 13px;\n  line-height: 22px;\n  // Small\n  &.small {\n    font-size: 12px;\n    line-height: 18px;\n  }\n  // Large\n  &.large {\n    font-weight: $fontWeightLight;\n    font-size: 16px;\n    line-height: 26px;\n  }\n}\n\n/* ---- Forms ---- */\n// Placeholder\n::-webkit-input-placeholder, /* Edge */\n:ms-input-placeholder, /* Internet Explorer 10-11 */\n::placeholder {\n  font-weight: $fontWeightLight;\n  color: rgba(0,0,0,0.30);\n}\n\n// Inputs\ninput {\n  &[type=\"text\"], &[type=\"email\"], &[type=\"password\"] {\n    font-weight: $fontWeightRegular;\n    font-size: 13px;\n    color: $color1;\n  }\n}\n\n// Textarea\ntextarea {\n  font-weight: $fontWeightRegular;\n  font-size: 14px;\n  color: $color1;\n}\n\n// Select\nselect {\n  font-weight: $fontWeightBold;\n  font-size: 13px;\n  color: $color1;\n  &:disabled {\n    font-weight: $fontWeightLight;\n  }\n  option {\n    font-weight: $fontWeightRegular;\n  }\n}\n\n/* ---- Buttons ---- */\nbutton {\n  font-weight: $fontWeightBold;\n  font-size: 13px;\n  &.cta {\n    font-size: 14px;\n  }\n}\n\n/* ---- Links ---- */\n.underlined {\n  font-weight: $fontWeightRegular;\n  font-size: 13px;\n}\n\n/* ---- Products ---- */\n// Default\n.brand {\n  font-weight: $fontWeightLight;\n  font-size: 13px;\n  letter-spacing: 0.3px;\n}\n.product-name {\n  font-weight: $fontWeightRegular;\n  font-size: 13px;\n}\n.product-price {\n  font-weight: $fontWeightBold;\n  font-size: 13px;\n}\n\n// Productpage Information\n.product-name-large {\n  font-weight: $fontWeightBold;\n  font-size: 20px;\n}\n.product-price-large {\n  font-weight: $fontWeightLight;\n  font-size: 20px;\n}\n\n/* ---- Footer ---- */\n.testimonial {\n  font-weight: $fontWeightLight;\n  font-size: 24px;\n  line-height: 38px;\n}\n.list {\n  font-weight: $fontWeightRegular;\n  font-size: 13px;\n  line-height: 28px;\n}\n\n/* ---- Breadcrumb ---- */\n.breadcrumb {\n  li {\n    font-weight: $fontWeightBold;\n    font-size: 12px;\n    a {\n      font-weight: $fontWeightRegular;\n    }\n  }\n}\n"
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "8514C791-0216-422D-B1F1-862E19F38C8A",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "35613188-6752-4341-A585-D1DEF48737B0",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "027FBD79-FE45-4001-A618-D26E1B902677",
+    "height": 2197,
+    "width": 400,
+    "x": 0,
+    "y": 0
+  },
+  "glyphBounds": "{{0, 2}, {362, 2182}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "/* ---- Font ---- */",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5E0C06BD-D466-4E23-BE6C-FFB72F4ED090",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "do_objectID": "9463C12D-8A03-4FDA-B45F-B01932B88C61",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "Courier",
+            "size": 11
+          }
+        },
+        "kerning": 0,
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "alignment": 0,
+          "allowsDefaultTighteningForTruncation": 0
+        },
+        "textStyleVerticalAlignmentKey": 0
+      },
+      "verticalAlignment": 0
+    },
+    "windingRule": 1
+  },
+  "textBehaviour": 1
+}

@@ -1,0 +1,108 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "A689D32F-C125-4340-A7E6-2B0C89A90A71",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "74E04D49-1BC1-4CDD-8764-E59074DA17A1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C07ACA1F-D4CD-450A-90E7-7FEACB177E7E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8D878D05-BE2F-43F2-9781-C47984449374",
+    "height": 4534,
+    "width": 1366,
+    "x": 1909,
+    "y": 17638
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "8ECFC173-1DE4-4344-B5C0-052ACB3C8D28"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "4AB24012-A281-47A8-9638-CE737A272768",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "972B2A85-A37D-470D-B72A-7502ACF51694"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "16C3F4D9-CF56-46F2-A9B5-36943A239F89"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "17B6374E-7F08-4335-AB48-B08CF2B3531F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2F39BD76-C3C5-4303-B058-11229BAAB1F5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "117A9199-4B79-4A0F-A4BA-1F7710519A60"
+    },
+    {
+      "class": "group",
+      "id": "BDB8A78B-A809-423A-910F-061CACDD1519"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9CB30615-DC5A-4142-B5AB-CE98F639823E"
+    }
+  ],
+  "name": "Product/Size (Dropdown)",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3811F8C9-471A-40B2-98A9-87D1C4D4520C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "C4A61EE7-CE01-4040-B273-C744DBE60DE3",
+    "guides": [
+    ]
+  }
+}

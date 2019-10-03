@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "0C33B54F-02A3-42B0-9807-3065084C6A73",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F1ACA495-F90D-4B70-BEF0-6B01CC1B3C43",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E0E02C71-CB6F-4F37-A76C-423005A5E8A7",
+    "height": 31,
+    "width": 32,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "F0FEFB6A-6FF7-47F9-AEDE-A4CA744390FD"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "961F50DE-7BE9-433B-A8BE-63A9D2A6790C"
+    },
+    {
+      "class": "group",
+      "id": "47B03598-6686-4E02-B288-A99E063956B3"
+    }
+  ],
+  "name": "Icon/Categories/Gloves",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E3B08349-7CFF-443A-BA33-538BCC7473D0",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "5DD1DA99-73BA-4943-A2AF-F203D3019F1B",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "2FA941CA-E656-4BFD-819E-7B104F7A689C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C14932F0-908F-4F4D-AD3B-1B25573A4BC9",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C40E7B12-561B-42B1-8901-9F169540525F",
+    "height": 2967,
+    "width": 1366,
+    "x": 6307,
+    "y": 25834
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "95122563-0EDE-458B-860F-2AAC8AE2FB72"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "25D5DF82-B144-494C-B96C-2F099C7569BA",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "bitmap",
+      "id": "EBE4F396-5A20-49FC-B9AC-45A6DEA0A838"
+    },
+    {
+      "class": "group",
+      "id": "69143460-4C03-4A1D-ADF0-9FECAD5A7CF6"
+    },
+    {
+      "class": "group",
+      "id": "3A67A451-885F-4527-8D50-2FC37AB444FA"
+    },
+    {
+      "class": "group",
+      "id": "D0BB8BE5-F2A3-4E27-875F-AA59CD53E6D0"
+    },
+    {
+      "class": "group",
+      "id": "6A59C8EA-98AE-4625-B768-12BCCE714FF2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6343F782-0272-4251-B562-54867C4E2C1A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A91406E9-56DA-4E94-A8AC-67A236E07133"
+    }
+  ],
+  "name": "Support/Reviews",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "ED9322B4-A33E-439B-B93A-35936F4CF681",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "DC5A52F3-5F46-4F27-9F00-69A75CC89998",
+    "guides": [
+    ]
+  }
+}

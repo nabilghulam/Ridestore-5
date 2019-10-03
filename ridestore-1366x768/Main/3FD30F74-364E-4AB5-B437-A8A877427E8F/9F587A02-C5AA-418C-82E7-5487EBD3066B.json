@@ -1,0 +1,76 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "9F587A02-C5AA-418C-82E7-5487EBD3066B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "DDAF0CB1-50AE-44D2-AE72-F5D2A443EB32",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "070F13EE-D114-429A-A88C-A6D28A4466CF",
+    "height": 166,
+    "width": 1366,
+    "x": 0,
+    "y": 110
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Header (Category)",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2BBE68E8-25FA-48E2-BB61-8933B8BE7D10",
+      "overrideName": "27A04651-3FA0-4BA2-B742-AD2102623356_stringValue",
+      "value": "Ski"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1E3288B9-FB6F-4028-AA7E-D436143BF353",
+      "overrideName": "66102172-07BB-40FC-A1A0-15EB566DA98E_symbolID",
+      "value": "FAD5B12B-8E2E-4FCB-8CE1-0910FA42F53F"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0A361366-75DC-4FBE-8563-0AD607417F9D",
+      "overrideName": "66102172-07BB-40FC-A1A0-15EB566DA98E/A722B9D3-3B73-4B68-A4B2-B84F85B19ADC_stringValue",
+      "value": "Women"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D2B6F64B-E2E9-483B-A9A1-7F29220EE4E9",
+      "overrideName": "66102172-07BB-40FC-A1A0-15EB566DA98E/9C757390-3862-41E1-9CDC-135328E043F5_stringValue",
+      "value": "Ski"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "AAFC47D5-CEF3-4FC5-BE61-53D845888CC6",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "F9A771AC-ED3B-441E-8EA3-B8BCF9AF8C3E",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,61 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "8B63A261-CA6A-4557-84DF-521945D1E71D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1196,
+    "width": 540,
+    "x": 373,
+    "y": 479
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Reviews/Reviews",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F7CD2B36-BB30-4ACE-9151-509F79DC6B63",
+      "overrideName": "E720B13D-4B36-4781-860E-C9151466E370_stringValue",
+      "value": "Nabil Ghulam"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6A773C37-A2C3-4318-90CE-A4CD85810D6B",
+      "overrideName": "58B27539-08F9-427B-BB81-BA9B5D729BE5/42207740-DA31-4BB9-B7F3-E127C6DAF9FA_stringValue",
+      "value": "Oct 17, 2018"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "B7D5FA7C-1BCB-4FBD-BEB2-0C3371C36360",
+  "verticalSpacing": 0
+}

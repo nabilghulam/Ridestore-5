@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "02406F3E-76AF-4757-BAD5-FA3DCA07C303",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "57BB5EC7-BEF9-454E-90E1-148A4F6DE25C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D70AB3BC-5403-4F2D-9F5C-80B8FD170BA8",
+    "height": 13,
+    "width": 19,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "7EC1B21B-4BAF-4736-8F87-065CFDF03B83"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "6AEC30DF-B78F-46C9-9AF5-725DDC3CFE6B"
+    },
+    {
+      "class": "rectangle",
+      "id": "2EA92D9E-714B-495C-8568-94F9ECE62380"
+    },
+    {
+      "class": "rectangle",
+      "id": "4A94186D-C479-4476-8AC2-8F772C334572"
+    }
+  ],
+  "name": "Flag/Austria",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D443C141-6AFF-45B1-8A05-24552C8D0238",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "1C739545-F8D9-4AC3-9030-8AFDDFF51CD5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "574C1460-214E-4924-B095-68BFBA667C49",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D7E651B2-28A5-4518-A2FB-47582EBF99A0",
+    "height": 10,
+    "width": 10,
+    "x": 60,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Icons/General/Star",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A1569E78-2FB7-4DA0-BC8C-ECD9543FE796",
+      "overrideName": "1687EA9D-93B6-47DD-A990-F0D2E6418476_layerStyle",
+      "value": "27FE2849-9DD9-4381-93FB-37064A991707"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7DECC9E5-EB6F-42E7-B2A2-E93C635E7342",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "8CCFEE2E-877B-4A08-8FB1-E049FB8A922D",
+  "verticalSpacing": 0
+}

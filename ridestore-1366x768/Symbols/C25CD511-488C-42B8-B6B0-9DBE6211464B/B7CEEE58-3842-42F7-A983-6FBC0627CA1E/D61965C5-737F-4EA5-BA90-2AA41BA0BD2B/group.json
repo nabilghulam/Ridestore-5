@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "D61965C5-737F-4EA5-BA90-2AA41BA0BD2B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 300,
+    "width": 1368,
+    "x": 0,
+    "y": 609
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "DC273849-08D2-4548-9D21-C262745D74E4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "984201FD-ED5F-48B5-9BAE-DAAC65F1C987"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D306FC55-0D5F-4910-8696-1111A49A007C"
+    },
+    {
+      "class": "group",
+      "id": "5DD26AA4-BC3B-452D-8A5A-297A45A921CE"
+    }
+  ],
+  "name": "Footer/Navigation",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

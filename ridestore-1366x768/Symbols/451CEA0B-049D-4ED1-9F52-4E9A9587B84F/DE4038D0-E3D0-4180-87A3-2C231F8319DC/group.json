@@ -1,0 +1,89 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "DE4038D0-E3D0-4180-87A3-2C231F8319DC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "86BA6FC7-4281-449F-91D5-5E96A30FD321",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5666DA82-9781-4417-8C85-932C524A86FE",
+    "height": 25,
+    "width": 103,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "C18FCD18-B010-4B45-80E6-5DA3F50367FF"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "8497B1FC-6F9D-42B2-823A-F9CBB0B9552C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E0470A44-3EED-48C9-8C31-A97472776B42"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "57EDB946-49F2-44B9-9772-AAE4EE45648F"
+    },
+    {
+      "class": "shapePath",
+      "id": "36A6E150-F971-4AFC-AD7D-AD500850A530"
+    },
+    {
+      "class": "shapePath",
+      "id": "F30C7474-4F94-4A60-AAD5-3FD4A429F755"
+    },
+    {
+      "class": "shapePath",
+      "id": "C9730716-D2A4-434D-9FDA-8B63A1308244"
+    },
+    {
+      "class": "shapePath",
+      "id": "A2B3C90C-B5E1-42F6-B980-200355916D90"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "164303D7-FDDC-4449-B55E-6B584B76BD1C"
+    },
+    {
+      "class": "shapePath",
+      "id": "A220C104-F04B-44CE-85D7-97BFA0F7BE1A"
+    }
+  ],
+  "name": "Logo (Ridestore)",
+  "nameIsFixed": true,
+  "resizingConstraint": 41,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "55EFD46E-35ED-4749-BB37-82831F8D7C8C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

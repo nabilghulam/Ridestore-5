@@ -1,0 +1,134 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "F0098528-A30E-4EB1-8191-FFD5A5AA24AE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7B2F1331-BAF6-4964-96DE-BB16FD8DCF0E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1B8723C5-9485-459D-B90A-B87F96CA48D5",
+    "height": 784,
+    "width": 1366,
+    "x": 0,
+    "y": 3921
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Section (Related Products)",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5571C35A-D920-46D6-8F3C-B1A2F1E29FC8",
+      "overrideName": "A0AEB0DC-A284-4B8A-906E-9A056CFEA302_stringValue",
+      "value": "Dope Grand Rose T-Shirt"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "87FF7253-D084-4F5E-930F-7D22118F73CA",
+      "overrideName": "38E73E68-6C76-4CA0-83BB-DD64078B973C_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/5be752cf769688d27d7855a6110063fbe85fb30c.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F14B24C7-46A1-4552-ABDD-FC34BA5E350A",
+      "overrideName": "D5F7568D-C33E-4A71-A311-308624B08D3B_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/568fe2271a86ff7d63bde92649d0e9616b266c3e.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1958BE56-7B33-4198-86EE-E283976642A9",
+      "overrideName": "8FF9936B-11E3-4A91-9FE7-62CE63DB983D_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/05a4d04c570dae345be33dac9c77f6f30fe5f930.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D3E5D600-7CEA-4820-BE47-6D5DCDFC9AFE",
+      "overrideName": "4217AA4A-2085-438E-A916-610D81F90CE8_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/3fd9781511307d83accd4326167560fce25d56d4.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "01E229AD-3D08-47D7-8132-99C7F3D24E93",
+      "overrideName": "CB981D9D-5587-4041-A903-ACF54355AAFB_stringValue",
+      "value": "The North Face Grap Play Hard S/S T-shirt"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "70F38174-F713-4C2F-B3B2-033143343205",
+      "overrideName": "6B6170F2-A88A-4A32-BD3B-E44073C99E52_stringValue",
+      "value": "Dope Grand Rose T-Shirt"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "FA50A27E-2583-49B7-8F0C-51D36088888A",
+      "overrideName": "3424887C-1D19-4D41-BCB1-678B487934EB_stringValue",
+      "value": "Vans Attendance Bodysuit Tröja"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9EA7CE6E-886C-4016-8713-F36394654EC2",
+      "overrideName": "28C0A04F-7BF6-4203-AEE5-8EDBBDA9110F_stringValue",
+      "value": "299 sek"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DC215B03-C81B-4C41-95BB-35E4E7362ADF",
+      "overrideName": "121E474D-51D8-443D-B008-F463CB049C21_stringValue",
+      "value": "299 sek"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "AA10ABA2-4DB4-4B39-8A27-89A39DB26CD7",
+      "overrideName": "84019C8D-5243-4F86-BAC3-8DDCD77D9169_stringValue",
+      "value": "349 sek"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4F56F1DC-7DB9-4254-83B8-861554974716",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "35BE8178-7B9B-4EE7-9F04-B452D0C51B15",
+  "verticalSpacing": 0
+}

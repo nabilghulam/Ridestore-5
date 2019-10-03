@@ -1,0 +1,74 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "B73DC616-8567-4FD4-922B-6261DA928617",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2241A0D1-2389-4081-A14C-0715F7A3E2B3",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C603D1F3-4239-43AF-9494-5292179A86F1",
+    "height": 160,
+    "width": 360.5385826771654,
+    "x": -2.842170943040401e-14,
+    "y": 900
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Product/Goggles/Highlight",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E8047A71-F0F3-4DE8-BBCB-F13075F0D42B",
+      "overrideName": "6C9CE1ED-DCDC-45AC-ACD2-454BDAF8AF0F_stringValue",
+      "value": "Makes it possible to adjust the shape of the bottom of the jacket to keep the cool winds out"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5236109D-8A5C-454E-8E4E-97C8DA2DFA84",
+      "overrideName": "0476D5B9-2C1C-4082-BE2D-9D87CBD9BA8F_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/f66c2a58c7cdbccd51e50bf69e59d775fa75694f.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "27F3296A-8CAF-4A24-8491-E6F9C432E79A",
+      "overrideName": "7EEA6879-B4D8-4189-9A33-46FDCCF94AB8_stringValue",
+      "value": "Adjustable"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4DE2C41F-1DAE-4579-904C-197EB5A362F9",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "0ED4B0E3-FBA7-4090-88C7-215E20A4F898",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "984201FD-ED5F-48B5-9BAE-DAAC65F1C987",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "00F22E85-E7A6-4A3B-A257-880F83702CA5",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C6D87890-6586-4285-B63A-9811555C8CF6",
+    "height": 300,
+    "width": 342,
+    "x": 342,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Footer/Navigation/Column (Links)",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1D329078-DA7C-4D6D-A36B-8CF79C604918",
+      "overrideName": "696194CE-F20C-4E5A-9795-EA5F5F81135B_stringValue",
+      "value": "About Us"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "25098B10-03E0-4200-B181-F38E56C3E8E0",
+      "overrideName": "0ADE0FAA-0D99-4A63-8C62-E1D9AEFA5305_stringValue",
+      "value": "FAQ\nReturer\nKöpvillkor\nDataskydd & Cookies"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "25F17ED4-3CE4-47AA-B0AF-6FEBDD34809E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "7C6D3D8B-74D3-432B-A979-ECC372E49B51",
+  "verticalSpacing": 0
+}

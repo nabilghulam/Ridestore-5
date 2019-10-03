@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "68C435E7-4BD4-4691-BA9A-C0344EB22FD3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "41F15652-E886-44BB-BAE9-DDA6AEDB0BC9",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "21F590AE-5B28-492B-B4DE-9B36F3179DB1",
+    "height": 13,
+    "width": 19,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "9E1BBA95-B213-43EA-B071-9D7EF13DCAC7"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "55B212EA-195D-4473-BB7B-295FBBD86155"
+    },
+    {
+      "class": "oval",
+      "id": "62E84AFB-F190-4CB5-8C2D-82D54F7E55E0"
+    }
+  ],
+  "name": "Flag/European Union",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "BFC8DB8F-6814-4372-8B4C-B26F0606E2DF",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

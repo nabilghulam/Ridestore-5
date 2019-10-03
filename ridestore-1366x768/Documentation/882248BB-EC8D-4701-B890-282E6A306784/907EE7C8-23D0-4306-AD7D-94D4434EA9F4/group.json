@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "907EE7C8-23D0-4306-AD7D-94D4434EA9F4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "032553AF-3173-4077-B828-F8566E5404EA",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "547C3C86-1DCF-4F40-9891-9C85BCD8F411",
+    "height": 31,
+    "width": 32,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "EF0A96A2-1CF3-4C23-B3EA-C012157438F9"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "97CA4D4D-E2AD-4F04-8F1E-D8B98899DD69"
+    },
+    {
+      "class": "group",
+      "id": "C55CCF7A-C7A0-4069-8F29-3FAF132F2C26"
+    }
+  ],
+  "name": "Icon/Categories/Snowboard",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "110FA4C4-B412-400F-8D4F-3B557583A12C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

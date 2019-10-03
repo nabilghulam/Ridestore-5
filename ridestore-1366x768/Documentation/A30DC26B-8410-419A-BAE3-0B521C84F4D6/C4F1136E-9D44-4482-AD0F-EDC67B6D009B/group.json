@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "C4F1136E-9D44-4482-AD0F-EDC67B6D009B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E363E758-D409-4560-8E61-6E8A5E2B5FE3",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "25C06739-0378-4846-9949-C29B97247EEC",
+    "height": 31,
+    "width": 32,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "8E3B3F9B-FCDC-4FFE-B823-9441FB21ABCD"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "161EEDC7-A4EA-4A21-98CA-2D607A0D17C4"
+    },
+    {
+      "class": "group",
+      "id": "2652D3F8-0143-40E9-9974-06C11F83D425"
+    }
+  ],
+  "name": "Icon/Categories/Shoe",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3BF823C3-C6D3-4078-A7EA-86C570FAEC03",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

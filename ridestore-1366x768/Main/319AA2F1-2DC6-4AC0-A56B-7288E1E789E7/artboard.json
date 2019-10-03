@@ -1,0 +1,108 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "202B8275-7385-4A6E-89A1-0F4EE83B8F34",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "319AA2F1-2DC6-4AC0-A56B-7288E1E789E7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1BA9AF38-081D-45AC-B180-895BE463EC10",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "678F586C-3A2E-4428-A284-59A9A9A02213",
+    "height": 768,
+    "width": 1366,
+    "x": 1909,
+    "y": 33337
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "B50893BC-7E6E-41B7-8C3F-DC22F64E5199"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "CD31ADC3-2DD1-491E-A839-2EF55B076F4B",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "bitmap",
+      "id": "8577AD13-AFF6-48CB-9974-8C85055816ED"
+    },
+    {
+      "class": "group",
+      "id": "46D24888-22F3-4B28-9532-E9D8CFF5C1FD"
+    },
+    {
+      "class": "rectangle",
+      "id": "0D38D1CF-937C-4295-84EA-08D79BD35C91"
+    },
+    {
+      "class": "rectangle",
+      "id": "D78A2C2C-4A0D-423D-B2A2-1D62EE96BCAF"
+    },
+    {
+      "class": "group",
+      "id": "6356734B-C25E-44C7-B4DE-D75C67FA9835"
+    },
+    {
+      "class": "group",
+      "id": "8ACD8677-3784-499B-A838-0A91BDF4B4EB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E039681C-00B7-43C5-8603-5009F4E96B58"
+    }
+  ],
+  "name": "Login/Step-02",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "879B9A35-4C0B-45DB-A0EA-E80D35F96015",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "11405EE6-2C48-4566-963F-94EF87C250C6",
+    "guides": [
+    ]
+  }
+}

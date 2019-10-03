@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "0EA17ED8-3EF8-4A4F-95B7-7CE73EAB60E3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2D7588AB-BC2A-41F0-B271-726FC2F0F5B3",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "AAD09E04-A5CB-4107-A987-E939C8105B6F",
+    "height": 2119,
+    "width": 1854,
+    "x": 33,
+    "y": 514
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "3BA9F046-D45E-4E82-8293-E5F1D67C1338"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "5749A7C1-93BA-4A6F-A8C2-B1DC14FFEFEA"
+    },
+    {
+      "class": "group",
+      "id": "5113691F-BBD5-47A6-BAC8-60D9FDC0BDF6"
+    },
+    {
+      "class": "group",
+      "id": "A40C470C-BF3D-469C-A6C7-F2F202A4A11C"
+    }
+  ],
+  "name": "Grid (Products)",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6A220AAE-2C26-4BCE-9E58-5F070A768F7B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

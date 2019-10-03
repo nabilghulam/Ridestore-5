@@ -1,0 +1,167 @@
+/* ---- Font ---- */
+// Family
+@import url('https://fonts.googleapis.com/css?family=Overpass:300,400,800&display=swap');
+$font: 'Overpass', sans-serif;
+
+// Weights
+$fontWeightBold: 800;
+$fontWeightRegular: 400;
+$fontWeightLight: 300;
+
+/* ---- Colors ---- */
+$color1: #2D2D2D;   // Primary
+$color2: #ffffff;   // White
+$color3: #f7f7f7;   // Lightest
+$color4: #000000;   // Black
+
+/* ---- General ---- */
+* {
+  font-family: $font;
+}
+body {
+  color: $color1;
+}
+a {
+  text-decoration: inherit;
+  color: inherit;
+}
+
+/* ---- Headings ---- */
+h1, h2, h3, h4, h5 {
+  font-weight: $fontWeightBold;
+}
+h1 {
+  font-size: 52px;
+}
+h2 {
+  font-size: 38px;
+}
+h3 {
+  font-size: 24px;
+}
+h4 {
+  font-size: 16px;
+}
+h5 {
+  font-size: 14px;
+}
+
+/* ---- Paragraphs ---- */
+p {
+  font-weight: $fontWeightRegular;
+  font-size: 13px;
+  line-height: 22px;
+  // Small
+  &.small {
+    font-size: 12px;
+    line-height: 18px;
+  }
+  // Large
+  &.large {
+    font-weight: $fontWeightLight;
+    font-size: 16px;
+    line-height: 26px;
+  }
+}
+
+/* ---- Forms ---- */
+// Placeholder
+::-webkit-input-placeholder, /* Edge */
+:ms-input-placeholder, /* Internet Explorer 10-11 */
+::placeholder {
+  font-weight: $fontWeightLight;
+  color: rgba(0,0,0,0.30);
+}
+
+// Inputs
+input {
+  &[type="text"], &[type="email"], &[type="password"] {
+    font-weight: $fontWeightRegular;
+    font-size: 13px;
+    color: $color1;
+  }
+}
+
+// Textarea
+textarea {
+  font-weight: $fontWeightRegular;
+  font-size: 14px;
+  color: $color1;
+}
+
+// Select
+select {
+  font-weight: $fontWeightBold;
+  font-size: 13px;
+  color: $color1;
+  &:disabled {
+    font-weight: $fontWeightLight;
+  }
+  option {
+    font-weight: $fontWeightRegular;
+  }
+}
+
+/* ---- Buttons ---- */
+button {
+  font-weight: $fontWeightBold;
+  font-size: 13px;
+  &.cta {
+    font-size: 14px;
+  }
+}
+
+/* ---- Links ---- */
+.underlined {
+  font-weight: $fontWeightRegular;
+  font-size: 13px;
+}
+
+/* ---- Products ---- */
+// Default
+.brand {
+  font-weight: $fontWeightLight;
+  font-size: 13px;
+  letter-spacing: 0.3px;
+}
+.product-name {
+  font-weight: $fontWeightRegular;
+  font-size: 13px;
+}
+.product-price {
+  font-weight: $fontWeightBold;
+  font-size: 13px;
+}
+
+// Productpage Information
+.product-name-large {
+  font-weight: $fontWeightBold;
+  font-size: 20px;
+}
+.product-price-large {
+  font-weight: $fontWeightLight;
+  font-size: 20px;
+}
+
+/* ---- Footer ---- */
+.testimonial {
+  font-weight: $fontWeightLight;
+  font-size: 24px;
+  line-height: 38px;
+}
+.list {
+  font-weight: $fontWeightRegular;
+  font-size: 13px;
+  line-height: 28px;
+}
+
+/* ---- Breadcrumb ---- */
+.breadcrumb {
+  li {
+    font-weight: $fontWeightBold;
+    font-size: 12px;
+    a {
+      font-weight: $fontWeightRegular;
+    }
+  }
+}

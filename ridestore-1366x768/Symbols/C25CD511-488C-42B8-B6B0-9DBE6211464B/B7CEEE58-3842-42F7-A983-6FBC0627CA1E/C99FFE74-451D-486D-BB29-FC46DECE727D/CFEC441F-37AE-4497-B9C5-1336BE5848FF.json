@@ -1,0 +1,70 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "CFEC441F-37AE-4497-B9C5-1336BE5848FF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "83E32590-50D7-4479-912F-4B5A950681A6",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "877FC735-13CA-4FCB-A99E-F70502757352",
+    "height": 172,
+    "width": 455,
+    "x": 912,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Column (Guarantees)",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C6C6B236-CD1A-48A9-B2B5-DE23EBCAA253",
+      "overrideName": "FA847CE1-655F-4480-8770-A82033C2DDBC_symbolID",
+      "value": "3762CC67-C874-4109-95C1-90D5A897E275"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0A53ECCF-C519-482E-A83F-B82E9F83DDBF",
+      "overrideName": "8169DFDA-D1F6-459B-A332-25D3A67F7349_stringValue",
+      "value": "Ships same day"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "65A62534-DB1B-473E-90C1-4B36BE9425EE",
+      "overrideName": "5F77881E-F75C-48FC-869B-333212840869_stringValue",
+      "value": "If you place your order before 12:00"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0E82F6DF-79EF-4C86-B3FC-9F473F020C38",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "A5B36F23-0E03-4D67-BB7B-20E84881795C",
+  "verticalSpacing": 0
+}

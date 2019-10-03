@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "D4606973-CCAF-4D75-9383-93236DDDDECD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D666E594-2CA2-4517-85B8-28250BC4325E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "CC8C7543-6165-40F9-91B8-A3BD351A44F3",
+    "height": 31,
+    "width": 32,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "CB6A1CCD-52CB-49C0-9D85-112F4A13DF85"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "944729C6-8303-4EDE-8500-4C11BE2E8967"
+    },
+    {
+      "class": "group",
+      "id": "3CE47C1F-558B-4F12-83CA-6909FF1C5AC1"
+    }
+  ],
+  "name": "Icon/Categories/Wrench",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "67E7FE2C-ACD3-4098-9E31-8C4D8F4EA331",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

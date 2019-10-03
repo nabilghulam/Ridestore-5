@@ -1,0 +1,69 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "25928EEC-4C2F-4162-B3EF-43CF65E9BC29",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C4B4B861-3BA2-4164-A5D8-FFFCACFEE6FF",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "DD146A69-D7DA-4ADE-869F-83A0E24CF2B2",
+    "height": 590,
+    "width": 600,
+    "x": 383,
+    "y": 946
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "13343AB9-51A5-49C0-B498-16D7E6781FC0"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "EBA8C565-8151-4935-A458-48C57DFBC573"
+    },
+    {
+      "class": "group",
+      "id": "92E1AFF5-B478-4CE8-A037-86A9ECC07E30"
+    },
+    {
+      "class": "group",
+      "id": "1B20F2D8-9EA5-40A6-88AF-812B98A28813"
+    },
+    {
+      "class": "text",
+      "id": "3B32760B-9C29-422D-8431-144C42B5D452"
+    }
+  ],
+  "name": "Återbetalningar",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6845E3DC-18BF-4649-8E99-D83FDCF86A2C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

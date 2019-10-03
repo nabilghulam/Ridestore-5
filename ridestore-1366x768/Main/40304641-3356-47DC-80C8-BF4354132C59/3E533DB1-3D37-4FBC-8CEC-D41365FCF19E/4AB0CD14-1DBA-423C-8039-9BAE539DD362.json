@@ -1,0 +1,74 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "4AB0CD14-1DBA-423C-8039-9BAE539DD362",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1E8A0891-1BB2-44FF-AE96-D329D4EC36C8",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3E012997-05CD-4FFD-902B-366877C01E7D",
+    "height": 660,
+    "width": 635,
+    "x": 651,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Heros/Column",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E8F71D76-A139-4564-AA37-AC3F3D0D1B5D",
+      "overrideName": "EBB9D320-6519-4BB3-A84B-022730637A9D_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/41dfa21a57eef5b977bec058768b8e44f8e8b0d3.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0C5D4DFC-95C6-44D3-AE67-B2D28045C03A",
+      "overrideName": "1D1C15F1-72DF-467D-901A-41CB2712B4D0/8E38C3C7-AD17-4000-BA2F-66BFCDCE3CD7_stringValue",
+      "value": "Streetwear"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6A2EF37E-C17D-4627-B9CA-0FEE987F49FC",
+      "overrideName": "1D1C15F1-72DF-467D-901A-41CB2712B4D0/A9F1FE70-1C5C-4467-8349-8222D9479CA1_symbolID",
+      "value": ""
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "67839AD0-CDB9-46BF-9FE2-C12DE1793D70",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "76EE4E22-CA6D-4C5B-BFF7-7E25BD281BBB",
+  "verticalSpacing": 0
+}

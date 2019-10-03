@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "A61E1170-38CA-4092-8EE0-E00D9D6A4A0C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D5F9CA7B-6DFE-4A25-AF9E-85B62E2C1BED",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "25918AA4-B3FE-42D0-8E39-6C71AA453168",
+    "height": 31,
+    "width": 32,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "8E5F75EB-652B-490D-B203-FD746EA94C74"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "3A8E9F4B-CE72-4064-AD58-199969D58699"
+    },
+    {
+      "class": "group",
+      "id": "C2F1A673-43B7-4E37-A1D1-858119AA2CE5"
+    }
+  ],
+  "name": "Icon/Categories/Neck Protector",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3A798CFF-D5FD-4E23-810F-797485E9C616",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

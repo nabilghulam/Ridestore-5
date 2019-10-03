@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "A9602F47-05CF-4CF0-A17B-AB24BE214390",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6E5A9EC4-B178-44ED-9088-6427B34F29A2",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "258AA9A5-D266-426A-88C7-CDD2150E1B1E",
+    "height": 1675,
+    "width": 1286,
+    "x": 40,
+    "y": 1072
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Section (Reviews)",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2860D4B0-92BB-4B0F-AABD-27CB2D139773",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "846AF25E-DA00-4B47-908B-DC215E873FC4",
+  "verticalSpacing": 0
+}

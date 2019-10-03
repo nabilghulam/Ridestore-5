@@ -1,0 +1,152 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "4D1A620E-1557-4637-AFC3-DAA9DC305F90",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F8D1143C-9C1B-4F71-A662-53B56D2B701C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7A1276A4-0E5E-4F39-AEAB-260DB05268FA",
+    "height": 773,
+    "width": 1366,
+    "x": 0,
+    "y": 3176
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Section (Related Products)",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C8FFB510-42A2-4D3A-B289-D8AA0A327874",
+      "overrideName": "07C33E14-41BF-47A0-8F39-FA4045A0CA8F_stringValue",
+      "value": "Continue Shopping"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CCA45945-6742-4D19-A407-40923663E94D",
+      "overrideName": "D85E3B52-EB80-47C0-84B1-0E6F905ABD51_stringValue",
+      "value": "PREVIOUSLY VIEWED"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "FCEF56E3-0EB9-4A5F-B26A-BA73A3B30385",
+      "overrideName": "38E73E68-6C76-4CA0-83BB-DD64078B973C_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/15cb765dd029752266d648ddb3bfe2370c098217.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A3ACF081-DD71-4376-A0B3-2594C0BAA30A",
+      "overrideName": "D5F7568D-C33E-4A71-A311-308624B08D3B_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/710a110f09e346a82e765bb0ab63cb09198de221.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A486DABB-21B7-433B-B436-45FE629824BF",
+      "overrideName": "8FF9936B-11E3-4A91-9FE7-62CE63DB983D_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/f3bc4e20d6aa228c11dd598a25b72f517544412e.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "054EF69D-114B-4596-8054-393B49BE126E",
+      "overrideName": "4217AA4A-2085-438E-A916-610D81F90CE8_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/48c88280c819a441606c970ee4406efdf1a9960c.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7889E01E-251F-49CB-A736-4BAB2F2C5BB9",
+      "overrideName": "3E11F2CA-B217-4F02-ADB2-00EFAC43073C_stringValue",
+      "value": "Dope Annok Snowboardjacka"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DFAE84B9-F0CF-4938-8B18-EA97FCB0F539",
+      "overrideName": "3424887C-1D19-4D41-BCB1-678B487934EB_stringValue",
+      "value": "Dope Adept Snowboardjacka"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F613ECA9-EF38-414D-B09F-538CD8B5BAEA",
+      "overrideName": "259DEEAE-156C-4843-B169-6C76BA925807_stringValue",
+      "value": "1799 sek"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "FACEEF2C-00D0-4D49-A19B-695F1DF12158",
+      "overrideName": "28C0A04F-7BF6-4203-AEE5-8EDBBDA9110F_stringValue",
+      "value": "2399 sek"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9FD2150A-5E0E-48FE-9861-B06A172845B7",
+      "overrideName": "121E474D-51D8-443D-B008-F463CB049C21_stringValue",
+      "value": "2399 sek"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CF5CF573-D83A-4E16-B3F5-8CE46E36D8A9",
+      "overrideName": "84019C8D-5243-4F86-BAC3-8DDCD77D9169_stringValue",
+      "value": "1799 sek"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B2741236-8451-41E1-ABB4-8F642DA8EBBD",
+      "overrideName": "0C0A7430-9416-4059-B869-BF155FFB5AE6_stringValue",
+      "value": "Dope Akin Snowboardjacka"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0E2F7718-60C0-422E-8CE5-47365AE67C7A",
+      "overrideName": "7F123DC8-A4EE-482E-BAAB-DA0934A252DF_stringValue",
+      "value": "Dope Akin Snowboardjacka"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9366A737-C57A-4646-9443-38DC15E08167",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "35BE8178-7B9B-4EE7-9F04-B452D0C51B15",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,86 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "05CC2F6A-109F-4874-B5DE-78A9C71A1111",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "343560FC-AE84-4C9C-A63E-2A2ECB55CA98",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6C8D6FF0-80E1-49D7-BC10-CD558ADEBAB3",
+    "height": 62,
+    "width": 342,
+    "x": 0,
+    "y": 77
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Styleguide/Product/Item",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "98A5356C-D1B5-4294-92F2-276247E26574",
+      "overrideName": "6728A8DA-860B-4AD7-B2B2-58F7242EC9CB_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "677A000A-0523-4CAC-A367-F4C339492DBE",
+      "overrideName": "4692012B-279B-4E44-AD0B-18BC6D3D9039_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/00c0de0259f391d1aaa017971fce5c49a3f380a1.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E1453700-6D9B-4D27-AC5F-BEF847207559",
+      "overrideName": "CC49A4AC-7284-4435-B8D3-EFA24DB389EC_stringValue",
+      "value": "275 sek"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CB0CDB64-9824-4FEA-95FD-47D62EE62468",
+      "overrideName": "EA53840F-CB3E-4A66-91BF-5B5CBB1383FA_stringValue",
+      "value": "Snuggle Paradise W"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9070D83E-6525-4DAA-9D13-8E841908B213",
+      "overrideName": "7605CB91-97E8-4CF7-BF89-FB4CDB41261D_symbolID",
+      "value": ""
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "63148A07-B0FF-48C5-8B82-5AF28A89051E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "38F95016-46F3-4EB7-90DA-05FC2DF66B0C",
+  "verticalSpacing": 0
+}

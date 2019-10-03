@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "9965892C-0E5E-4232-B1F7-EC9139EBAF6B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "572C61E1-30A4-4B6E-8635-81FBE425967B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8811DD48-DBF1-4FC1-91FA-7D8524FCC602",
+    "height": 31,
+    "width": 32,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "8432246C-4FE0-4FE6-A23A-0F915361E0D6"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "859407FC-120E-4A5A-B0DF-38122E6DE187"
+    },
+    {
+      "class": "group",
+      "id": "FA57628A-BE8B-441A-B2F5-620826A10F14"
+    }
+  ],
+  "name": "Icon/Categories/Goggles",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "EE26E9DD-9B37-4167-8A7D-25B95FD86DE7",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

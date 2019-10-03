@@ -1,0 +1,108 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "979467CF-0EA3-4173-B291-A803131B8111",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "29E5A773-3716-4581-BAAA-94DBC68B3EF7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A98F4DA4-79D3-4BE8-8F9D-40FC80715E03",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "EC7E7CEC-6660-4973-9B29-1B052439C7AF",
+    "height": 4909,
+    "width": 1366,
+    "x": 443.0000000000005,
+    "y": 17638
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "2FEDF792-DF1E-422E-8581-DAC41E9E04D0"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "6F485283-2DD4-45B2-B161-04860F757FD1",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "2D5362E4-3433-4E68-B461-ABDA574875B8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "67DB8E86-B82C-4415-8651-C61F226EE99B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "932F3E0D-11A5-43CE-98D2-FF5E76FDFD81"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "941DAF5B-E93D-4233-B01B-C94CC7AE1A06"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "46FE63DC-6EAA-4056-9B75-E51B889535ED"
+    },
+    {
+      "class": "group",
+      "id": "C3BF7E4C-9BF1-458B-AFB5-8A7F46A32939"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "014B9132-5EA3-49C4-AA91-1FB85CF20D23"
+    }
+  ],
+  "name": "Product/Out of Stock",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "19B39B5A-05FE-4751-AD17-3FDAF4D58B2C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "CFF3082B-D8AD-41B5-B8AE-1AD7C4E229A2",
+    "guides": [
+    ]
+  }
+}

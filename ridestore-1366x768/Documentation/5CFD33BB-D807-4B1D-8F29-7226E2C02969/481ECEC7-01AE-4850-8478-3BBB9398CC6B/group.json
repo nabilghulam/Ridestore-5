@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "481ECEC7-01AE-4850-8478-3BBB9398CC6B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "01730832-4A47-4722-B752-35D1B4E97752",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1CCAC9A9-C007-4907-B17E-82F37E30C396",
+    "height": 31,
+    "width": 32,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "9C53D8A2-5CFD-41A1-954E-A33C60131001"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "681345C3-CB6D-46ED-BED3-9D51C5570770"
+    },
+    {
+      "class": "group",
+      "id": "224C0D03-1316-44B8-8579-4D4A71CDB8F3"
+    }
+  ],
+  "name": "Icon/Categories/Body Armor",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "97C28416-CC74-4DEE-9418-FA38CB9D5464",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "00A274CF-0B03-4914-BD44-0186EE7D344B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "26490EC6-EFC9-45F2-899D-03CA1557F4F9",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "65F741D6-2574-430E-93EB-783DDACD92E9",
+    "height": 31,
+    "width": 32,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "93E28880-FA58-46D3-9879-9CCEFA95483B"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "1426D126-BC3C-4BD7-86A0-BB822B1E1FD6"
+    },
+    {
+      "class": "group",
+      "id": "9CECBA59-914F-445A-9DD4-F2D3C7862659"
+    }
+  ],
+  "name": "Icon/Categories/Watch",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F7DF63D3-21EF-4B06-A8FF-861EF5FD1E27",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

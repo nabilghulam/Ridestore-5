@@ -1,0 +1,82 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "81184391-4EEA-4176-8508-88E455FB5752",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "453432E6-4401-4DBD-BC13-AAE2A029F5C8",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "CE56718B-8118-4887-A858-4BA8EB52E3FA",
+    "height": 166,
+    "width": 1366,
+    "x": 0,
+    "y": 110
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Header (Category)",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2BBE68E8-25FA-48E2-BB61-8933B8BE7D10",
+      "overrideName": "27A04651-3FA0-4BA2-B742-AD2102623356_stringValue",
+      "value": "Outdoor"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0EC4D364-8CEA-4BB7-9BEA-3B48D68A8B7A",
+      "overrideName": "C9EB8D01-F857-4707-A706-19F1B020CC02_stringValue",
+      "value": "Vi vill att du ska vara helt nöjd med din snowboardjacka herr du köper av oss. Vi erbjuder därför fri retur och 30 dagars ångerrätt. Vi har även snowboardjackor för damer"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9FE16EC9-3BCE-4FCA-9930-C6706DA3CA53",
+      "overrideName": "66102172-07BB-40FC-A1A0-15EB566DA98E_symbolID",
+      "value": "FAD5B12B-8E2E-4FCB-8CE1-0910FA42F53F"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C5467BD6-87BB-4300-8C59-6F41C59E2AF7",
+      "overrideName": "66102172-07BB-40FC-A1A0-15EB566DA98E/A722B9D3-3B73-4B68-A4B2-B84F85B19ADC_stringValue",
+      "value": "Women"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D41DA821-6362-4147-A23E-7FFE4251C664",
+      "overrideName": "66102172-07BB-40FC-A1A0-15EB566DA98E/9C757390-3862-41E1-9CDC-135328E043F5_stringValue",
+      "value": "Outdoor"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "12DB0435-59B8-4D3B-AE5B-40CFB29E5DE2",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "F9A771AC-ED3B-441E-8EA3-B8BCF9AF8C3E",
+  "verticalSpacing": 0
+}

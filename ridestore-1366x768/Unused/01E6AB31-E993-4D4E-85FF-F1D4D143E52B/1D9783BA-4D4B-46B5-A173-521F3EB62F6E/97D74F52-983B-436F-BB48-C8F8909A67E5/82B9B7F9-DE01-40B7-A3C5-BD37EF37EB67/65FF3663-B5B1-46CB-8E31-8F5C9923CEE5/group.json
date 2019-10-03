@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "65FF3663-B5B1-46CB-8E31-8F5C9923CEE5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "FF4639DF-4E38-4599-9020-57B55EB17A92",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "427524F4-DA01-4E3D-9612-92CDAB61D841",
+    "height": 17,
+    "width": 114,
+    "x": 0,
+    "y": 14
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "F230D602-FFBA-4871-9E67-0651451630E8"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "9209B9DC-F535-41B1-B60D-580F3C7BC69D"
+    },
+    {
+      "class": "group",
+      "id": "9A698E59-9DC2-4E6C-A9DD-349221041BD5"
+    }
+  ],
+  "name": "Switch (Genders)",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "AC59E3CC-1160-434D-8561-4C3EB9F64772",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

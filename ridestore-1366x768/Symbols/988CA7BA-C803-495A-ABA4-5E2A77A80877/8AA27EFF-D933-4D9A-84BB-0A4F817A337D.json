@@ -1,0 +1,61 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "8AA27EFF-D933-4D9A-84BB-0A4F817A337D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 110,
+    "width": 311,
+    "x": 0,
+    "y": 256
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Quickbuy/Hover",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "15504109-C7B7-42C6-ABFE-049F45E2B1A8",
+      "overrideName": "A98E1EC7-3A2A-4F2E-9764-086CF07795C7_stringValue",
+      "value": "Buy"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5903B482-03BB-4284-84DC-E2456B8408A0",
+      "overrideName": "370CA2EE-602B-41E4-8E20-992A5B051614/2818F3F4-1F61-4763-BFB5-3896221E5CFD_stringValue",
+      "value": "Buy"
+    }
+  ],
+  "resizingConstraint": 39,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "4504AC2F-8242-493B-9CA6-815C9B6D92BF",
+  "verticalSpacing": 0
+}

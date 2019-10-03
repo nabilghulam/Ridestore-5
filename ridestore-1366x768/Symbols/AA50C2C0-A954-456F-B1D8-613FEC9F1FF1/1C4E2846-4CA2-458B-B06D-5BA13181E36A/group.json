@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "1C4E2846-4CA2-458B-B06D-5BA13181E36A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A4879FB2-F10F-4197-A2FB-43E8010831D1",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5DEA4E4E-76BD-472E-B848-0092361CC00F",
+    "height": 13,
+    "width": 19,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "79E24CB5-2384-4384-BF2C-C2A42928574F"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "18A213F5-7D55-48B4-9D68-D7A935B42899"
+    },
+    {
+      "class": "rectangle",
+      "id": "7A0C8D8E-B36F-48AC-A95E-30F4E0BD41FE"
+    },
+    {
+      "class": "rectangle",
+      "id": "EEC4F297-033D-44B9-8B46-67437D7915EF"
+    }
+  ],
+  "name": "Flag/Netherlands",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6A1033EA-D568-40D8-8055-EFF279B459FB",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

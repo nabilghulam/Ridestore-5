@@ -1,0 +1,95 @@
+{
+  "_class": "symbolMaster",
+  "allowsOverrides": true,
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0,
+    "do_objectID": "A4FD2800-8EA5-49C9-B147-7F4DFB74C29A",
+    "green": 0,
+    "red": 0
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 327,
+  "clippingMaskMode": 0,
+  "do_objectID": "F84602D5-DEF7-4061-A43A-F652C8B924D1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "003CC61E-BD88-408E-80FE-EFAC215F3A58",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6A9B44E3-2A74-46EF-B64E-F921F1AEC4E9",
+    "height": 31,
+    "width": 32,
+    "x": 1652,
+    "y": 7519
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "D66CE7E5-D7AC-40B7-A144-DCEBF3BFC688"
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "BE6E4658-8EE3-4ED7-A15F-D80AA56A5E8B",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": false,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "73AC7375-0F4A-43D5-9185-FCB5749F6A0E"
+    }
+  ],
+  "name": "Icon/Categories/Beanie/White",
+  "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "0CF8F802-3C5C-411E-901B-AA7A5A109994_layerStyle"
+    }
+  ],
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3842B3B6-4AA0-4AB3-8EFA-D33BA45EDCBB",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "0F5C2C8F-A247-4446-8779-7FF72C23E629",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "92B06FB5-7C47-440E-B355-FBC5762E4EFD",
+    "guides": [
+    ]
+  }
+}

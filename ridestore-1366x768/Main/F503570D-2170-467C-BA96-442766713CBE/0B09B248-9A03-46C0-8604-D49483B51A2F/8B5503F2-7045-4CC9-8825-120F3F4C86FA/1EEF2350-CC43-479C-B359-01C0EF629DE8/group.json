@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "1EEF2350-CC43-479C-B359-01C0EF629DE8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3034F2B9-54DC-4A28-B7C8-11ABA08AA212",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E598DE3F-1D4E-4FBF-B9B6-35D563EBAA39",
+    "height": 50,
+    "width": 203,
+    "x": 257,
+    "y": 176
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "50E58A2D-3D5F-44EF-AF6A-2FB3DE3F206C"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "B8411D4F-F9BB-4E58-8BE3-C93EE93E6108"
+    }
+  ],
+  "name": "Filter/List/Search",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "EE25CC2F-5D30-4DA8-8C8D-D379BACF02A2",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

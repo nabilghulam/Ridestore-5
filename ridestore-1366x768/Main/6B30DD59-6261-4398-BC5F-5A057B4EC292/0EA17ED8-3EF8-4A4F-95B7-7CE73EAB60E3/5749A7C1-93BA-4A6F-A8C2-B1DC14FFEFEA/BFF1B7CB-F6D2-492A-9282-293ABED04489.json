@@ -1,0 +1,110 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "BFF1B7CB-F6D2-492A-9282-293ABED04489",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F390EBA5-0977-4297-9007-459908EB2B80",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5DDBD172-9D76-48EA-ADAA-B045F7C7A17A",
+    "height": 706.9999999999994,
+    "width": 463.5000000000005,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Image (Product)",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7194EA2A-7855-4518-8987-598501BE4FC9",
+      "overrideName": "0589CE91-9795-474E-AB68-2B4AEB087034_stringValue",
+      "value": "Newsoul"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "535E5EB2-0E88-4F87-A086-5224E4AA4750",
+      "overrideName": "19873287-F041-4693-8FAF-C4DCED5AB8BC/F7A1EAB2-6B64-4768-8C92-D9ED561D2BAF_stringValue",
+      "value": "New"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "03EB54DF-1179-47A8-AB84-0E528F5298C4",
+      "overrideName": "4E665E08-4833-4F3D-B8D2-132E3251213B_stringValue",
+      "value": "399 sek"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E4793881-E3FB-4197-BF83-4C29B4A0B91A",
+      "overrideName": "A0A16D8D-BCA0-4171-A749-ED23E73D4615_stringValue",
+      "value": "Newsoul"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "EB2AA491-EACF-4452-A1A6-BF573E7AC8C7",
+      "overrideName": "19873287-F041-4693-8FAF-C4DCED5AB8BC/28E73BB8-C631-4D72-B955-189CD7F49CB8_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/3d47bb5f6c459df5cd16dc6f9901acfc749ebd9a.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "33551F89-36C8-40D2-B8DA-BF538E09739C",
+      "overrideName": "F0F5AB2F-AA13-4266-B1A8-181CBEDEEA04_stringValue",
+      "value": "Razor Leggings"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1CFDD25B-2A3E-4519-8E78-B6A714E05DFC",
+      "overrideName": "9AF932AF-23EB-4183-8059-D01AF2AB9444/08ABEFBE-FA62-4056-87C2-204A51EBEA51_layerStyle",
+      "value": "D2F99126-BB0C-452D-97E5-74EEB6671E83"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D5958612-2E5F-4F65-B0C0-EDCF5F250514",
+      "overrideName": "19873287-F041-4693-8FAF-C4DCED5AB8BC/F8356A99-84FE-46AE-B384-DD183D270AA0_symbolID",
+      "value": "86EDEB9E-D041-4D18-BAF5-E25BD3B2D400"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "50F708C8-A1E8-4595-91C9-3FC9E32EB9BD",
+      "overrideName": "19873287-F041-4693-8FAF-C4DCED5AB8BC/8AA27EFF-D933-4D9A-84BB-0A4F817A337D_symbolID",
+      "value": "4504AC2F-8242-493B-9CA6-815C9B6D92BF"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "625614D0-E653-48F0-96A2-994D5DE6D4A2",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "D8A05B5C-1E7A-48A3-A05E-DF1B447D1174",
+  "verticalSpacing": 0
+}

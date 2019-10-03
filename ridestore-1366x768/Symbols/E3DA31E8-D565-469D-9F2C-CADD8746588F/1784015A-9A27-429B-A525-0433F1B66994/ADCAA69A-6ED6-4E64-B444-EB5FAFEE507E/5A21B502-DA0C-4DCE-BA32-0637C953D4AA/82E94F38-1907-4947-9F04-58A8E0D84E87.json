@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "82E94F38-1907-4947-9F04-58A8E0D84E87",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5C3B6938-381F-4450-A144-1DB731FEE1D8",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "981D28EF-54DB-4870-9E6A-C9544B6F5564",
+    "height": 31,
+    "width": 180,
+    "x": 0,
+    "y": 336
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "name": "Navigation/Category/Skidjackor",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "BF377679-92A1-4F1A-B8C9-1AAAF02B8684",
+      "overrideName": "0332D178-B970-4ED5-813D-F42C48715321_stringValue",
+      "value": "Accessorarer"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3FC1A184-4EDE-4648-84FE-632FD28139EC",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "A52D64DB-60CE-4523-80A2-34A07FF70748",
+  "verticalSpacing": 0
+}

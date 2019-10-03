@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "E835819A-0F18-4C67-807A-419637FF5A41",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1D3E832A-942F-4885-ABBF-0CE22B2B352D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F5716E9D-72A5-499B-B363-F4364B1430DE",
+    "height": 60,
+    "width": 223,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Categories/Filter/Dropdown/Top",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "26CD627F-7370-42A1-9DA8-78BFA3860076",
+      "overrideName": "3740277D-DF28-4B6A-9A1B-2A6CE593658A_stringValue",
+      "value": "Märke"
+    }
+  ],
+  "resizingConstraint": 15,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9B1FB7AC-500F-4D85-834A-E378CD58A2CF",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "AD2387FF-38F7-46E6-B61F-AC216B6E3BD0",
+  "verticalSpacing": 0
+}

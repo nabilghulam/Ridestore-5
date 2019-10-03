@@ -1,0 +1,178 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "5CB95284-ADD6-46B5-B959-6D543FE2E947",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7A588861-8F8D-4BF8-8A59-E231356AB501",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A142F3DE-63B3-45E5-9751-71E9220CCAC2",
+    "height": 525,
+    "width": 1366,
+    "x": 0,
+    "y": 110
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Navigation-2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "78A8CD4E-8AC7-469F-907B-9CBBA80FC781",
+      "overrideName": "3F157202-37D6-40AA-8A32-F88E91FB5867/3ABA275B-0F3D-4BE2-85D2-C13DDC685C97_stringValue",
+      "value": "T-Shirts"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F2AA0394-A665-45E7-99E0-411C23EC527C",
+      "overrideName": "3F157202-37D6-40AA-8A32-F88E91FB5867/0F1A33A0-1A9E-402E-8E53-7D9E0035A392_stringValue",
+      "value": "Hoodies / Tröjor"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "AE023AD3-6374-4087-94D3-2DDE118D66F4",
+      "overrideName": "3F157202-37D6-40AA-8A32-F88E91FB5867/0B15AD8E-7C48-4A1B-880F-691BFFAE476E_stringValue",
+      "value": "Skor"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5F8D9CF6-2D61-484B-ABC0-2F441C52C752",
+      "overrideName": "3F157202-37D6-40AA-8A32-F88E91FB5867/C2444FBD-E6DC-48C8-8E57-3A0910D5C069_stringValue",
+      "value": "Solglasögon"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "00A757BE-6C52-4BB3-8781-DBC865A2EA04",
+      "overrideName": "3F157202-37D6-40AA-8A32-F88E91FB5867/8F224828-D8D1-46C7-BE96-80E984800651_stringValue",
+      "value": "Byxor"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DDE3C0F0-78B0-4168-A82B-D2BCCE7E0870",
+      "overrideName": "3F157202-37D6-40AA-8A32-F88E91FB5867/94223D4D-F578-4F09-9BCE-11B8AD419782_stringValue",
+      "value": "Jeans"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3D027BC4-DC74-479A-BF86-F341EA127075",
+      "overrideName": "3F157202-37D6-40AA-8A32-F88E91FB5867/B24D27EE-6F75-45B7-9873-1A427FCDD65E_stringValue",
+      "value": "Kepsar"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "912E1B94-3C46-4BFB-8543-BE85A35CC376",
+      "overrideName": "3F157202-37D6-40AA-8A32-F88E91FB5867/129341F3-2C87-491C-8E6E-12CC656EB767_stringValue",
+      "value": "Mössor"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "40767543-F3A3-43CC-8CA4-CF5CC344C24E",
+      "overrideName": "3F157202-37D6-40AA-8A32-F88E91FB5867/D31AAA63-0EF7-46A6-9999-E448528A1DFC_stringValue",
+      "value": "Toppar"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "BCDA7B6C-148A-46D6-B0DB-DEAFF8CCBF78",
+      "overrideName": "3F157202-37D6-40AA-8A32-F88E91FB5867/51CB01B0-2832-4864-AA3F-6E86E923E083_stringValue",
+      "value": "Jackor"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E80D5458-B55E-45AB-9903-D7ECBC0450E0",
+      "overrideName": "3F157202-37D6-40AA-8A32-F88E91FB5867/8402FD94-CE04-4436-BEC3-4B3BBC22D321_stringValue",
+      "value": "Klänningar"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6332B0CA-870C-4717-9E04-4BA27EB3E523",
+      "overrideName": "3F157202-37D6-40AA-8A32-F88E91FB5867/7E42687B-659A-4BD4-BB9B-4D755C800120_stringValue",
+      "value": "Shorts"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "31ADE58B-235F-4EAD-B21E-07F32075AB79",
+      "overrideName": "3F157202-37D6-40AA-8A32-F88E91FB5867/981471F1-EB32-45C1-86D1-B969575E45F0_stringValue",
+      "value": "Accessoarer"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7CB66187-BF08-4E9A-AB41-7E1D5DAC0F48",
+      "overrideName": "08822CB9-9774-4C2C-9D4F-7EF02A4487AE_stringValue",
+      "value": "Senast inkommet\nSkidkläder\nBästsäljare"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B4F250B2-298A-440D-82EE-92B2F88C49F1",
+      "overrideName": "96363D86-1227-4CE5-84F8-F6C87537871C/628ACF0E-CFAE-4AE1-A2CD-90FD68E819EF_symbolID",
+      "value": "A47BD122-4A92-47B1-B8DA-1F502B0570C0"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C2BE5BE1-2DD6-4C28-95A6-2AE217B815FF",
+      "overrideName": "BD730D48-F904-41EF-87CD-21C013183083/628ACF0E-CFAE-4AE1-A2CD-90FD68E819EF_symbolID",
+      "value": "DD853D6F-64F5-4746-A9A3-658E73D56176"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C58B5EBB-AF28-4D6C-B61D-F68BD9851239",
+      "overrideName": "D663B8F7-6251-4BBA-BEF5-28EB5E8E8D10/628ACF0E-CFAE-4AE1-A2CD-90FD68E819EF_symbolID",
+      "value": "ACEF7AC2-FF7F-4A36-82D9-AB151E94A6B6"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "57473F16-679F-4CBC-9524-48C35B47F14A",
+      "overrideName": "9999FFAC-7C96-46E1-A715-FC3C1F562540/628ACF0E-CFAE-4AE1-A2CD-90FD68E819EF_symbolID",
+      "value": "3468FAC7-1B07-4023-BA85-C9A308F1307C"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E9A94C51-A2A1-4C31-BD8D-C39A947FDC3C",
+      "overrideName": "2A241855-D418-4C30-8365-6268092F4491/628ACF0E-CFAE-4AE1-A2CD-90FD68E819EF_symbolID",
+      "value": "291DA04B-E98D-446E-84EB-92569D3DE8FA"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5D7335B7-314D-4A24-A2FD-29BC32CD02E4",
+      "overrideName": "82E94F38-1907-4947-9F04-58A8E0D84E87/628ACF0E-CFAE-4AE1-A2CD-90FD68E819EF_symbolID",
+      "value": "54146841-A9ED-4522-AFF0-A5828B173C6F"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A31A1551-2E9B-455E-852E-BC1194456147",
+      "overrideName": "7A7EF077-E7DC-4623-B218-35599FDC69B2_stringValue",
+      "value": "Stylecreator"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2A664B30-A4E7-4E13-8D88-CFED17F16FBC",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "7E6046D5-9F29-4428-AC83-48B2370EB486",
+  "verticalSpacing": 0
+}

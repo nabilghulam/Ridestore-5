@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "BD8D0A54-FFB7-45E9-8550-60D26F8795AD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "964B3C5F-ED28-45F3-BFF3-005FACD5E620",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "832A8A04-357C-46E4-8DDD-7CA1807155EB",
+    "height": 45,
+    "width": 199,
+    "x": 0,
+    "y": 144.6785714285716
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Button/CTA/Small",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "382B47A8-8012-4A52-8735-81CE733DC30F",
+      "overrideName": "2818F3F4-1F61-4763-BFB5-3896221E5CFD_stringValue",
+      "value": "Shop Summer Fashion"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0A615228-33EF-4BF2-BB4B-1BB87CB7A763",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "AA559A97-1679-48C8-A684-C86BD4210C62",
+  "verticalSpacing": 0
+}

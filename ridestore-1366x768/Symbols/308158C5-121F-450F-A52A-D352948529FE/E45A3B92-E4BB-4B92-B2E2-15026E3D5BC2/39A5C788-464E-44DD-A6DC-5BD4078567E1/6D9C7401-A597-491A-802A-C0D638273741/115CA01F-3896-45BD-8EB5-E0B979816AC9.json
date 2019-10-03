@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "115CA01F-3896-45BD-8EB5-E0B979816AC9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6E767177-49EB-4FAF-8A5B-5F9A8105E2A8",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7BE55B89-F055-492D-8B42-12776B5B881A",
+    "height": 60,
+    "width": 200,
+    "x": 400,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Categories/Filter/Dropdown",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7B62D4A0-54DB-4064-B614-4CAA9C4194F3",
+      "overrideName": "B3A363C9-B5E8-4428-8DAE-442A38DEBF2C_stringValue",
+      "value": "Foder"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5293CB55-FBA6-46FC-A7BE-3DA894D51E5C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "51008469-2E26-4699-B0CA-8BF0C26F3922",
+  "verticalSpacing": 0
+}

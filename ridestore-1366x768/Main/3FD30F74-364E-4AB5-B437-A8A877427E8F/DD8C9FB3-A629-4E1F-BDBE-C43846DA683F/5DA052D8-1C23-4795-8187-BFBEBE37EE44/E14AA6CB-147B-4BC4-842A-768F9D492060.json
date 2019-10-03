@@ -1,0 +1,80 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "E14AA6CB-147B-4BC4-842A-768F9D492060",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "68F86678-F5E0-4A2E-A6E4-0103AB164A95",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "47968D77-8E30-4665-BFB6-313192C78060",
+    "height": 494.9999999999999,
+    "width": 325,
+    "x": 650,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Image (Product)",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "41700ECA-BD30-48D1-8617-EAE511AEB7B7",
+      "overrideName": "0589CE91-9795-474E-AB68-2B4AEB087034_stringValue",
+      "value": "Newsoul"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5409434F-58D2-4514-8D2E-5A1978BF1EBC",
+      "overrideName": "19873287-F041-4693-8FAF-C4DCED5AB8BC/28E73BB8-C631-4D72-B955-189CD7F49CB8_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/822e7e9969d55f14a2df0718211267da93db9c7f.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C03B1D4D-3CAE-49C1-A6EC-7FB595723FE3",
+      "overrideName": "F0F5AB2F-AA13-4266-B1A8-181CBEDEEA04_stringValue",
+      "value": "Razor Leggings"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "04F6816A-E069-48D8-9196-347E27217E0A",
+      "overrideName": "19873287-F041-4693-8FAF-C4DCED5AB8BC/F8356A99-84FE-46AE-B384-DD183D270AA0_symbolID",
+      "value": "452919FE-633A-4F2C-B1B6-13980333D033"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5E3133C4-39A0-4FBF-AE2C-57A098B9180F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "D8A05B5C-1E7A-48A3-A05E-DF1B447D1174",
+  "verticalSpacing": 0
+}

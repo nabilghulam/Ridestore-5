@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "6F9E6209-660F-487E-9C78-E1AF8CD6179D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6995A59D-08F6-43A9-9C73-36B157D54B2B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "FDFA3269-D145-49E4-9E59-A3414E4DFCF5",
+    "height": 31,
+    "width": 32,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "CC6BD279-7B33-45A6-BFDD-C35B158BCF86"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "0CE30B4F-3953-4E5C-A712-7B6DAC1EB7DF"
+    },
+    {
+      "class": "group",
+      "id": "50810024-4290-4192-9E26-756623742033"
+    }
+  ],
+  "name": "Icon/Categories/Tanktop",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "46A25FF5-815B-4159-A407-E9258100E089",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

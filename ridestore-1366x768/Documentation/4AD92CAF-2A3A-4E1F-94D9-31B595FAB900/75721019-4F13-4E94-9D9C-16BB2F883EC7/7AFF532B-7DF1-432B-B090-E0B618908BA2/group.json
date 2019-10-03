@@ -1,0 +1,70 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "7AFF532B-7DF1-432B-B090-E0B618908BA2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E01E955E-1D8F-4C48-81EE-D2985A1CA2EE",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "01954FB0-2D74-44F1-A061-E2F6B7B85C75",
+    "height": 30,
+    "width": 19,
+    "x": 7,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "AC03A1FE-D21B-4B47-A33B-CAFEA039BE70"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "46BB41CC-7956-4CEA-9874-A0C62A89FB8E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D8C89DAB-1A64-4383-A115-E68528E653D4"
+    }
+  ],
+  "name": "icon-ca-facemask",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F17C0DCA-4938-4FC5-8CC3-99FA54474965",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

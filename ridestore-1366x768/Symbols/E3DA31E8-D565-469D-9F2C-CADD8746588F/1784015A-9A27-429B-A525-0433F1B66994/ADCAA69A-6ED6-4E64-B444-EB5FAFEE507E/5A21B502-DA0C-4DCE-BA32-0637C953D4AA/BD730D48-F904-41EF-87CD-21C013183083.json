@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "BD730D48-F904-41EF-87CD-21C013183083",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "429BA77A-5533-4850-90B2-FE1F1CD39077",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E19FF416-F2EF-44B4-86A1-502BD71FC3C6",
+    "height": 31,
+    "width": 180,
+    "x": 0,
+    "y": 56
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "name": "Navigation/Category/Skidjackor",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "BF377679-92A1-4F1A-B8C9-1AAAF02B8684",
+      "overrideName": "0332D178-B970-4ED5-813D-F42C48715321_stringValue",
+      "value": "Skor"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "FCD14150-80AA-4D2D-A5E9-F4179D3EC568",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "A52D64DB-60CE-4523-80A2-34A07FF70748",
+  "verticalSpacing": 0
+}

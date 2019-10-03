@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "A69CB777-DE3D-4772-B928-4411D1BC42F1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9F5A58FB-6E13-43E6-A86D-E019509F06BB",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D57A7FBA-D25C-4919-A05E-2A3348019853",
+    "height": 644,
+    "width": 600,
+    "x": 0,
+    "y": 331
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "70B1F6CA-0B58-4943-87F2-9C2EB25D28BD"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "C1FD1A12-CC43-4BCE-BC5B-4E22EBD84CA5"
+    }
+  ],
+  "name": "Section (Navigation)",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "550BA5C0-7309-48E0-986E-A3616FBA4FF4",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

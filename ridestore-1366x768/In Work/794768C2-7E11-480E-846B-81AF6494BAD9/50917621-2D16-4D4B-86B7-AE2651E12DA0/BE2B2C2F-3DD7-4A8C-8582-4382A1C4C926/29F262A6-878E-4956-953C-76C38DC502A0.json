@@ -1,0 +1,68 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "29F262A6-878E-4956-953C-76C38DC502A0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2FDBFF5E-41D2-4131-A6AD-8886D8BD0B93",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "AA8DBDA4-FAAA-4D2C-A675-ABE6A427EE3B",
+    "height": 375,
+    "width": 246,
+    "x": 780,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Home/Main/Category with Image",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "EB039F81-E4E2-4449-975A-0C9F8565A76B",
+      "overrideName": "AE2A0EC3-474D-444B-B12C-2B94EF13F00F_stringValue",
+      "value": "Pants Men"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2E7543E7-8284-4500-969E-F04D4526010C",
+      "overrideName": "087E28EB-7C91-480C-BD2D-0F6D7D419FA1_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/7598425b7688f0da5eb58b068ec53e9c938c4199.png",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "76198EAB-D907-4F3F-853D-8BD38EF58462",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "E5B34258-5876-44D2-AE68-A13480590E79",
+  "verticalSpacing": 0
+}

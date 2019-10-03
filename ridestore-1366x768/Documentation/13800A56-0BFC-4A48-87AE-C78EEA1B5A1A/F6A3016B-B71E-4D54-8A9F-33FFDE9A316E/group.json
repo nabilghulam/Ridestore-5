@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "F6A3016B-B71E-4D54-8A9F-33FFDE9A316E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "81F36B33-68AA-4F87-AACD-7EC39D30A3BA",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4EC239B4-AB24-4E45-A0C6-670C638A9B14",
+    "height": 31,
+    "width": 32,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "E361A45A-1117-4510-A25E-547D0FD5460E"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "B5771329-FF1B-407D-B1DF-355416F87568"
+    },
+    {
+      "class": "group",
+      "id": "89988FE7-613A-487C-B8AA-71E014116C25"
+    }
+  ],
+  "name": "Icon/Categories/Jacket",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "704AF16E-40D9-41B5-BA53-90CCD8C44F36",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

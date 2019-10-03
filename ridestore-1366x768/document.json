@@ -1,0 +1,285 @@
+{
+  "_class": "document",
+  "assets": {
+    "_class": "assetCollection",
+    "colorAssets": [
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.1764705882352941,
+          "green": 0.1764705882352941,
+          "red": 0.1764705882352941
+        },
+        "name": "Primary"
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.9568627450980391,
+          "green": 0.9411764705882353,
+          "red": 0.9294117647058824
+        }
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "name": "Colorpicker/Black"
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.7176470588235294,
+          "green": 0.7019607843137254,
+          "red": 0.9450980392156862
+        },
+        "name": "Colorpicker/Pink"
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.2196078431372549,
+          "green": 0.196078431372549,
+          "red": 0.5490196078431373
+        },
+        "name": "Colorpicker/Wine"
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.2117647058823529,
+          "green": 0.2627450980392157,
+          "red": 0.9568627450980391
+        },
+        "name": "Colorpicker/Red"
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.9176470588235294,
+          "green": 0.9176470588235294,
+          "red": 0.9176470588235294
+        },
+        "name": "Colorpicker/Grey"
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.392156862745098,
+          "green": 0.2705882352941176,
+          "red": 0.2392156862745098
+        },
+        "name": "Colorpicker/Navy"
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.9019607843137255,
+          "green": 0.6235294117647059,
+          "red": 0.2980392156862745
+        },
+        "name": "Colorpicker/Blue"
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.3028192934782609,
+          "green": 0.3028192934782609,
+          "red": 0.3028192934782609
+        },
+        "name": "Paragraphs"
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.5185405344202898,
+          "green": 0.5185405344202898,
+          "red": 0.5185405344202898
+        },
+        "name": "Input/Placeholder"
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.5185405344202898,
+          "green": 0.5185405344202898,
+          "red": 0.5185405344202898
+        },
+        "name": "Link/Inactive"
+      }
+    ],
+    "colors": [
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.1764705882352941,
+        "green": 0.1764705882352941,
+        "red": 0.1764705882352941
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.9568627450980391,
+        "green": 0.9411764705882353,
+        "red": 0.9294117647058824
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0,
+        "green": 0,
+        "red": 0
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.7176470588235294,
+        "green": 0.7019607843137254,
+        "red": 0.9450980392156862
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.2196078431372549,
+        "green": 0.196078431372549,
+        "red": 0.5490196078431373
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.2117647058823529,
+        "green": 0.2627450980392157,
+        "red": 0.9568627450980391
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.9176470588235294,
+        "green": 0.9176470588235294,
+        "red": 0.9176470588235294
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.392156862745098,
+        "green": 0.2705882352941176,
+        "red": 0.2392156862745098
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.9019607843137255,
+        "green": 0.6235294117647059,
+        "red": 0.2980392156862745
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.3028192934782609,
+        "green": 0.3028192934782609,
+        "red": 0.3028192934782609
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.5185405344202898,
+        "green": 0.5185405344202898,
+        "red": 0.5185405344202898
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.5185405344202898,
+        "green": 0.5185405344202898,
+        "red": 0.5185405344202898
+      }
+    ],
+    "gradientAssets": [
+    ],
+    "gradients": [
+    ],
+    "imageCollection": {
+      "_class": "imageCollection",
+      "images": {
+      }
+    },
+    "images": [
+      {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/6c03feeee4cfbb0eaed0d2a240797c98a277e21d.png",
+        "_ref_class": "MSImageData"
+      },
+      {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/5144ec1ada1ac95843cc02ed5ab6823666946f0c.png",
+        "_ref_class": "MSImageData"
+      }
+    ]
+  },
+  "colorSpace": 0,
+  "do_objectID": "3FD85A5A-FEB2-4A8D-9AA1-5A396D86E49D",
+  "foreignLayerStyles": [
+  ],
+  "foreignSymbols": [
+  ],
+  "foreignTextStyles": [
+  ],
+  "layerSymbols": {
+    "_class": "symbolContainer",
+    "objects": [
+    ]
+  },
+  "meta": {
+    "appVersion": "57.1",
+    "build": 83088,
+    "version": 119
+  },
+  "pages": [
+    "Main",
+    "Documentation",
+    "In Work",
+    "Symbols",
+    "Unused"
+  ],
+  "userInfo": {
+    "com.invision.dsm": {
+      "libraryMetadata": {
+        "5d64f77ec640908916156db8": {
+          "name": "Primary Brand",
+          "styleguideId": "5d64f77ec640908916156db8",
+          "updatedOn": "2019-09-20 00:08:53 +0000"
+        }
+      }
+    },
+    "com.invisionlabs.sync": {
+      "metadata": "{\"hasSynced\":0,\"hasProjectIdChanged\":0,\"projectId\":0,\"publicLink\":\"\",\"resolution\":2,\"syncAll\":1}"
+    }
+  }
+}

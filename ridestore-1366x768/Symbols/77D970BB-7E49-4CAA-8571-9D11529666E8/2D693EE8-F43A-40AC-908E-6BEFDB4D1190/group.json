@@ -1,0 +1,73 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "2D693EE8-F43A-40AC-908E-6BEFDB4D1190",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "CB7D217A-6AEE-46E3-9B61-64F3231F2024",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "995C2129-EB7F-43CD-84DC-B9CD408C444F",
+    "height": 13,
+    "width": 19,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "27F73F7E-46C0-413D-B93F-4561B3FBDDF0"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "3BCBBB00-3A7D-4DEE-91C7-7CAF260BFF97"
+    },
+    {
+      "class": "rectangle",
+      "id": "22EE28B6-569B-4C7A-A30C-D2A04594372E"
+    },
+    {
+      "class": "rectangle",
+      "id": "A15BF08B-F022-4017-86E2-90D46DE18FD1"
+    },
+    {
+      "class": "rectangle",
+      "id": "2EA7AEDB-388E-448A-8F02-81C9D9C486B6"
+    },
+    {
+      "class": "rectangle",
+      "id": "6E4AC54B-6DBF-43B0-B85D-013DECA73457"
+    }
+  ],
+  "name": "Flag/Norway",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "58A4D870-22C1-40F4-B64C-961950622174",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

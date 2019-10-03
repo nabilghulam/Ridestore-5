@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "521C439B-4C2D-470F-BF4E-CB2D15C4E237",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7A16B111-EF90-4634-8C27-3AE4A3D2FD9F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "BE138D53-46ED-4092-99C7-A75A5FDE3812",
+    "height": 13,
+    "width": 20,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "CBC42DCD-24BA-45F1-958E-BBCAD12704D4"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "2DE7BC66-A5AC-4994-ACAA-94D1A25F062F"
+    },
+    {
+      "class": "rectangle",
+      "id": "BC581350-3222-4042-BD82-CF4C9DF1A70A"
+    },
+    {
+      "class": "rectangle",
+      "id": "BE05EDE0-5606-4E06-AC77-D85E6B2926C6"
+    }
+  ],
+  "name": "Flag/France",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9513787F-D6D0-4E67-BA35-3F42D65EFDEF",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "A37FA23F-3AE5-418A-BDD8-049823116204",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "81EB8910-E5EA-44E1-ACE8-E4DCA6686387",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B67DC610-767E-4B6C-BEB2-5A2E9BADDB61",
+    "height": 438,
+    "width": 376,
+    "x": 1,
+    "y": 55
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "BC96D126-233D-47C9-9BC3-1ED789D323DB"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "77EF7DA2-E3B8-450B-8A06-2187A9D8176E"
+    }
+  ],
+  "name": "Row (Features)",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B6FD40D1-BDF6-4A45-8D0D-6B9DCA69DA95",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

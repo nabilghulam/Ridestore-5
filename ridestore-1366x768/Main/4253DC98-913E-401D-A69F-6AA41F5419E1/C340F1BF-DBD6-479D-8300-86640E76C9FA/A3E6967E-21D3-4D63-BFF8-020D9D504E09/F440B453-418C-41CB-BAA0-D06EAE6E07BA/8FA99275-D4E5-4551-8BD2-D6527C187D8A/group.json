@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "8FA99275-D4E5-4551-8BD2-D6527C187D8A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "62D74088-18A7-457F-84E6-75F653701A04",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "62BBB99D-2678-4D08-9BAE-EEDB5A993347",
+    "height": 24,
+    "width": 40,
+    "x": 279,
+    "y": 23
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "2A94F1DB-5B74-43BC-80FA-3EB9CC6C1B30"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "7DF488BB-4764-434E-96F5-3A1F286E3756"
+    },
+    {
+      "class": "text",
+      "id": "199B494A-2E05-4210-BA86-0AA90D3D9932"
+    }
+  ],
+  "name": "icon-ma-vector-chat-gif",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "664F251A-FA65-4512-82AF-93226AB4D6F1",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

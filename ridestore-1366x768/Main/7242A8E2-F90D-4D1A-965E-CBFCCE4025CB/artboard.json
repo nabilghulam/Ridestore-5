@@ -1,0 +1,104 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "9A98FD6D-8416-4582-83B4-B3F794F1DB1D",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "7242A8E2-F90D-4D1A-965E-CBFCCE4025CB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "01EE0FCB-2CE2-45A1-8CD5-22B2B750D6C0",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6B6EEA7B-854B-49A2-B58D-B07F23DB18D8",
+    "height": 3436,
+    "width": 1366,
+    "x": 443,
+    "y": 12423
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "D4535602-B3A6-458A-9EA7-B61216C05578"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "6AD2BD7A-A43F-4F6E-A912-341ACFE631DB",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "7D3E5669-5EB4-411C-9C7D-9A34478535FE"
+    },
+    {
+      "class": "group",
+      "id": "71DCE23C-8226-4D39-8784-9A8444B9BF69"
+    },
+    {
+      "class": "group",
+      "id": "62809574-2243-4030-9450-728884BE95B8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "57B6E679-D126-40BD-8812-33B6041137D8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4FE60654-ED28-48C3-A3E3-D17BD1B36F97"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C89DDA57-9328-4962-9688-1B1C7F15C69B"
+    }
+  ],
+  "name": "Brands/Brand",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "89A705A1-CD9E-44A7-B927-8D3AEB4352DF",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "54E2E85C-5AD5-4469-BAA0-BB0B32D27EB3",
+    "guides": [
+    ]
+  }
+}

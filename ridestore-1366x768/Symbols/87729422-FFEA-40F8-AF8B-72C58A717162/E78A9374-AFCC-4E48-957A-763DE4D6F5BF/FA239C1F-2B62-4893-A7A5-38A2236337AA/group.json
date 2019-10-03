@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "FA239C1F-2B62-4893-A7A5-38A2236337AA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F42F78A0-9CC0-49F5-A751-0A5BCAC801AF",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F494A8FB-4D10-4B0B-B54C-81351632C8B6",
+    "height": 377,
+    "width": 342,
+    "x": 914,
+    "y": 400
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "64C737EC-3404-4361-8670-93D51FE4AC0A"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "7D9986D7-A445-4C6C-B90A-5A930DF1EB45"
+    },
+    {
+      "class": "group",
+      "id": "166F0E48-7C8B-4698-BE53-27303EC2C310"
+    }
+  ],
+  "name": "Row (Out of Stock)",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F4294456-6A33-4021-8279-E031CCEEB2AF",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

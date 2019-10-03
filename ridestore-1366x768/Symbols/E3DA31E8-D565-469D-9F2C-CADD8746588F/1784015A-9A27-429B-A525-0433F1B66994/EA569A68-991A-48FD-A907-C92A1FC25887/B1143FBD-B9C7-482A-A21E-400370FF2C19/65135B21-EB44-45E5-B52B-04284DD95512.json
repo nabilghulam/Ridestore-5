@@ -1,0 +1,67 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "65135B21-EB44-45E5-B52B-04284DD95512",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 102,
+    "width": 420,
+    "x": 50,
+    "y": 223
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Heros/Text/Left/Small",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3ABE6210-DA82-4BFD-BB9F-F4C27374F044",
+      "overrideName": "F72B3E51-5A39-4827-900D-7D54D6A2A6DE_stringValue",
+      "value": "Stylecreator"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5856EF30-103A-46EA-B852-0B273F4EBF3B",
+      "overrideName": "B599412A-4019-40B4-9578-D08CCC3D3DE1_stringValue",
+      "value": "Create your own styles"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A5854F81-7DC2-44C5-9F2D-FF5F951FA620",
+      "overrideName": "D3FE5685-1317-4634-AB81-95ABBFCB7B12_stringValue",
+      "value": "Stylecreator"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "35D29D35-C443-4687-9376-321A68681656",
+  "verticalSpacing": 0
+}

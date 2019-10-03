@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "CF006B69-A0A2-4B5F-BEB9-8ED028D07F23",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "19738686-98BD-4C16-A49A-124FFF70C8B0",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7AAEDF6A-A009-4640-B45F-C7BE9133F351",
+    "height": 31,
+    "width": 32,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "00E1972F-7488-49F5-A4C0-DEDC9E6803B7"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "A47010D5-0D8D-462D-BD2F-E4E91D538977"
+    },
+    {
+      "class": "group",
+      "id": "CA41423A-87FD-4AFF-A445-428184829F02"
+    }
+  ],
+  "name": "Icon/Categories/Camera",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8399DE2E-7370-4E72-A4C1-AFDB4FCE15B6",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

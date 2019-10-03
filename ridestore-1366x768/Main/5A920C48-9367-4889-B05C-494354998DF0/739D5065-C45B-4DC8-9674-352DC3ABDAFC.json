@@ -1,0 +1,119 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "739D5065-C45B-4DC8-9674-352DC3ABDAFC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 609,
+    "width": 1366,
+    "x": 0,
+    "y": 110
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Gallery",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "69F20C86-029C-4EE2-87E6-188719247A5D_stringValue",
+      "value": "Our all time most popular snow jacket, in a new updated version. We kept the clean and humble design everyone..."
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "F66B4BE6-AB98-4D9B-A51A-87C76706EB28_stringValue",
+      "value": "100 Glacier 1/4"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "9914493A-1E04-4ABD-8FDF-D401BA48E0B3_stringValue",
+      "value": "The North Face"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "AB8196AC-7BCE-482C-BCA4-0DC4C85BFA37_stringValue",
+      "value": "549 sek"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "B5499C81-B0D3-44D8-938D-67C22909A5D1_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/ce72b712fe54589dd2578d14f4be69ab81f8236d.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "72D8458C-AF36-4985-84F3-E385A5AC9CB0_symbolID",
+      "value": "66B41F27-60EE-4636-93AC-C2035B4D6F51"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "D6EFED8C-8E7D-4E7E-92E9-228689C3557C_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/26e8515a45140815912972def1141960384c1c83.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "01E84460-E9DF-4124-AB20-3DBB86C2AA67_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/73d18a5b8a5c53bc0b4006df83df38646cb92ac5.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "7352AC53-1F54-42EC-B115-0260EB76553E_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/8f992f3d9b717f17b9a471966969baabd6998358.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "ADD39E0C-CC88-43BC-BCAA-6ECFF81EE3D2_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/492657b63c7db89537a8d75a13f3ddfb1ee65145.png",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "315F7CE7-C92C-4FB5-B92B-788E0A424885",
+  "verticalSpacing": 0
+}

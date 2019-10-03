@@ -1,0 +1,89 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "8B5503F2-7045-4CC9-8825-120F3F4C86FA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0D3E4714-40DD-45CE-874D-025CF0208D5D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B08C3CF8-133D-4590-973E-D8F1F82BF38D",
+    "height": 522,
+    "width": 500,
+    "x": 433,
+    "y": 232
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "7D9A782B-7E07-467E-8176-C95AAC844782"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "C75FC459-9158-40E7-94F5-356BFAE136A2"
+    },
+    {
+      "class": "group",
+      "id": "8CDDB4E9-0025-453D-A44D-DDB6E9E2037B"
+    },
+    {
+      "class": "group",
+      "id": "06B7927E-BCFE-49D0-885B-518551C71363"
+    },
+    {
+      "class": "group",
+      "id": "1EEF2350-CC43-479C-B359-01C0EF629DE8"
+    },
+    {
+      "class": "rectangle",
+      "id": "8B887918-F1D9-4244-B0DA-70C88B6B8E4B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BCEFACA0-3407-4E5E-85C4-C10DC59638AF"
+    },
+    {
+      "class": "text",
+      "id": "DE14F062-331A-4F14-8B82-7F4A15481137"
+    },
+    {
+      "class": "text",
+      "id": "3575EEF3-FD91-404F-9C69-B64ABF45D405"
+    },
+    {
+      "class": "group",
+      "id": "BD31EF0F-F488-48F2-A661-A0B118A1E4CE"
+    }
+  ],
+  "name": "Categories/Filter/Feedback",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4151F000-E23C-4CFD-851F-933D351392D0",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

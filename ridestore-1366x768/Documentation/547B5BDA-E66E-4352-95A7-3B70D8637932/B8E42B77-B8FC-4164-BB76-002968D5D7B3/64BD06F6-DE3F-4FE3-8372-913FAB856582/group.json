@@ -1,0 +1,78 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "64BD06F6-DE3F-4FE3-8372-913FAB856582",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8BC27720-60D4-4270-ADC1-531F519425AC",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1C33B656-35CC-44B3-8CBF-99D509FFCDFC",
+    "height": 17,
+    "width": 30,
+    "x": 1,
+    "y": 7
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "0F6A8832-4C91-4156-8060-24C547DD8764"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "BA19EF45-BFA9-443A-8587-3DC8CF55958A"
+    },
+    {
+      "class": "shapePath",
+      "id": "349E11CB-008D-47DE-A8AB-0227DA9F595A"
+    },
+    {
+      "class": "shapePath",
+      "id": "2B8A0440-591B-4886-AC7F-B7672433F710"
+    },
+    {
+      "class": "shapePath",
+      "id": "E86E41F6-09BF-4148-81CE-CFAC41DF9F0B"
+    }
+  ],
+  "name": "icon-ca-belts",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "820D6730-1729-4828-848B-DD033CC19B74",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

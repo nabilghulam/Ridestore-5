@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "A23EFA3F-E155-49A7-BD0C-3AF92E412184",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "10B464CC-3903-4467-BAD7-361F726775EF",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5DFDC36F-231D-427F-976A-2235CD8B4334",
+    "height": 60,
+    "width": 200,
+    "x": 600,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Categories/Filter/Dropdown",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7B62D4A0-54DB-4064-B614-4CAA9C4194F3",
+      "overrideName": "B3A363C9-B5E8-4428-8DAE-442A38DEBF2C_stringValue",
+      "value": "Färg"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6B7A6407-124F-48F4-84BD-B04DAD3C5A0A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "51008469-2E26-4699-B0CA-8BF0C26F3922",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "590FD18F-7F68-4690-A984-612F76EFA4E3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "789550E8-E832-427B-9EBE-46104726C800",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "77672ABC-1505-4736-968B-ACDD98D8EC98",
+    "height": 73,
+    "width": 48,
+    "x": 15,
+    "y": 25
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "E84E45FD-94D9-4707-A6F4-164ED549E38E"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "C933E504-F3A3-4BF3-9F38-2F563C78915D"
+    },
+    {
+      "class": "text",
+      "id": "1916049F-3916-499C-AFAA-F812DA4B6C11"
+    }
+  ],
+  "name": "Letter",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "96C00CF6-91F0-432E-8340-AD51031CED88",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

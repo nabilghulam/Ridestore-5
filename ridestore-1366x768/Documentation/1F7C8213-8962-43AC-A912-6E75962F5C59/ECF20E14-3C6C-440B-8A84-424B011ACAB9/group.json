@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "ECF20E14-3C6C-440B-8A84-424B011ACAB9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D3E73F73-4C83-433B-8E6B-C4EFE3A67D51",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9A1255D2-0D19-4BD2-916D-B0BDD6E43A27",
+    "height": 31,
+    "width": 32,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "03D5FFB3-A1DE-4825-8B0E-2C8055500BC3"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "F32D15BF-5AFB-4B0A-9E07-2BFCAAA03F34"
+    },
+    {
+      "class": "group",
+      "id": "2E66B52A-CCE8-467F-8874-8A003A8AB436"
+    }
+  ],
+  "name": "Icon/Categories/Giftcard",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0EECB312-CB40-4C08-A4FD-EFAF93EACDDD",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

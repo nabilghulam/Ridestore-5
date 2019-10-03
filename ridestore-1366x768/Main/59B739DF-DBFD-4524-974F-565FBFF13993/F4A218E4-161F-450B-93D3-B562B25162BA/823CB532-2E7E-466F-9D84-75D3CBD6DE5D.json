@@ -1,0 +1,70 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "823CB532-2E7E-466F-9D84-75D3CBD6DE5D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B8473DDC-A1E8-4EF8-94E6-EFA067E066A0",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "23781A15-0015-483B-9E0B-D09B13870B3A",
+    "height": 16,
+    "width": 1808,
+    "x": 278,
+    "y": 20
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Breadcrumbs",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A4699416-5DD9-431A-9E0E-1A436B4BFC6E",
+      "overrideName": "B7D64B43-B5DA-417A-A9B9-C3B839DA2CE6_stringValue",
+      "value": "Women"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "EA3F56D4-3DB7-4DFC-B08B-6371D2CAA786",
+      "overrideName": "5801E5B9-BDD9-4567-8829-5C9B965279A8_stringValue",
+      "value": "Brands"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0579258A-4C59-4DB7-93DB-4BBCBC0533AE",
+      "overrideName": "289B980D-7C50-4A6D-97F8-73BCF430C680_stringValue",
+      "value": "Adidas Originals"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6984CC29-1CC1-4254-93CC-B18849438F13",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "12291E06-3D88-4717-B0D2-A9316CC68579",
+  "verticalSpacing": 0
+}

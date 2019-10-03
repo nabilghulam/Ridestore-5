@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "EAC2FD17-9098-4E7A-AFF9-8F602E0D4B03",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "714FA673-10AD-4DAC-BDDB-A21020E70328",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "14531F53-4FCE-46A6-A25B-AFCE97D60EFF",
+    "height": 50,
+    "width": 220,
+    "x": 148,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Item (Feature)",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2B9AD267-7986-4071-BE95-62F6239C3D0E",
+      "overrideName": "25B3CCF3-DB53-4DFE-8F0A-387AB77F968C_stringValue",
+      "value": "Black Champagne"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2E776234-E6E1-4D58-8F5D-D5AD1D10FE82",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "DBF02979-3F6A-4ADE-86DD-4F659C651F63",
+  "verticalSpacing": 0
+}

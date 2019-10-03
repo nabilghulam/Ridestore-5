@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "661E21CC-909B-4423-946A-4A7AD83E0BF4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "DBBCCE65-11A3-4A3E-B338-9BB5BC090BFE",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6378A4AF-493A-48E7-8EC1-9141E2DF05CE",
+    "height": 31,
+    "width": 32,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "FA9030BA-9842-4CB1-960E-BD18E136DCBB"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "03292EBA-20F0-4247-BE9B-46FD221EF6AD"
+    },
+    {
+      "class": "group",
+      "id": "3A812C6F-FBB9-4A91-9EDC-F5BD770FFC98"
+    }
+  ],
+  "name": "Icon/Categories/Neck Protector",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "914808E7-AFF5-4E46-A9E1-40AA6EE2EBE1",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
